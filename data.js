@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2025-12-16 02:38",
+  "update_time": "2025-12-16 03:23",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -58,24 +58,17 @@ window.SHU_DATA = {
       "tag": "official"
     },
     {
+      "title": "【中国科学报】永怀爱国之心 ——纪念“两弹一星”元勋郭永怀",
+      "url": "http://news.ustc.edu.cn/info/1056/74957.htm",
+      "source": "中国科学技术大学中国科大新闻网",
+      "time": "",
+      "tag": "media"
+    },
+    {
       "title": "让机器人“看得更清、反应更快”——仿生眼技术将加快机器人产业...",
       "url": "https://www.stdaily.com/web/gdxw/2025-04/13/content_323895.html",
       "source": "中国科技网",
       "time": "4月13日",
-      "tag": "media"
-    },
-    {
-      "title": "科学网—概念验证,让更多科技成果从实验室“起飞”",
-      "url": "https://news.sciencenet.cn/sbhtmlnews/2025/4/384114.shtm",
-      "source": "科学网",
-      "time": "4月14日",
-      "tag": "media"
-    },
-    {
-      "title": "...引领环境监测变革风暴——ACCSI2025人工智能与科学仪器融合...",
-      "url": "https://www.instrument.com.cn/news/20250429/780601.shtml",
-      "source": "仪器信息网",
-      "time": "4月27日",
       "tag": "media"
     },
     {
@@ -90,13 +83,6 @@ window.SHU_DATA = {
       "url": "https://www.stdaily.com/web/gdxw/2025-09/23/content_406200.html",
       "source": "中国科技网",
       "time": "9月23日",
-      "tag": "media"
-    },
-    {
-      "title": "钱伟长逝世-新闻专题-科学网",
-      "url": "https://news.sciencenet.cn/news/sub2.aspx?id=388",
-      "source": "科学网",
-      "time": "",
       "tag": "media"
     },
     {
