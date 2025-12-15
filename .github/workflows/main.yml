@@ -1,0 +1,42 @@
+name: Update SHU News
+
+on:
+  schedule:
+    # 核心：定时设置。这里设置为每小时的第 15 分钟运行一次
+    # 注意：GitHub Actions 的时间是 UTC 时间，比北京时间晚8小时，但不影响循环间隔
+    - cron: '15 * * * *'
+  # 允许手动点击按钮触发（方便测试）
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+
+    - name: Run spider
+      run: |
+        python spider.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'GitHub Action'
+        git config --global user.email 'action@github.com'
+        git add data.js
+        # 如果有变动才提交，没变动不报错
+        git commit -m "Auto-update news data" || exit 0
+        git push
