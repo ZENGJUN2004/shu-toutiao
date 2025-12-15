@@ -72,68 +72,89 @@
 </div>
 
 <script>
-    // 动态加载 data.js，并加上当前时间戳，彻底禁用缓存
+    // 1. 创建动态脚本加载器
     var script = document.createElement('script');
+    // 加上时间戳，保证每次都从服务器拿最新的，绝不读缓存
     script.src = 'data.js?v=' + new Date().getTime();
-    document.body.appendChild(script);
-</script>
-
-<script>
-    document.addEventListener('DOMContentLoaded', () => {
-        const feed = document.getElementById('news-feed');
-        const timeBadge = document.getElementById('update-time');
-
-        // 1. 检查数据是否存在
+    
+    // 2. 关键点：定义“加载完成后做什么”
+    script.onload = function() {
+        console.log("数据文件加载成功！");
+        
+        // 只有在这里（文件回来后），才能去读 SHU_DATA
         if (typeof window.SHU_DATA === 'undefined' || !window.SHU_DATA.news) {
-            feed.innerHTML = `
-                <div class="status-msg">
-                    ⚠️ 暂无数据<br><br>
-                    <small>如果是刚部署到 GitHub，请等待 15-30 分钟让爬虫首次运行。</small>
-                </div>
-            `;
+            // 如果文件加载了，但变量还是空的，说明文件内容坏了
+            document.getElementById('news-feed').innerHTML = '<div class="loading">⚠️ 数据加载异常<br>请检查 data.js 格式</div>';
+        } else {
+            // 数据一切正常，开始渲染！
+            var allData = window.SHU_DATA.news;
+            
+            // 更新顶部时间
+            var timeInfo = document.getElementById('update-info');
+            if(timeInfo) {
+                // 如果后端有时差，这里只取日期部分，或者直接显示
+                timeInfo.textContent = "更新时间: " + (window.SHU_DATA.update_time || "刚刚");
+            }
+            
+            // 渲染列表
+            render(allData);
+        }
+    };
+
+    // 3. 处理加载失败的情况（比如网络断了）
+    script.onerror = function() {
+        document.getElementById('news-feed').innerHTML = '<div class="loading">❌ 网络连接失败<br>无法读取 data.js</div>';
+    };
+
+    // 4. 最后才把脚本插到页面里，开始下载
+    document.body.appendChild(script);
+
+    // --- 渲染函数保持不变 ---
+    function render(data) {
+        const feed = document.getElementById('news-feed');
+        feed.innerHTML = ''; // 清空载入动画
+
+        if (!data || data.length === 0) {
+            feed.innerHTML = '<div class="loading">暂无数据</div>';
             return;
         }
 
-        // 2. 更新时间
-        // 只显示时间部分 (HH:MM) 让界面更清爽
-        const fullTime = window.SHU_DATA.update_time || "";
-        const shortTime = fullTime.split(" ")[1] || fullTime; 
-        timeBadge.textContent = shortTime + " 更新";
+        data.forEach(item => {
+            // 简单防错
+            if(!item.title) return;
 
-        // 3. 渲染列表
-        feed.innerHTML = ''; // 清空加载提示
-        
-        window.SHU_DATA.news.forEach(item => {
-            // 智能标签逻辑
-            let tagType = 'media';
-            let tagName = item.source || '互联网';
+            const el = document.createElement('a');
+            el.className = 'card';
+            el.href = item.url || '#';
+            el.target = "_blank";
             
-            if (tagName.includes('官网') || tagName.includes('上大')) { tagType = 'official'; }
-            else if (tagName.includes('Bilibili') || tagName.includes('视频')) { tagType = 'video'; }
-            else if (tagName.includes('知乎') || tagName.includes('微博') || tagName.includes('贴吧')) { tagType = 'forum'; }
+            // 根据 tag 决定颜色（兼容新旧版本）
+            let tagClass = 'tag-other';
+            let tagName = '资讯';
+            
+            if(item.tag === 'official') { tagClass = 'tag-meeting'; tagName = '官网'; }
+            else if(item.tag === 'media') { tagClass = 'tag-activity'; tagName = '媒体'; }
+            else if(item.tag === 'video') { tagClass = 'tag-voice'; tagName = '视频'; }
+            else if(item.tag === 'forum') { tagClass = 'tag-voice'; tagName = '讨论'; }
+            else if(item.category) { 
+                // 兼容文学动态的分类
+                tagName = {'meeting':'会议','voice':'声音','activity':'活动'}[item.category] || '动态';
+                tagClass = 'tag-' + item.category;
+            }
 
-            // 创建卡片
-            const card = document.createElement('a');
-            card.className = 'card';
-            card.href = item.url;
-            card.target = "_blank"; // 在新窗口打开
-
-            // 针对“左边框颜色”做一点动态效果
-            if(tagType === 'official') card.style.borderLeftColor = '#d32f2f';
-            if(tagType === 'video') card.style.borderLeftColor = '#f57c00';
-
-            card.innerHTML = `
+            el.innerHTML = `
                 <div class="card-title">${item.title}</div>
-                <div class="card-meta">
-                    <span class="tag ${tagType}">${tagName}</span>
-                    <span>${item.time}</span>
+                <div class="card-info">
+                    <span><span class="tag ${tagClass}">${tagName}</span>${item.source || '网络'}</span>
+                    <span>${item.time || '近期'}</span>
                 </div>
             `;
-            feed.appendChild(card);
+            feed.appendChild(el);
         });
-    });
+    }
 </script>
 
 </body>
 
 </html>
+
