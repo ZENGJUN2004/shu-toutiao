@@ -71,7 +71,12 @@
     </div>
 </div>
 
-<script src="data.js"></script>
+<script>
+    // 动态加载 data.js，并加上当前时间戳，彻底禁用缓存
+    var script = document.createElement('script');
+    script.src = 'data.js?v=' + new Date().getTime();
+    document.body.appendChild(script);
+</script>
 
 <script>
     document.addEventListener('DOMContentLoaded', () => {
@@ -130,4 +135,5 @@
 </script>
 
 </body>
+
 </html>
