@@ -2,83 +2,132 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>上大头条 | 调试模式</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>上大头条 | 实时舆情聚合</title>
     <style>
-        body { font-family: sans-serif; max-width: 600px; margin: 20px auto; background: #f4f5f6; }
-        .card { background: white; padding: 15px; margin-bottom: 10px; border-radius: 8px; box-shadow: 0 1px 2px rgba(0,0,0,0.1); }
-        .title { font-weight: bold; font-size: 1.1rem; color: #333; text-decoration: none; display: block; margin-bottom: 5px;}
-        .meta { font-size: 0.8rem; color: #888; }
-        .debug-box { background: #333; color: #0f0; padding: 15px; border-radius: 5px; font-family: monospace; margin-bottom: 20px; font-size: 0.9rem; }
-        .source-tag { display: inline-block; padding: 2px 6px; border-radius: 4px; color: white; margin-right: 5px; font-size: 0.7rem;}
-        .bg-red { background: #d32f2f; } /* 官网 */
-        .bg-blue { background: #1976d2; } /* 媒体 */
+        /* --- 基础样式 --- */
+        :root { --primary: #d32f2f; --bg: #f7f8fa; --card-bg: #fff; --text: #333; --meta: #999; }
+        body { margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; background-color: var(--bg); color: var(--text); -webkit-font-smoothing: antialiased; }
+        
+        /* 容器 */
+        .container { max-width: 600px; margin: 0 auto; min-height: 100vh; background: var(--bg); display: flex; flex-direction: column; }
+
+        /* 顶部导航 */
+        .header { background: var(--primary); color: #fff; padding: 15px; position: sticky; top: 0; z-index: 999; box-shadow: 0 2px 8px rgba(211, 47, 47, 0.3); display: flex; justify-content: space-between; align-items: center; }
+        .header h1 { margin: 0; font-size: 1.2rem; font-weight: 700; letter-spacing: 1px; }
+        .update-badge { font-size: 0.75rem; background: rgba(255,255,255,0.2); padding: 3px 8px; border-radius: 12px; }
+
+        /* 提示条 */
+        .notice { background: #e3f2fd; color: #1565c0; font-size: 0.8rem; padding: 10px 15px; display: flex; align-items: center; gap: 8px; }
+        .notice::before { content: "ℹ️"; }
+
+        /* 新闻列表 */
+        .feed { padding: 10px; flex: 1; }
+        
+        /* 卡片设计 */
+        .card { background: var(--card-bg); border-radius: 8px; padding: 16px; margin-bottom: 10px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); text-decoration: none; display: block; color: inherit; transition: transform 0.1s; border-left: 3px solid transparent; }
+        .card:active { background: #fafafa; transform: scale(0.99); }
+        
+        .card-title { font-size: 1.05rem; line-height: 1.5; font-weight: 500; margin-bottom: 8px; color: #222; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+        
+        .card-meta { display: flex; align-items: center; font-size: 0.75rem; color: var(--meta); gap: 8px; }
+        
+        /* 标签颜色系统 */
+        .tag { padding: 1px 6px; border-radius: 4px; font-weight: 500; font-size: 0.7rem; }
+        /* 官网 - 红色 */
+        .tag.official { color: #d32f2f; background: #ffebee; border: 1px solid #ffcdd2; }
+        /* 媒体 - 蓝色 */
+        .tag.media { color: #1976d2; background: #e3f2fd; border: 1px solid #bbdefb; }
+        /* 视频 - 橙色 */
+        .tag.video { color: #f57c00; background: #fff3e0; border: 1px solid #ffe0b2; }
+        /* 论坛 - 绿色 */
+        .tag.forum { color: #388e3c; background: #e8f5e9; border: 1px solid #c8e6c9; }
+
+        /* 底部 */
+        .footer { text-align: center; padding: 30px; color: #ccc; font-size: 0.75rem; }
+        
+        /* 加载与空状态 */
+        .status-msg { text-align: center; padding: 40px; color: #999; font-size: 0.9rem; }
     </style>
 </head>
 <body>
 
-    <h2>上大头条 (调试模式)</h2>
-    
-    <div id="debug-console" class="debug-box">正在自检...</div>
+<div class="container">
+    <header class="header">
+        <h1>上大头条</h1>
+        <div class="update-badge" id="update-time">更新中...</div>
+    </header>
 
-    <div id="news-list"></div>
+    <div class="notice">
+        聚合全网资讯，每小时自动更新
+    </div>
 
-    <script src="data.js"></script>
+    <div class="feed" id="news-feed">
+        <div class="status-msg">正在连接云端数据...</div>
+    </div>
 
-    <script>
-        const debugBox = document.getElementById('debug-console');
-        const newsList = document.getElementById('news-list');
+    <div class="footer">
+        Powered by SHU Digital Humanities Lab
+    </div>
+</div>
 
-        function log(msg) {
-            debugBox.innerHTML += ">> " + msg + "<br>";
+<script src="data.js"></script>
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const feed = document.getElementById('news-feed');
+        const timeBadge = document.getElementById('update-time');
+
+        // 1. 检查数据是否存在
+        if (typeof window.SHU_DATA === 'undefined' || !window.SHU_DATA.news) {
+            feed.innerHTML = `
+                <div class="status-msg">
+                    ⚠️ 暂无数据<br><br>
+                    <small>如果是刚部署到 GitHub，请等待 15-30 分钟让爬虫首次运行。</small>
+                </div>
+            `;
+            return;
         }
 
-        try {
-            log("第一步：检查 data.js 是否加载...");
+        // 2. 更新时间
+        // 只显示时间部分 (HH:MM) 让界面更清爽
+        const fullTime = window.SHU_DATA.update_time || "";
+        const shortTime = fullTime.split(" ")[1] || fullTime; 
+        timeBadge.textContent = shortTime + " 更新";
+
+        // 3. 渲染列表
+        feed.innerHTML = ''; // 清空加载提示
+        
+        window.SHU_DATA.news.forEach(item => {
+            // 智能标签逻辑
+            let tagType = 'media';
+            let tagName = item.source || '互联网';
             
-            if (typeof window.SHU_DATA === 'undefined') {
-                log("❌ 失败：浏览器没找到 window.SHU_DATA。");
-                log("原因可能为：");
-                log("1. data.js 文件不在 index.html 旁边。");
-                log("2. data.js 文件里有语法错误。");
-                throw new Error("数据未加载");
-            }
+            if (tagName.includes('官网') || tagName.includes('上大')) { tagType = 'official'; }
+            else if (tagName.includes('Bilibili') || tagName.includes('视频')) { tagType = 'video'; }
+            else if (tagName.includes('知乎') || tagName.includes('微博') || tagName.includes('贴吧')) { tagType = 'forum'; }
 
-            log("✅ 成功：找到数据对象。");
-            log("更新时间: " + window.SHU_DATA.update_time);
-            log("抓取数量: " + window.SHU_DATA.news.length + " 条");
+            // 创建卡片
+            const card = document.createElement('a');
+            card.className = 'card';
+            card.href = item.url;
+            card.target = "_blank"; // 在新窗口打开
 
-            log("第二步：开始渲染新闻...");
-            
-            if (window.SHU_DATA.news.length === 0) {
-                log("⚠️ 警告：数据列表是空的 (news is empty)。");
-            }
+            // 针对“左边框颜色”做一点动态效果
+            if(tagType === 'official') card.style.borderLeftColor = '#d32f2f';
+            if(tagType === 'video') card.style.borderLeftColor = '#f57c00';
 
-            window.SHU_DATA.news.forEach(item => {
-                const div = document.createElement('div');
-                div.className = 'card';
-                
-                // 简单的颜色区分
-                let colorClass = 'bg-blue';
-                if(item.source.includes('官网') || item.source.includes('上大')) colorClass = 'bg-red';
+            card.innerHTML = `
+                <div class="card-title">${item.title}</div>
+                <div class="card-meta">
+                    <span class="tag ${tagType}">${tagName}</span>
+                    <span>${item.time}</span>
+                </div>
+            `;
+            feed.appendChild(card);
+        });
+    });
+</script>
 
-                div.innerHTML = `
-                    <a href="${item.url}" target="_blank" class="title">${item.title}</a>
-                    <div class="meta">
-                        <span class="source-tag ${colorClass}">${item.source}</span>
-                        ${item.time}
-                    </div>
-                `;
-                newsList.appendChild(div);
-            });
-
-            log("✅ 渲染完成！如果下面有白框，说明成功了。");
-            // 3秒后隐藏调试框，让界面变干净
-            setTimeout(() => { debugBox.style.display = 'none'; }, 5000);
-
-        } catch (e) {
-            log("❌ 发生严重错误: " + e.message);
-        }
-    </script>
 </body>
 </html>
