@@ -1,0 +1,64 @@
+import requests
+from bs4 import BeautifulSoup
+import json
+import datetime
+
+# 目标：上海大学新闻网 (此处作为演示，实际可换成百度搜索结果页)
+URL = "https://news.shu.edu.cn/index/kydt.htm" # 例如：科研动态栏目
+
+def fetch_shu_news():
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+    }
+    
+    try:
+        response = requests.get(URL, headers=headers)
+        response.encoding = 'utf-8' # 确保中文不乱码
+        soup = BeautifulSoup(response.text, 'html.parser')
+        
+        news_list = []
+        
+        # 注意：这里的 find_all 参数需要根据实际网页结构调整
+        # 假设上大新闻网的文章列表在某个 class 为 'list' 的 ul 下
+        # 下面的选择器是假设性的，实际使用需按 F12 查看网页源码
+        articles = soup.find_all('li', limit=10) 
+        
+        for art in articles:
+            # 模拟提取逻辑
+            if art.find('a'):
+                title = art.find('a').get_text(strip=True)
+                link = "https://news.shu.edu.cn/" + art.find('a')['href']
+                time = datetime.datetime.now().strftime("%H:%M") # 暂用当前时间
+                
+                news_list.append({
+                    "title": title,
+                    "source": "上大官网",
+                    "time": time,
+                    "tag": "最新",
+                    "url": link
+                })
+        
+        return news_list
+
+    except Exception as e:
+        print(f"抓取失败: {e}")
+        return []
+
+# 获取数据
+data = fetch_shu_news()
+
+# 这里有两种方案：
+# 方案 A: 保存为 JSON，前端通过 fetch() 读取 (需要本地服务器)
+# 方案 B: 直接生成一个新的 HTML 文件 (最简单，双击即可打开)
+
+if data:
+    # 读取模板（即上面的 index.html 内容，假设存为 template.html）
+    # 这里为了演示，我们直接生成一个 JS 文件供 HTML 引用
+    js_content = f"const mockData = {json.dumps(data, ensure_ascii=False)};"
+    
+    with open("data.js", "w", encoding="utf-8") as f:
+        f.write(js_content)
+    
+    print("更新成功！请打开 index.html 查看最新内容。")
+else:
+    print("未获取到数据。")

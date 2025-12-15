@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>上大头条 | 调试模式</title>
+    <style>
+        body { font-family: sans-serif; max-width: 600px; margin: 20px auto; background: #f4f5f6; }
+        .card { background: white; padding: 15px; margin-bottom: 10px; border-radius: 8px; box-shadow: 0 1px 2px rgba(0,0,0,0.1); }
+        .title { font-weight: bold; font-size: 1.1rem; color: #333; text-decoration: none; display: block; margin-bottom: 5px;}
+        .meta { font-size: 0.8rem; color: #888; }
+        .debug-box { background: #333; color: #0f0; padding: 15px; border-radius: 5px; font-family: monospace; margin-bottom: 20px; font-size: 0.9rem; }
+        .source-tag { display: inline-block; padding: 2px 6px; border-radius: 4px; color: white; margin-right: 5px; font-size: 0.7rem;}
+        .bg-red { background: #d32f2f; } /* 官网 */
+        .bg-blue { background: #1976d2; } /* 媒体 */
+    </style>
+</head>
+<body>
+
+    <h2>上大头条 (调试模式)</h2>
+    
+    <div id="debug-console" class="debug-box">正在自检...</div>
+
+    <div id="news-list"></div>
+
+    <script src="data.js"></script>
+
+    <script>
+        const debugBox = document.getElementById('debug-console');
+        const newsList = document.getElementById('news-list');
+
+        function log(msg) {
+            debugBox.innerHTML += ">> " + msg + "<br>";
+        }
+
+        try {
+            log("第一步：检查 data.js 是否加载...");
+            
+            if (typeof window.SHU_DATA === 'undefined') {
+                log("❌ 失败：浏览器没找到 window.SHU_DATA。");
+                log("原因可能为：");
+                log("1. data.js 文件不在 index.html 旁边。");
+                log("2. data.js 文件里有语法错误。");
+                throw new Error("数据未加载");
+            }
+
+            log("✅ 成功：找到数据对象。");
+            log("更新时间: " + window.SHU_DATA.update_time);
+            log("抓取数量: " + window.SHU_DATA.news.length + " 条");
+
+            log("第二步：开始渲染新闻...");
+            
+            if (window.SHU_DATA.news.length === 0) {
+                log("⚠️ 警告：数据列表是空的 (news is empty)。");
+            }
+
+            window.SHU_DATA.news.forEach(item => {
+                const div = document.createElement('div');
+                div.className = 'card';
+                
+                // 简单的颜色区分
+                let colorClass = 'bg-blue';
+                if(item.source.includes('官网') || item.source.includes('上大')) colorClass = 'bg-red';
+
+                div.innerHTML = `
+                    <a href="${item.url}" target="_blank" class="title">${item.title}</a>
+                    <div class="meta">
+                        <span class="source-tag ${colorClass}">${item.source}</span>
+                        ${item.time}
+                    </div>
+                `;
+                newsList.appendChild(div);
+            });
+
+            log("✅ 渲染完成！如果下面有白框，说明成功了。");
+            // 3秒后隐藏调试框，让界面变干净
+            setTimeout(() => { debugBox.style.display = 'none'; }, 5000);
+
+        } catch (e) {
+            log("❌ 发生严重错误: " + e.message);
+        }
+    </script>
+</body>
+</html>

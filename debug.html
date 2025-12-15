@@ -1,0 +1,661 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh-CN">
+<head id="Head">
+<!--**********************************************************************************-->
+<!-- DotNetNuke?- http://www.dotnetnuke.com                                          -->
+<!-- Copyright (c) 2002-2008                                                          -->
+<!-- by DotNetNuke Corporation                                                        -->
+<!--**********************************************************************************-->
+
+<meta id="MetaCopyright" name="COPYRIGHT" content="Copyright 2010 by Hairun" />
+<meta id="MetaGenerator" name="GENERATOR" content="DotNetNuke " />
+<meta id="MetaAuthor" name="AUTHOR" content="上海大学新闻网" />
+<meta name="RESOURCE-TYPE" content="DOCUMENT" />
+<meta name="DISTRIBUTION" content="GLOBAL" />
+<meta name="ROBOTS" content="INDEX, FOLLOW" />
+<meta name="REVISIT-AFTER" content="1 DAYS" />
+<meta name="RATING" content="GENERAL" />
+<meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)" />
+<meta http-equiv="X-UA-Compatible" content="IE=IE7" />
+<style id="StylePlaceholder" type="text/css"></style>
+<link rel="alternate" type="application/rss+xml" title="Articles - RSS Feed" href="../DesktopModules/Articles/ArticlesRSS.aspx"></link>
+<link id="_DesktopModules_Articles" rel="stylesheet" type="text/css" href="../dfiles/11275/desktopmodules/articles/module.css" />
+<link id="_Portals__default_" rel="stylesheet" type="text/css" href="../dfiles/11275/portals/_default/default.css" />
+<link id="_Portals_6_" rel="stylesheet" type="text/css" href="../dfiles/11275/portals/6/portal.css" />
+
+
+<title>综合新闻-上海大学新闻网</title><meta name="pageType" content="2">
+<meta name="pageTitle" content="综合新闻">
+<META Name="keywords" Content="上海大学新闻网,综合新闻" />
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307468475d53575742000200034554 -->
+<link rel="stylesheet" type="text/css" href="../lby.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1012,'/lby.jsp',-1,1371344133)</script>
+</head>
+<body id="Body">
+    
+<script src="../dfiles/11275/4417d73e369fb48f042fed5de1438a7e_webresource.axd.js" type="text/javascript"></script>
+
+<script src="../dfiles/11275/js/dnncore.js" type="text/javascript"></script>
+<script language="javascript">
+var E_strIFaderTransType = 'reveal'; // 'reveal' | 'blend'
+var E_intIFaderRevealType = 23; // 1~23
+var E_intIFaderTransDuration = 3.000; // 3.0 seconds
+var E_intIFaderTransDelay = 3000; // 5 seconds
+
+var E_objTimer;
+var E_intCurrImg = 0;
+var E_aryObjFadingImgs = new Array();
+var E_ie4 = document.all ? true : false;
+var E_nn4 = document.layers ? true : false;
+var objID;
+function E_IFaderInit()
+{
+    if(!E_ie4 && !E_nn4) return;
+    if(E_ie4) {
+    
+        var theImg = document.all['idImgFading'];
+        if(theImg == null) return;
+        //idImgFading is the id of the img
+        with(document.all['idImgFading']) {
+            style.filter = (E_strIFaderTransType == 'reveal') ? 'revealTrans' : 'blendTrans';
+            style.filter.duration = E_intIFaderTransDuration;
+            style.filter.transition = E_intIFaderRevealType;
+        }
+    }
+    E_objTimer = window.setInterval('E_IFaderFade()', E_intIFaderTransDelay);
+}
+
+function E_IFaderFade()
+{
+    if(E_ie4) {
+        with(document.all['idImgFading']) {
+            if(E_strIFaderTransType == 'reveal') {
+                filters(0).transition = E_intIFaderRevealType;
+            }
+            if(E_intCurrImg == (E_aryObjFadingImgs.length - 1)) {
+                E_intCurrImg = -1;
+            }
+            E_intCurrImg++;
+            title = E_aryObjFadingImgs[E_intCurrImg].sAlt;
+    
+            filters(0).apply();
+            src = E_aryObjFadingImgs[E_intCurrImg].sImgUrl;
+            filters(0).play();
+        }
+        document.all("title").innerHTML=E_aryObjFadingImgs[E_intCurrImg].sAlt;
+    }
+    else if(E_nn4) {
+        if(E_intCurrImg == (E_aryObjFadingImgs.length - 1)) {
+            E_intCurrImg = -1;
+        }
+        E_intCurrImg++;
+        document.images['idImgFading'].src = E_aryObjFadingImgs[E_intCurrImg].sImgUrl;
+        document.all("title").innerHTML=E_aryObjFadingImgs[E_intCurrImg].sAlt;
+    }
+}
+
+function E_IFaderClick()
+{
+    var objCurrImg = E_aryObjFadingImgs[E_intCurrImg];
+    switch(typeof(objCurrImg.command)) {
+    case 'function':
+        objCurrImg.command();
+        break;
+    case 'string':
+        switch(objCurrImg.sTarget) {
+        case '_self':
+            self.location.href = objCurrImg.command;
+            break;
+        case '_blank':
+            window.open(objCurrImg.command);
+            break;
+        case '_parent':
+            parent.location.href = objCurrImg.command;
+            break;
+        case '_top':
+            top.location.href = objCurrImg.command;
+            break;
+        default:
+            window.open(objCurrImg.command, objCurrImg.sTarget);
+        }
+    }
+}
+
+function E_IFaderMouseover()
+{
+    window.status = E_aryObjFadingImgs[E_intCurrImg].sAlt;
+}
+
+function E_IFaderMouseout()
+{
+    window.status = '';
+}
+
+function E_IFaderClearTimer()
+{
+    window.clearInterval(E_objTimer);
+}
+window.onunload = E_IFaderClearTimer;
+
+function E_objFadingImg(sImgUrl, command, sAlt, sTarget)
+{
+    this.sImgUrl = (sImgUrl == null) ? '' : sImgUrl;
+    this.command = (command == null || command == '') ? 'http://#' : command;
+    this.sAlt = (sAlt == null) ? '' : sAlt;
+    this.sTarget = (sTarget == null || sTarget == '') ? '_self' : sTarget;
+}
+
+var aryImg = new Array(E_aryObjFadingImgs.length);
+for(i = 0; i < E_aryObjFadingImgs.length; i++) {
+    aryImg[i] = new Image();
+    aryImg[i].src = E_aryObjFadingImgs[i].sImgUrl;
+}
+E_aryObjFadingImgs[0] = new E_objFadingImg('DesktopModules/Articles/MakeThumbnail.aspx?Image=%2fPortals%2f6%2fImages%2fbwl1201612291649.jpg&tabid=338&w=270&h=180', '/Default.aspx?tabid=338&ctl=Details&mid=1036&ItemID=37370', '记录在胶片上的艺术——贝文力做客“公共外交与全球治理”学术沙...', '_blank');
+E_aryObjFadingImgs[1] = new E_objFadingImg('DesktopModules/Articles/MakeThumbnail.aspx?Image=%2fPortals%2f6%2fImages%2f9201612121656.png&tabid=338&w=270&h=180', '/Default.aspx?tabid=338&ctl=Details&mid=1036&ItemID=37114', '上海大学与孔子学院外方合作学校参加第十一届全球孔子学院大会', '_blank');
+E_aryObjFadingImgs[2] = new E_objFadingImg('DesktopModules/Articles/MakeThumbnail.aspx?Image=%2fPortals%2f6%2fImages%2f%e9%87%91%e6%a0%a1%e9%95%bfUTT%e6%af%95%e4%b8%9a%e5%85%b8%e7%a4%bc%e7%85%a7%e7%89%87201612011758.jpg&tabid=338&w=270&h=180', '/Default.aspx?tabid=338&ctl=Details&mid=1036&ItemID=36890', '金东寒校长受邀参加法国特鲁瓦技术大学毕业典礼', '_blank');
+
+</script>
+
+<!-- Solution Partner's ASP.NET Hierarchical Menu (v1.7.2.0) - http://www.solpart.com -->
+<SCRIPT src="../dfiles/11275/controls/solpartmenu/spmenu.js"></SCRIPT>
+<SPAN id="dnn_dnnSOLPARTMENU_ctldnnSOLPARTMENU_divOuterTables"></SPAN>
+
+<script src="../dfiles/11275/d975a40ac989e0854ce5b641c9c83170_scriptresource.axd.js" type="text/javascript"></script>
+<script src="../dfiles/11275/007a635a02871389a55356e97faac247_scriptresource.axd.js" type="text/javascript"></script>
+
+<link href="../dfiles/11275/portals/6/skins/shunews_o/style.css" rel="stylesheet" type="text/css" />
+
+<div class="wrapper">
+  <div class="logo">
+    <div class="logoinner">
+    <div class="logolink"><a href="http://www.shu.edu.cn">&nbsp</a></div>
+      <div class="searchbar"><span class="iconlinks"><div id="dnn_SEARCH" class="DNNEmptyPane"></div></span></div>
+    </div>
+  </div>
+  <div class="menu">
+    <div class="menuinner">
+      <div class="nav"><table><tr><td width="720px"><span id="dnn_dnnSOLPARTMENU_ctldnnSOLPARTMENU" name="dnn$dnnSOLPARTMENU$ctldnnSOLPARTMENU" BackColor="#333333" IconBackgroundColor="#333333" HlColor="#FF8080" ShColor="#404040" SelForeColor="White" SelColor="#CCCCCC" FontStyle="font-family: Tahoma,Arial,Helvetica; font-size: 9pt; font-weight: bold; font-style: normal; text-decoration: " SysImgPath="../images/spacer.gif" Display="horizontal" MenuBarHeight="16" MenuItemHeight="21" IconWidth="15" MOutDelay="500" MenuTransition="None" BorderWidth="0" IconImgPath="/Portals/6/" ArrowImage="" CSSMenuArrow="MainMenu_MenuArrow" CSSMenuBreak="MainMenu_MenuBreak" CSSMenuContainer="MainMenu_MenuContainer" CSSMenuBar="MainMenu_MenuBar" CSSSubMenu="MainMenu_SubMenu" CSSMenuIcon="MainMenu_MenuIcon" CSSMenuItem="MainMenu_MenuItem" CSSMenuItemSel="MainMenu_MenuItemSel" CSSRootMenuArw="MainMenu_RootMenuArrow">
+</span>
+<SCRIPT language="javascript">
+var m_oSPJSDOM_dnn_dnnSOLPARTMENU_ctldnnSOLPARTMENU=new SPJSXMLNode('root', '', null, '', '', '', '', '', '', 'false', '', '', '', '', '');var m_oSPNode=new Array(); m_oSPNode['-1']=m_oSPJSDOM_dnn_dnnSOLPARTMENU_ctldnnSOLPARTMENU;
+
+m_oSPNode['1'] =new SPJSXMLNode('menuitem', '1', m_oSPNode['-1'], '首页', '../index.htm', '', '', '', '<img alt="*" BORDER="0" src="../images/breadcrumb.gif">', '', '', '', '', '  ', '');
+
+
+
+spm_initMyMenu(m_oSPJSDOM_dnn_dnnSOLPARTMENU_ctldnnSOLPARTMENU, spm_getById('dnn_dnnSOLPARTMENU_ctldnnSOLPARTMENU'));delete m_oSPNode;
+</SCRIPT>
+</td></tr></table></div>
+      <div class="wzall-sty"> 
+    <a href="javascript:void(0);" id="gt_btn">开启辅助工具</a>
+</div>
+
+<script src="https://tts.gtkj.tech/rt/news.shu.edu.cn/gtInit.js" charset="UTF-8"></script>
+    </div>
+  </div>
+  <div class="content">
+    <div class="contentinner">
+      <div class="banner">    <script language="javascript" src="/system/resource/js/dynclicks.js"></script>
+<img src="../images/banner.jpg" width="1000" height="128">
+
+</div>
+        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td width="240px" valign="top"><!-- DDRmenu v02.00.01 - ULTokens template --><ul id="leftmenu" style="display: block;"><li class="toplevel first ">
+<a href="zyxw.htm">重要新闻</a>
+</li>
+<li class="toplevel  selected">
+<a href="zhxw.htm">综合新闻</a>
+</li>
+<li class="toplevel  ">
+<a href="kydt.htm">科研动态</a>
+</li>
+<li class="toplevel  ">
+<a href="whxx.htm">文化信息</a>
+</li>
+<li class="toplevel  ">
+<a href="tpxw.htm">图片新闻</a>
+</li>
+<li class="toplevel  ">
+<a href="spxw.htm">视频新闻</a>
+</li>
+<li class="toplevel  ">
+<a href="mtgz.htm">媒体关注</a>
+</li>
+</ul>
+
+
+
+
+</td>
+    <td valign="top"><div class="v_Breadcrumb">您所在的位置：<a href="../index.htm">上海大学新闻网</a>
+        <span id="dnn_dnnBREADCRUMB_lblBreadCrumb">
+                <a href="../index.htm" class="Breadcrumb">首页</a>
+&gt;&nbsp;
+                <a href="zhxw.htm" class="Breadcrumb">综合新闻</a>
+        </span></div><div id="dnn_CONTENTPANE"><a name="1053"></a><span id="dnn_ctr1053_ContentPane" class="DNNAlignleft"><!-- Start_Module_1053 --><span class="Normal"><div class="v_artlis"><div id="dnn_ctr1053_ModuleContent"><script language="javascript" src="/system/resource/js/centerCutImg.js"></script><script language="javascript" src="/system/resource/js/ajax.js"></script><span id="dnn_ctr1053_ArticleList_ctl00_lblMessage"></span>
+<table id="dnn_ctr1053_ArticleList_ctl00_lstArticles" class="ArticleList" cellspacing="0" cellpadding="3" border="0" style="width:100%;border-collapse:collapse;">
+        <tbody>
+                    <tr id="line_u5_0">
+            <td>
+<table width="100%"><tbody><tr><td>
+        
+        
+<a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_titleLink" class="Normal" title="凝心聚力，砥砺前行——微电子学院召开届教职工大会暨工会会员大会第五次会议" href="../info/1012/169595.htm">凝心聚力，砥砺前行——微电子学院召开届教职工大会暨工会会员大会第五次会议</a>
+</td>
+<td align="right" nowrap="true">    
+<span id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lblPublishDate">2025-12-15</span>&nbsp;&nbsp;
+</td></tr>  </tbody></table>
+<div>
+            <a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lnkComments"></a>
+        </div>      
+    </td>
+        </tr>
+        
+        <tr id="line_u5_1">
+            <td>
+<table width="100%"><tbody><tr><td>
+        
+        
+<a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_titleLink" class="Normal" title="第五届上海高校研究生思想政治教育工作研讨会顺利举行" href="../info/1012/169585.htm">第五届上海高校研究生思想政治教育工作研讨会顺利举行</a>
+</td>
+<td align="right" nowrap="true">    
+<span id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lblPublishDate">2025-12-15</span>&nbsp;&nbsp;
+</td></tr>  </tbody></table>
+<div>
+            <a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lnkComments"></a>
+        </div>      
+    </td>
+        </tr>
+        
+        <tr id="line_u5_2">
+            <td>
+<table width="100%"><tbody><tr><td>
+        
+        
+<a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_titleLink" class="Normal" title="校党委第二巡察组向材料科学与工程学院党委反馈巡察情况" href="../info/1012/169575.htm">校党委第二巡察组向材料科学与工程学院党委反馈巡察情况</a>
+</td>
+<td align="right" nowrap="true">    
+<span id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lblPublishDate">2025-12-15</span>&nbsp;&nbsp;
+</td></tr>  </tbody></table>
+<div>
+            <a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lnkComments"></a>
+        </div>      
+    </td>
+        </tr>
+        
+        <tr id="line_u5_3">
+            <td>
+<table width="100%"><tbody><tr><td>
+        
+        
+<a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_titleLink" class="Normal" title="上海电影学院举行2025年度领导班子和干部考核周边满意度测评" href="../info/1012/169555.htm">上海电影学院举行2025年度领导班子和干部考核周边满意度测评</a>
+</td>
+<td align="right" nowrap="true">    
+<span id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lblPublishDate">2025-12-15</span>&nbsp;&nbsp;
+</td></tr>  </tbody></table>
+<div>
+            <a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lnkComments"></a>
+        </div>      
+    </td>
+        </tr>
+        
+        <tr id="line_u5_4">
+            <td>
+<table width="100%"><tbody><tr><td>
+        
+        
+<a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_titleLink" class="Normal" title="启智润心话成长 聚力前行谱新篇——上海大学社会学院2025年班导师工作交流会顺利召开" href="../info/1012/169545.htm">启智润心话成长 聚力前行谱新篇——上海大学社会学院2025年班导师工作交流会顺利召开</a>
+</td>
+<td align="right" nowrap="true">    
+<span id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lblPublishDate">2025-12-15</span>&nbsp;&nbsp;
+</td></tr>  </tbody></table>
+<div>
+            <a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lnkComments"></a>
+        </div>      
+    </td>
+        </tr>
+        
+        <tr id="line_u5_5">
+            <td>
+<table width="100%"><tbody><tr><td>
+        
+        
+<a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_titleLink" class="Normal" title="上海大学“创新中国”2.0第四课聚焦“数字经济与管理创新”" href="../info/1012/169535.htm">上海大学“创新中国”2.0第四课聚焦“数字经济与管理创新”</a>
+</td>
+<td align="right" nowrap="true">    
+<span id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lblPublishDate">2025-12-15</span>&nbsp;&nbsp;
+</td></tr>  </tbody></table>
+<div>
+            <a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lnkComments"></a>
+        </div>      
+    </td>
+        </tr>
+        
+        <tr id="line_u5_6">
+            <td>
+<table width="100%"><tbody><tr><td>
+        
+        
+<a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_titleLink" class="Normal" title="八十华诞的荣光 ——九三学社上海大学委员会获颁“全国优秀基层组织”奖" href="../info/1012/169525.htm">八十华诞的荣光 ——九三学社上海大学委员会获颁“全国优秀基层组织”奖</a>
+</td>
+<td align="right" nowrap="true">    
+<span id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lblPublishDate">2025-12-15</span>&nbsp;&nbsp;
+</td></tr>  </tbody></table>
+<div>
+            <a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lnkComments"></a>
+        </div>      
+    </td>
+        </tr>
+        
+        <tr id="line_u5_7">
+            <td>
+<table width="100%"><tbody><tr><td>
+        
+        
+<a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_titleLink" class="Normal" title="深化产教融合，共育环保英才：环化学院组织召开环境保护人才综合培养改革系列专家咨询会" href="../info/1012/169515.htm">深化产教融合，共育环保英才：环化学院组织召开环境保护人才综合培养改革系列专家咨询会</a>
+</td>
+<td align="right" nowrap="true">    
+<span id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lblPublishDate">2025-12-15</span>&nbsp;&nbsp;
+</td></tr>  </tbody></table>
+<div>
+            <a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lnkComments"></a>
+        </div>      
+    </td>
+        </tr>
+        
+        <tr id="line_u5_8">
+            <td>
+<table width="100%"><tbody><tr><td>
+        
+        
+<a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_titleLink" class="Normal" title="民进上大委员会委员王志达献唱民进成立80周年文艺晚会" href="../info/1012/169505.htm">民进上大委员会委员王志达献唱民进成立80周年文艺晚会</a>
+</td>
+<td align="right" nowrap="true">    
+<span id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lblPublishDate">2025-12-15</span>&nbsp;&nbsp;
+</td></tr>  </tbody></table>
+<div>
+            <a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lnkComments"></a>
+        </div>      
+    </td>
+        </tr>
+        
+        <tr id="line_u5_9">
+            <td>
+<table width="100%"><tbody><tr><td>
+        
+        
+<a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_titleLink" class="Normal" title="校企携手，育见未来——上海大学计算机工程与科学学院举行企业导师聘任仪式" href="../info/1012/169495.htm">校企携手，育见未来——上海大学计算机工程与科学学院举行企业导师聘任仪式</a>
+</td>
+<td align="right" nowrap="true">    
+<span id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lblPublishDate">2025-12-12</span>&nbsp;&nbsp;
+</td></tr>  </tbody></table>
+<div>
+            <a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lnkComments"></a>
+        </div>      
+    </td>
+        </tr>
+        
+        <tr id="line_u5_10">
+            <td>
+<table width="100%"><tbody><tr><td>
+        
+        
+<a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_titleLink" class="Normal" title="经济学院与东方证券达成合作意向" href="../info/1012/169485.htm">经济学院与东方证券达成合作意向</a>
+</td>
+<td align="right" nowrap="true">    
+<span id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lblPublishDate">2025-12-12</span>&nbsp;&nbsp;
+</td></tr>  </tbody></table>
+<div>
+            <a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lnkComments"></a>
+        </div>      
+    </td>
+        </tr>
+        
+        <tr id="line_u5_11">
+            <td>
+<table width="100%"><tbody><tr><td>
+        
+        
+<a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_titleLink" class="Normal" title="上海市物理学会原子分子与光物理2025年度学术会议召开" href="../info/1012/169325.htm">上海市物理学会原子分子与光物理2025年度学术会议召开</a>
+</td>
+<td align="right" nowrap="true">    
+<span id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lblPublishDate">2025-12-12</span>&nbsp;&nbsp;
+</td></tr>  </tbody></table>
+<div>
+            <a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lnkComments"></a>
+        </div>      
+    </td>
+        </tr>
+        
+        <tr id="line_u5_12">
+            <td>
+<table width="100%"><tbody><tr><td>
+        
+        
+<a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_titleLink" class="Normal" title="以百年热爱，赴一场跨世纪的艺术之约——表演艺术家卢燕大师讲坛成功举行" href="../info/1012/169475.htm">以百年热爱，赴一场跨世纪的艺术之约——表演艺术家卢燕大师讲坛成功举行</a>
+</td>
+<td align="right" nowrap="true">    
+<span id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lblPublishDate">2025-12-11</span>&nbsp;&nbsp;
+</td></tr>  </tbody></table>
+<div>
+            <a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lnkComments"></a>
+        </div>      
+    </td>
+        </tr>
+        
+        <tr id="line_u5_13">
+            <td>
+<table width="100%"><tbody><tr><td>
+        
+        
+<a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_titleLink" class="Normal" title="汇聚产业智慧，共育时代新人——理学院化学学科召开新能源人才培养实训平台建设专家咨询会" href="../info/1012/169465.htm">汇聚产业智慧，共育时代新人——理学院化学学科召开新能源人才培养实训平台建设专家咨询会</a>
+</td>
+<td align="right" nowrap="true">    
+<span id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lblPublishDate">2025-12-11</span>&nbsp;&nbsp;
+</td></tr>  </tbody></table>
+<div>
+            <a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lnkComments"></a>
+        </div>      
+    </td>
+        </tr>
+        
+        <tr id="line_u5_14">
+            <td>
+<table width="100%"><tbody><tr><td>
+        
+        
+<a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_titleLink" class="Normal" title="材料学院党委联合特殊钢精炼教工党支部举办专题学习会深入解读党的二十届四中全会精神" href="../info/1012/169385.htm">材料学院党委联合特殊钢精炼教工党支部举办专题学习会深入解读党的二十届四中全会精神</a>
+</td>
+<td align="right" nowrap="true">    
+<span id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lblPublishDate">2025-12-11</span>&nbsp;&nbsp;
+</td></tr>  </tbody></table>
+<div>
+            <a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lnkComments"></a>
+        </div>      
+    </td>
+        </tr>
+        
+        <tr id="line_u5_15">
+            <td>
+<table width="100%"><tbody><tr><td>
+        
+        
+<a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_titleLink" class="Normal" title="上海大学举办第22期全国高校党史类课程联盟共享课" href="../info/1012/169365.htm">上海大学举办第22期全国高校党史类课程联盟共享课</a>
+</td>
+<td align="right" nowrap="true">    
+<span id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lblPublishDate">2025-12-11</span>&nbsp;&nbsp;
+</td></tr>  </tbody></table>
+<div>
+            <a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lnkComments"></a>
+        </div>      
+    </td>
+        </tr>
+        
+        <tr id="line_u5_16">
+            <td>
+<table width="100%"><tbody><tr><td>
+        
+        
+<a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_titleLink" class="Normal" title="以人文之光，照治理之路——上海大学人文科学试验班“城市治理”跨学科系列讲座顺利举办" href="../info/1012/169345.htm">以人文之光，照治理之路——上海大学人文科学试验班“城市治理”跨学科系列讲座顺利举办</a>
+</td>
+<td align="right" nowrap="true">    
+<span id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lblPublishDate">2025-12-11</span>&nbsp;&nbsp;
+</td></tr>  </tbody></table>
+<div>
+            <a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lnkComments"></a>
+        </div>      
+    </td>
+        </tr>
+        
+        <tr id="line_u5_17">
+            <td>
+<table width="100%"><tbody><tr><td>
+        
+        
+<a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_titleLink" class="Normal" title="外国语学院院长率团参加2025年上海市外文学会年会暨“十五五”外语学科服务国家战略论坛" href="../info/1012/169305.htm">外国语学院院长率团参加2025年上海市外文学会年会暨“十五五”外语学科服务国家战略论坛</a>
+</td>
+<td align="right" nowrap="true">    
+<span id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lblPublishDate">2025-12-11</span>&nbsp;&nbsp;
+</td></tr>  </tbody></table>
+<div>
+            <a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lnkComments"></a>
+        </div>      
+    </td>
+        </tr>
+        
+        <tr id="line_u5_18">
+            <td>
+<table width="100%"><tbody><tr><td>
+        
+        
+<a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_titleLink" class="Normal" title="民进上海大学委员会获“民进全国先进基层组织”荣誉称号" href="../info/1012/169185.htm">民进上海大学委员会获“民进全国先进基层组织”荣誉称号</a>
+</td>
+<td align="right" nowrap="true">    
+<span id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lblPublishDate">2025-12-10</span>&nbsp;&nbsp;
+</td></tr>  </tbody></table>
+<div>
+            <a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lnkComments"></a>
+        </div>      
+    </td>
+        </tr>
+        
+        <tr id="line_u5_19">
+            <td>
+<table width="100%"><tbody><tr><td>
+        
+        
+<a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_titleLink" class="Normal" title="学校召开2025年第三次党委双月座谈会" href="../info/1012/169165.htm">学校召开2025年第三次党委双月座谈会</a>
+</td>
+<td align="right" nowrap="true">    
+<span id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lblPublishDate">2025-12-10</span>&nbsp;&nbsp;
+</td></tr>  </tbody></table>
+<div>
+            <a id="dnn_ctr1053_ArticleList_ctl00_lstArticles_ctl00_lnkComments"></a>
+        </div>      
+    </td>
+        </tr>
+        
+       <tr>
+     <td>
+        <div class="MoreArticlesLink"></div>
+    </td>
+        </tr>
+    </tbody></table>
+<div style="height:12px;"></div>
+<table class="PagingTable" border="0">
+        <tbody><tr>
+            <td class="Normal" align="left" style="width:50%;">
+                <INPUT TYPE="hidden" NAME="actiontype" VALUE=""><input type="hidden" name="_scode_" value="1765767737924"><input type="hidden" name="urltype" value="tree.TreeTempUrl"><input type="hidden" name="wbtreeid" value="1012"><input type="hidden" name="outFlag" value="false">
+<style type="text/css">
+.headStyle1r3awz99jx, .headStyle1r3awz99jx td, .headStyle1r3awz99jx div {font-size: 12px;font-family:宋体; color: #000000; margin-left: auto; margin-right: auto; line-height:14px;}
+.defaultButtonStyle {font-size: 12px;font-family:宋体; height:20px;color: #000000;BORDER: #AFD5F5 1px solid; margin: 0px;padding: 0px; FILTER:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#ffffff, EndColorStr=#BDDBF7);  CURSOR: pointer; line-height:14px;background:-webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#BDDBF7));background: -moz-linear-gradient( top,#ffffff,#BDDBF7);background:-ms-linear-gradient(top,#ffffff 0%,#bddbf7 100%);}
+.defaultinputStyle {font-size: 12px;font-family:宋体; height:20px; border:1px solid #AFD5F5; line-height:14px;}
+.colHeader {font-size: 12px;font-family:宋体; line-height:14px;}
+.headStyle1r3awz99jx a, .pageList .this-page {font-size: 12px;font-family:宋体; display:inline-block; height:14px; padding: 2px 4px; border: solid 1px #AFD5F5; background: #fff; text-decoration: none; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle1r3awz99jx a:visited {font-size: 12px;font-family:宋体; color: #000000; text-decoration: none; line-height:14px;}
+.headStyle1r3awz99jx .PrevDisabled {font-size: 12px;font-family:宋体; display:inline-block;height:14px;  margin-right: 3px; padding: 2px 4px; background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}
+.headStyle1r3awz99jx .SelectList {font-size: 12px;font-family:宋体;line-height:14px;}
+.headStyle1r3awz99jx .Prev { font-size: 12px;font-family:宋体; margin-right: 3px; padding: 2px 4px;line-height:14px;}
+.headStyle1r3awz99jx .break {font-size: 12px;font-family:宋体; border: none; text-decoration: none; line-height:14px;}
+.headStyle1r3awz99jx .NextDisabled { font-size: 12px;font-family:宋体;display:inline-block; height:14px; margin-left: 2px; padding: 2px 4px;background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}
+.headStyle1r3awz99jx .Next { font-size: 12px;font-family:宋体; margin-left: 2px; padding: 2px 4px;line-height:14px;}
+.headStyle1r3awz99jx .this-page {font-size: 12px;font-family:宋体;display:inline-block;height:14px;padding: 2px 4px; border: solid 1px #AFD5F5; background: #E1F0FD; font-weight: bold; color:black; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle1r3awz99jx a:hover {font-size: 12px;font-family:宋体;color: black; background: #EFF7FE; border-color: #AFD5F5; text-decoration: none;line-height:14px;}
+.headStyle1r3awz99jx a:link {font-size: 12px;font-family:宋体;color: #000000; text-decoration: none;line-height:14px;}
+.headStyle1r3awz99jx a:active { font-size: 12px;font-family:宋体;color: black; text-decoration: none; background: #EFF7FE; line-height:14px;}
+</style><script language="javascript" src="/system/resource/js/gotopage.js"></script><script type="text/javascript">function a181104_gopage_fun(){_simple_list_gotopage_fun(815,'a181104GOPAGE',2)}</script><table cellspacing="0" cellpadding="0" border="0"><TR><td colspan="0"><table cellspacing="0" class="headStyle1r3awz99jx" width="100%" cellpadding="1"><tr valign="middle"><TD nowrap align="left" width="1%" id="fanye181104">共16282条&nbsp;&nbsp;1/815&nbsp;</td><td nowrap align="left"><div><span class="PrevDisabled">首页</span><span class="PrevDisabled">上页</span><a href="zhxw/814.htm" class="Next">下页</a><a href="zhxw/1.htm" class="Next">尾页</a>&nbsp;&nbsp;<input align="absmiddle" type="button" class="defaultButtonStyle" id="gotopagebut" name="a181104Find" value="转到" onclick="javascript:a181104_gopage_fun()"><INPUT size="2" align="absmiddle" class="defaultInputStyle" NAME="a181104GOPAGE" id="a181104GOPAGE" VALUE="" style="margin-left:1px;margin-right:1px">页</div></td></tr></table></table>
+                        </td>
+        </tr>
+    </tbody></table>
+
+
+<!-- End_Module_1053 -->
+<script>_showDynClickBatch(['dynclicks_u5_169595','dynclicks_u5_169585','dynclicks_u5_169575','dynclicks_u5_169555','dynclicks_u5_169545','dynclicks_u5_169535','dynclicks_u5_169525','dynclicks_u5_169515','dynclicks_u5_169505','dynclicks_u5_169495','dynclicks_u5_169485','dynclicks_u5_169325','dynclicks_u5_169475','dynclicks_u5_169465','dynclicks_u5_169385','dynclicks_u5_169365','dynclicks_u5_169345','dynclicks_u5_169305','dynclicks_u5_169185','dynclicks_u5_169165'],[169595,169585,169575,169555,169545,169535,169525,169515,169505,169495,169485,169325,169475,169465,169385,169365,169345,169305,169185,169165],"wbnews", 1371344133)</script></div><span class="Normal"></span></div></span></span>
+<a name="1054"></a><span id="dnn_ctr1054_ContentPane" class="DNNAlignleft"><!-- Start_Module_1054 --><div id="dnn_ctr1054_ModuleContent">
+    <div id="dnn_ctr1054_HtmlModule_HtmlModule_lblContent" class="Normal">
+    
+</div>
+<!-- End_Module_1054 -->
+</div></span>
+</div></td>
+  </tr>
+</tbody></table>
+    </div>
+  </div>
+  <div class="quicklink">
+    <div class="quicklinkinner"><div id="dnn_快速链接"><a name="1044"></a><span id="dnn_ctr1044_ContentPane" class="DNNAlignleft"><!-- Start_Module_1044 --><div id="dnn_ctr1044_ModuleContent">
+    <div id="dnn_ctr1044_HtmlModule_lblContent" class="Normal">
+        <table width="100%" cellspacing="1" cellpadding="1" border="0">
+    <tbody>
+        <tr>
+            <td valign="top">
+            <table width="500" cellspacing="1" cellpadding="1" border="0">
+                <tbody>
+                    <tr>
+                        <td style="color: #ffffff; font-size: 16px">快速链接</td>
+                    </tr>
+                    <tr>
+                        <td><script language="javascript" src="/system/resource/js/openlink.js"></script><table width="501" cellspacing="1" cellpadding="1" border="0" style="width: 501px; height: 130px">
+                            <tbody>
+<tr>
+
+<td><a href="http://xxgk.shu.edu.cn/" target="_blank">信息公开</a></td>
+
+<td><a href="https://wmzx.shu.edu.cn/" target="_blank">文明校园创建</a></td>
+</tr>
+</tbody>
+                        </table></td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+            <td><script language="javascript" src="/system/resource/js/news/mp4video.js"></script>
+<p>
+<img width="413" height="173" border="0" alt="" usemap="#FPMap0" src="../images/pic_xnxy.jpg">
+    <map name="FPMap0"><area coords="3, 0, 336, 171" target="_blank/" shape="rect" href="http://map.shu.edu.cn/" />
+    <area coords="340, 0, 407, 27" target="_blank/" shape="rect" href="#" /></map>
+</p><p><br></p></td>
+        </tr>
+    </tbody>
+</table>
+    </div>
+<!-- End_Module_1044 -->
+</div></span>
+</div></div>
+  </div>
+  <div class="copyright">
+    <div class="copyrightinner"><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<div id="dnn_版权信息" class="DNNEmptyPane"></div>
+<p>
+    &nbsp; &nbsp;&nbsp; &nbsp;版权所有 ©<a href="http://www.shu.edu.cn"> 上海大学</a> &nbsp;&nbsp;<a href="http://beian.miit.gov.cn/">沪ICP备09014157&nbsp;</a>&nbsp;&nbsp;<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31009102000049" style="color: #fff">沪公网安备31009102000049号</a>&nbsp;&nbsp;地址：上海市宝山区上大路99号&nbsp;&nbsp; &nbsp;邮编：200444 &nbsp;&nbsp;<a href="http://www.shu.edu.cn/dhcx.htm">电话查询 </a><br /> &nbsp;技术支持：<a href="https://its.shu.edu.cn">上海大学信息化工作办公室&nbsp;&nbsp; </a><a href="mailto:info@shu.edu.cn">联系我们 </a>&nbsp;&nbsp;
+</p></div>
+  </div>
+</div>
+
+</body>
+</html>
