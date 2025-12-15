@@ -2,41 +2,48 @@ name: Update SHU News
 
 on:
   schedule:
-    # 核心：定时设置。这里设置为每小时的第 15 分钟运行一次
-    # 注意：GitHub Actions 的时间是 UTC 时间，比北京时间晚8小时，但不影响循环间隔
-    - cron: '15 * * * *'
-  # 允许手动点击按钮触发（方便测试）
-  workflow_dispatch:
+    - cron: '0 * * * *' # 每小时运行
+  workflow_dispatch:      # 允许手动触发
 
 permissions:
-  contents: write
+  contents: write         # 必须给写权限！
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    
+
     steps:
+    # 1. 把代码拿下来
     - name: Checkout code
       uses: actions/checkout@v3
 
+    # 2. 准备 Python 环境
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.9'
 
+    # 3. 【关键一步】强制安装库，并打印安装了什么
     - name: Install dependencies
       run: |
-        pip install -r requirements.txt
+        python -m pip install --upgrade pip
+        # 这里加了容错：即使没有requirements.txt，也会强制直接安装这两个库
+        # 这样就算文件名字写错了也能跑！
+        pip install requests beautifulsoup4
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+        echo "安装完成，检查库列表："
+        pip list
 
+    # 4. 运行爬虫
     - name: Run spider
       run: |
         python spider.py
 
-    - name: Commit and push changes
+    # 5. 上传结果
+    - name: Commit and push
       run: |
         git config --global user.name 'GitHub Action'
         git config --global user.email 'action@github.com'
         git add data.js
-        # 如果有变动才提交，没变动不报错
-        git commit -m "Auto-update news data" || exit 0
+        git commit -m "Auto-update news" || exit 0
         git push
