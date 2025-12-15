@@ -5,146 +5,168 @@ import time
 import random
 import sys
 import io
+import datetime
+import re
 
-# ==========================================
-# 核心修复：防止云端控制台因为中文/Emoji报错
-# ==========================================
+# 防止云端控制台报错
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
+# --- 配置 ---
+# 只保留最近 2 天内的新闻
+MAX_DAYS_AGO = 2 
+
 def get_header():
-    # 模拟真实浏览器，防止被拦截
     return {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
-        'Referer': 'https://www.baidu.com/'
+        'Referer': 'https://www.baidu.com/',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
     }
 
+def parse_baidu_time(time_str):
+    """
+    把各种格式的时间（5分钟前、昨天、2025-12-15）统一转换成 datetime 对象
+    以便进行比较和排序
+    """
+    now = datetime.datetime.now()
+    time_str = time_str.strip()
+
+    try:
+        if "分钟前" in time_str:
+            mins = int(re.search(r'(\d+)', time_str).group(1))
+            return now - datetime.timedelta(minutes=mins)
+        elif "小时前" in time_str:
+            hours = int(re.search(r'(\d+)', time_str).group(1))
+            return now - datetime.timedelta(hours=hours)
+        elif "昨天" in time_str:
+            return now - datetime.timedelta(days=1)
+        elif "前天" in time_str:
+            return now - datetime.timedelta(days=2)
+        elif "天前" in time_str:
+            days = int(re.search(r'(\d+)', time_str).group(1))
+            return now - datetime.timedelta(days=days)
+        elif "年" in time_str or "-" in time_str:
+            # 处理 2025年12月15日 或 2025-12-15
+            clean_str = time_str.replace("年", "-").replace("月", "-").replace("日", "")
+            return datetime.datetime.strptime(clean_str, "%Y-%m-%d")
+        else:
+            # 无法识别的格式（比如“刚刚”），默认算作现在
+            return now
+    except:
+        return now - datetime.timedelta(days=365) # 出错就当做旧新闻处理
+
 def get_shu_official():
-    """抓取官网新闻"""
+    """上大官网新闻 (官网通常按时间排，直接取前8条)"""
     url = "https://news.shu.edu.cn/index/zhxw.htm"
-    print(f"Fetching Official: {url}") # 纯英文打印，防止报错
+    print(f"扫描官网: {url}")
     news_list = []
     try:
-        res = requests.get(url, headers=get_header(), timeout=15)
+        res = requests.get(url, headers=get_header(), timeout=10)
         res.encoding = 'utf-8'
         soup = BeautifulSoup(res.text, 'html.parser')
-        
-        # 尝试适配多种列表结构
         links = soup.find_all('a')
         
         for link in links:
             title = link.get_text(strip=True)
             href = link.get('href')
             
-            # 筛选逻辑
-            if title and href and len(title) > 8 and '.htm' in href:
-                if "版权" in title or "联系" in title: continue
+            if title and href and len(title) > 10 and '.htm' in href:
+                if "版权" in title: continue
                 
                 if not href.startswith('http'):
-                    # 修复相对路径
-                    clean_href = href.replace('../', '').lstrip('/')
-                    href = f"https://news.shu.edu.cn/{clean_href}"
+                    href = f"https://news.shu.edu.cn/{href.replace('../', '')}"
                 
-                # 简单去重
+                # 官网没写具体时间，默认算作最新，排在最前
+                # 为了排序，给他一个稍微滞后一点点的“当前时间”
+                fake_time = datetime.datetime.now()
+                
                 if not any(n['url'] == href for n in news_list):
                     news_list.append({
-                        "title": title, "url": href, 
-                        "source": "上大官网", "time": "校内", "tag": "official"
+                        "title": title, "url": href, "source": "上大官网", 
+                        "time_str": "校内最新", # 显示给用户看的
+                        "timestamp": fake_time, # 排序用的
+                        "tag": "official"
                     })
-                    
-        print(f"  - Official news count: {len(news_list)}")
     except Exception as e:
-        print(f"  - Official Error: {e}")
-    
+        print(f"官网抓取错误: {e}")
     return news_list[:8]
 
 def get_internet_buzz():
-    """抓取全网资讯 (百度新闻)"""
+    """全网搜索 (强制按时间排序)"""
+    # 关键参数 rtt=1 (Sort by Time)，默认是4 (Sort by Relevance)
     url = "https://www.baidu.com/s?tn=news&rtt=1&bsst=1&cl=2&wd=上海大学"
-    print(f"Fetching Internet: {url}")
+    print(f"全网检索 (已开启时间强排序): {url}")
+    
     news_list = []
     try:
-        res = requests.get(url, headers=get_header(), timeout=15)
+        res = requests.get(url, headers=get_header(), timeout=12)
         soup = BeautifulSoup(res.text, 'html.parser')
-        
         results = soup.find_all('div', class_='result-op')
-        if not results: results = soup.find_all('div', class_='result')
         
         for item in results:
             try:
-                title_tag = item.find('h3')
-                if not title_tag: continue
-                link_tag = title_tag.find('a')
-                if not link_tag: continue
+                title_node = item.find('h3').find('a')
+                title = title_node.get_text(strip=True)
+                href = title_node['href']
                 
-                title = link_tag.get_text(strip=True)
-                href = link_tag['href']
+                source_node = item.find('span', class_='c-color-gray')
+                source = source_node.get_text(strip=True) if source_node else "互联网"
                 
-                source_tag = item.find('span', class_='c-color-gray')
-                source = source_tag.get_text(strip=True) if source_tag else "互联网"
+                time_node = item.find('span', class_='c-color-gray2')
+                time_str = time_node.get_text(strip=True) if time_node else ""
+
+                # --- 关键步骤：时间过滤 ---
+                real_time = parse_baidu_time(time_str)
+                days_diff = (datetime.datetime.now() - real_time).days
                 
-                time_tag = item.find('span', class_='c-color-gray2')
-                pub_time = time_tag.get_text(strip=True) if time_tag else "近期"
+                # 如果新闻超过了 2 天，直接扔掉 (continue)
+                if days_diff > MAX_DAYS_AGO:
+                    continue
 
                 news_list.append({
-                    "title": title, "url": href, 
-                    "source": source, "time": pub_time, "tag": "media"
+                    "title": title, "url": href, "source": source, 
+                    "time_str": time_str, # 原样显示 "5分钟前"
+                    "timestamp": real_time, # 排序用
+                    "tag": "media"
                 })
             except:
                 continue
-                
-        print(f"  - Internet news count: {len(news_list)}")
     except Exception as e:
-        print(f"  - Internet Error: {e}")
-
-    # 静态链接 (即使爬虫挂了，这些也会显示)
-    print("Adding static links...")
-    platforms = [
-        {"title": "👉 点击查看“上海大学”B站最新视频", "source": "Bilibili", "url": "https://search.bilibili.com/all?keyword=上海大学&order=pubdate", "time": "实时", "tag": "video"},
-        {"title": "👉 点击查看“上海大学”知乎实时讨论", "source": "知乎", "url": "https://www.zhihu.com/search?type=content&q=上海大学", "time": "实时", "tag": "forum"},
-        {"title": "👉 点击查看“上海大学”微博热搜", "source": "微博", "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot", "time": "实时", "tag": "forum"},
-    ]
-    
-    return news_list[:15] + platforms
+        print(f"全网抓取错误: {e}")
+        
+    return news_list
 
 def save_to_js(data):
-    try:
-        path = "data.js"
-        # 写入 UTC 时间，前端会显示
-        update_info = time.strftime('%Y-%m-%d %H:%M', time.localtime())
+    # --- 最终排序：按时间戳倒序 (最新的在最上面) ---
+    data.sort(key=lambda x: x['timestamp'], reverse=True)
+    
+    # 清理掉 timestamp 字段（不需要写入JS文件）
+    for item in data:
+        del item['timestamp']
         
-        output = {
-            "update_time": update_info,
-            "news": data
-        }
-        
-        # 强制 UTF-8 写入
-        content = f"window.SHU_DATA = {json.dumps(output, ensure_ascii=False, indent=2)};"
-        with open(path, "w", encoding="utf-8") as f:
-            f.write(content)
-            
-        print(f"Success! Saved {len(data)} items.")
-        
-    except Exception as e:
-        print(f"Save Error: {e}")
-        sys.exit(1) # 如果保存失败，才报错红色 X
+    # 北京时间
+    utc_now = datetime.datetime.utcnow()
+    cst_now = utc_now + datetime.timedelta(hours=8)
+    time_str = cst_now.strftime('%Y-%m-%d %H:%M')
+
+    output = {
+        "update_time": time_str,
+        "news": data[:20] # 只保留最新的20条
+    }
+    
+    with open("data.js", "w", encoding="utf-8") as f:
+        f.write(f"window.SHU_DATA = {json.dumps(output, ensure_ascii=False, indent=2)};")
+    print(f"✅ 更新完成。时间: {time_str}，共 {len(data)} 条新闻。")
 
 if __name__ == "__main__":
-    try:
-        print(">>> Job Started")
-        official = get_shu_official()
-        internet = get_internet_buzz()
-        
-        # 合并数据
-        all_data = official + internet
-        
-        # 就算没抓到新闻，至少把静态链接存进去，保证页面不白板
-        if not all_data:
-            print("Warning: No news fetched, using backup data.")
-        
-        save_to_js(all_data)
-        print(">>> Job Finished")
-        
-    except Exception as e:
-        print(f"Critical Error: {e}")
-        sys.exit(1)
+    official = get_shu_official()
+    internet = get_internet_buzz()
+    
+    # 静态链接 (放在最后)
+    static_links = [
+        {"title": "👉 点击查看 B站“上海大学”最新视频 (按发布时间)", "source": "Bilibili", "url": "https://search.bilibili.com/all?keyword=上海大学&order=pubdate", "time_str": "实时", "tag": "video", "timestamp": datetime.datetime.now()},
+        {"title": "👉 点击查看 微博“上海大学”实时广场", "source": "微博", "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot", "time_str": "实时", "tag": "forum", "timestamp": datetime.datetime.now()},
+    ]
+    
+    # 合并所有数据
+    all_data = official + internet + static_links
+    save_to_js(all_data)
