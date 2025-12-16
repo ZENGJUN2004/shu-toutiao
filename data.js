@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2025-12-16 15:27",
+  "update_time": "2025-12-16 16:36",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,6 +14,13 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
+    },
+    {
+      "title": "沪上智慧养老新探索：上海大学医学院携手虹口区发布“小景爱家”老年健康数智化平台",
+      "url": "https://news.shu.edu.cn/info/1012/169655.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
     },
     {
       "title": "凝心聚力，砥砺前行——微电子学院召开第一届届教职工大会暨工会会员大会第五次会议",
@@ -39,13 +46,6 @@ window.SHU_DATA = {
     {
       "title": "智汇“她”力量 融创“她”未来——上海大学女教授创新论坛成功举办",
       "url": "https://news.shu.edu.cn/info/1012/169705.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "土耳其驻沪总领事访问上海大学",
-      "url": "https://news.shu.edu.cn/info/1012/169715.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
