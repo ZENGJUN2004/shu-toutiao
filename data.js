@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2025-12-16 11:40",
+  "update_time": "2025-12-16 12:38",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -93,10 +93,10 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "低空经济赋能全球 产学研共探破局新路径",
-      "url": "http://www.cq.xinhuanet.com/20251203/262385ac813347ccbb386b42c52b9527/c.html",
-      "source": "新华网重庆频道",
-      "time": "12月3日",
+      "title": "新华时政_新华网",
+      "url": "http://www.xinhuanet.com/politics/ggyslt/zbsl.htm",
+      "source": "新华网",
+      "time": "",
       "tag": "media"
     }
   ]
