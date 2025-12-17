@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2025-12-17 21:36",
+  "update_time": "2025-12-17 22:27",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,43 +16,43 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "凝心聚力，砥砺前行——微电子学院召开第一届届教职工大会暨工会会员大会第五次会议",
-      "url": "https://news.shu.edu.cn/info/1012/169665.htm",
+      "title": "上海大学新结构经济学研究院师生参加北京大学新结构经济学研究院成立十周年活动",
+      "url": "https://news.shu.edu.cn/info/1012/169785.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "深学细悟勇担使命 凝心聚力共谋新篇——外国语学院召开全院教职工大会暨党的二十届四中全会精神专题讲座",
-      "url": "https://news.shu.edu.cn/info/1012/169675.htm",
+      "title": "2025年上海市大学生平安志愿者风采展示暨总结大会成功举办",
+      "url": "https://news.shu.edu.cn/info/1012/169795.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "上海大学法学院2026届毕业生招聘会（第一场）顺利举办",
-      "url": "https://news.shu.edu.cn/info/1012/169695.htm",
+      "title": "四届党委第三轮巡察整改部署会召开",
+      "url": "https://news.shu.edu.cn/info/1012/169815.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "智汇“她”力量 融创“她”未来——上海大学女教授创新论坛成功举办",
-      "url": "https://news.shu.edu.cn/info/1012/169705.htm",
+      "title": "2025年“科学家故事舞台剧推广行动”剧目《钱伟长》在伟长楼顺利演出",
+      "url": "https://news.shu.edu.cn/info/1012/169825.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "我校第六届教代会执委会暨工会委员会第五次会议成功召开",
-      "url": "https://news.shu.edu.cn/info/1012/169725.htm",
+      "title": "上海大学与闽江学院保卫部门开展“平安校园”专题调研交流",
+      "url": "https://news.shu.edu.cn/info/1012/169835.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "悉商国际生问鼎第八届“外教社杯”全国高校学生跨文化能力大赛最高奖",
-      "url": "https://news.shu.edu.cn/info/1012/169775.htm",
+      "title": "筑牢思想根基 强化责任担当——新闻传播学院2025年度述职测评与师德师风学习教育会顺利召开",
+      "url": "https://news.shu.edu.cn/info/1012/169845.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
