@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2025-12-17 20:54",
+  "update_time": "2025-12-17 21:36",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "沪上智慧养老新探索：上海大学医学院携手虹口区发布“小景爱家”老年健康数智化平台",
-      "url": "https://news.shu.edu.cn/info/1012/169655.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "凝心聚力，砥砺前行——微电子学院召开第一届届教职工大会暨工会会员大会第五次会议",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "我校第六届教代会执委会暨工会委员会第五次会议成功召开",
       "url": "https://news.shu.edu.cn/info/1012/169725.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "悉商国际生问鼎第八届“外教社杯”全国高校学生跨文化能力大赛最高奖",
+      "url": "https://news.shu.edu.cn/info/1012/169775.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
