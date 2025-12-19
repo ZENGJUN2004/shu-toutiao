@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2025-12-19 07:24",
+  "update_time": "2025-12-19 09:58",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "上海大学与闽江学院保卫部门开展“平安校园”专题调研交流",
-      "url": "https://news.shu.edu.cn/info/1012/169835.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "筑牢思想根基 强化责任担当——新闻传播学院2025年度述职测评与师德师风学习教育会顺利召开",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "托尼·基塔诺夫斯基教授电影音乐大师班成功举办",
       "url": "https://news.shu.edu.cn/info/1012/169885.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "拳承千年史 武耀考古魂——上海大学体育学院以武术盛宴礼赞世界文明盛会",
+      "url": "https://news.shu.edu.cn/info/1012/169895.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
