@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2025-12-20 11:19",
+  "update_time": "2025-12-20 12:30",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -93,10 +93,10 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "第八届“外教社杯”全国高校学生跨文化能力大赛在沪举办",
-      "url": "http://sh.people.com.cn/n2/2025/1219/c134768-41448079.html",
-      "source": "人民网",
-      "time": "昨天14:00",
+      "title": "新华时政_新华网",
+      "url": "http://www.xinhuanet.com/politics/ggyslt/zbsl.htm",
+      "source": "新华网",
+      "time": "",
       "tag": "media"
     }
   ]
