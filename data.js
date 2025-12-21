@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2025-12-21 15:22",
+  "update_time": "2025-12-21 16:31",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -100,10 +100,10 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "闽都文化研究中心揭牌成立",
-      "url": "http://www.fj.xinhuanet.com/20251220/d631313b700745ae806401dc1a9b896b/c.html",
+      "title": "新华时政_新华网",
+      "url": "http://www.xinhuanet.com/politics/ggyslt/zbsl.htm",
       "source": "新华网",
-      "time": "昨天10:42",
+      "time": "",
       "tag": "media"
     }
   ]
