@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2025-12-23 00:32",
+  "update_time": "2025-12-23 01:22",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -83,6 +83,13 @@ window.SHU_DATA = {
       "url": "https://www.stdaily.com/web/gdxw/2025-09/23/content_406200.html",
       "source": "中国科技网",
       "time": "9月23日",
+      "tag": "media"
+    },
+    {
+      "title": "纪念|钱谷融:华东师大中文系的灵魂",
+      "url": "https://m.thepaper.cn/wifiKey_detail.jsp?contid=1810126",
+      "source": "澎湃新闻",
+      "time": "9月29日",
       "tag": "media"
     },
     {
