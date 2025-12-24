@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2025-12-24 22:24",
+  "update_time": "2025-12-24 23:26",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -58,10 +58,10 @@ window.SHU_DATA = {
       "tag": "official"
     },
     {
-      "title": "让机器人“看得更清、反应更快”——仿生眼技术将加快机器人产业...",
-      "url": "https://www.stdaily.com/web/gdxw/2025-04/13/content_323895.html",
-      "source": "中国科技网",
-      "time": "4月13日",
+      "title": "...引领环境监测变革风暴——ACCSI2025人工智能与科学仪器融合...",
+      "url": "https://www.instrument.com.cn/news/20250429/780601.shtml",
+      "source": "仪器信息网",
+      "time": "4月27日",
       "tag": "media"
     },
     {
@@ -72,17 +72,17 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "立志、立学、立德,刘昌胜院士寄语上海大学新生—新闻—科学网",
-      "url": "https://news.sciencenet.cn/htmlnews/2025/9/551771.shtm",
-      "source": "科学网",
-      "time": "9月20日",
-      "tag": "media"
-    },
-    {
       "title": "搭建国际产学研用合作桥梁 一批中外青年创新创业成果惊艳亮相",
       "url": "https://www.stdaily.com/web/gdxw/2025-09/23/content_406200.html",
       "source": "中国科技网",
       "time": "9月23日",
+      "tag": "media"
+    },
+    {
+      "title": "钱伟长逝世-新闻专题-科学网",
+      "url": "https://news.sciencenet.cn/news/sub2.aspx?id=388",
+      "source": "科学网",
+      "time": "",
       "tag": "media"
     },
     {
@@ -103,13 +103,6 @@ window.SHU_DATA = {
       "title": "澎湃新闻-专注时政与思想-ThePaper.cn",
       "url": "https://www.thepaper.cn/gov_78992",
       "source": "澎湃新闻",
-      "time": "",
-      "tag": "media"
-    },
-    {
-      "title": "新华时政_新华网",
-      "url": "http://www.xinhuanet.com/politics/ggyslt/zbsl.htm",
-      "source": "新华网",
       "time": "",
       "tag": "media"
     }
