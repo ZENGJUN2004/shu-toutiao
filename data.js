@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2025-12-25 15:25",
+  "update_time": "2025-12-25 16:34",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "文明互鉴，学术共进——第六届“世界考古论坛·上海”活动回顾",
-      "url": "https://news.shu.edu.cn/info/1012/170005.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "通信与信息工程学院“十五五”规划咨询会顺利召开",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "中国信息通信科技集团副总工、国家信息光电子创新中心总经理肖希教授作客上海大学研究生产教融合课程《光电...",
       "url": "https://news.shu.edu.cn/info/1012/170055.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "材料学院党委召开全国重点实验室党总支成立选举暨部分教工党支部换届选举工作推进会",
+      "url": "https://news.shu.edu.cn/info/1012/170075.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
