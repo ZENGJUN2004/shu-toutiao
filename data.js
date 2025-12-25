@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2025-12-26 00:31",
+  "update_time": "2025-12-26 01:22",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -58,10 +58,10 @@ window.SHU_DATA = {
       "tag": "official"
     },
     {
-      "title": "...引领环境监测变革风暴——ACCSI2025人工智能与科学仪器融合...",
-      "url": "https://www.instrument.com.cn/news/20250429/780601.shtml",
-      "source": "仪器信息网",
-      "time": "4月27日",
+      "title": "【中国科学报】永怀爱国之心 ——纪念“两弹一星”元勋郭永怀",
+      "url": "http://news.ustc.edu.cn/info/1056/74957.htm",
+      "source": "中国科学技术大学中国科大新闻网",
+      "time": "",
       "tag": "media"
     },
     {
@@ -76,13 +76,6 @@ window.SHU_DATA = {
       "url": "https://www.stdaily.com/web/gdxw/2025-09/23/content_406200.html",
       "source": "中国科技网",
       "time": "9月23日",
-      "tag": "media"
-    },
-    {
-      "title": "钱伟长逝世-新闻专题-科学网",
-      "url": "https://news.sciencenet.cn/news/sub2.aspx?id=388",
-      "source": "科学网",
-      "time": "",
       "tag": "media"
     },
     {
