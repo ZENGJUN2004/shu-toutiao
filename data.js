@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2025-12-28 01:21",
+  "update_time": "2025-12-28 02:34",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -69,13 +69,6 @@ window.SHU_DATA = {
       "url": "https://www.stdaily.com/web/gdxw/2025-09/16/content_401309.html",
       "source": "中国科技网",
       "time": "9月16日",
-      "tag": "media"
-    },
-    {
-      "title": "搭建国际产学研用合作桥梁 一批中外青年创新创业成果惊艳亮相",
-      "url": "https://www.stdaily.com/web/gdxw/2025-09/23/content_406200.html",
-      "source": "中国科技网",
-      "time": "9月23日",
       "tag": "media"
     },
     {
