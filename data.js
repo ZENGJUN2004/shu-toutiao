@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2025-12-28 10:10",
+  "update_time": "2025-12-28 12:10",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "通信与信息工程学院“十五五”规划咨询会顺利召开",
-      "url": "https://news.shu.edu.cn/info/1012/170015.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海大学举办第六届校级教师教学创新大赛决赛",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "材料学院党委召开全国重点实验室党总支成立选举暨部分教工党支部换届选举工作推进会",
       "url": "https://news.shu.edu.cn/info/1012/170075.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "沪校乡村“牵手”，共绘振兴新景——上海大学与崇明区绿华镇华西村结对帮扶签约",
+      "url": "https://news.shu.edu.cn/info/1012/170115.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
