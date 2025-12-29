@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2025-12-29 15:30",
+  "update_time": "2025-12-29 16:37",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,34 +16,6 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "上大新增6项国家留学基金委专项人才国际合作培养项目",
-      "url": "https://news.shu.edu.cn/info/1012/170035.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "国际部党委组织开展财务政策专题学习",
-      "url": "https://news.shu.edu.cn/info/1012/170045.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "中国信息通信科技集团副总工、国家信息光电子创新中心总经理肖希教授作客上海大学研究生产教融合课程《光电...",
-      "url": "https://news.shu.edu.cn/info/1012/170055.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "材料学院党委召开全国重点实验室党总支成立选举暨部分教工党支部换届选举工作推进会",
-      "url": "https://news.shu.edu.cn/info/1012/170075.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
       "title": "沪校乡村“牵手”，共绘振兴新景——上海大学与崇明区绿华镇华西村结对帮扶签约",
       "url": "https://news.shu.edu.cn/info/1012/170115.htm",
       "source": "上大官网",
@@ -53,6 +25,34 @@ window.SHU_DATA = {
     {
       "title": "回顾奋斗路 共绘新蓝图——上海大学海洋智能人才培养研讨会暨未来技术学院成立三周年总结会顺利举行",
       "url": "https://news.shu.edu.cn/info/1012/170145.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "2025年上海大学外国语学院大学英语（本科）教学成果奖申报专家评审会顺利召开",
+      "url": "https://news.shu.edu.cn/info/1012/170195.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "通信与信息工程学院课程入选国家级一流本科课程  以虚拟仿真赋能高阶人才培养",
+      "url": "https://news.shu.edu.cn/info/1012/170205.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "第十八届“谢晋杯”学生作品大赛顺利结束",
+      "url": "https://news.shu.edu.cn/info/1012/170225.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "中国高等院校影视学会影视产业与管理专业委员会2025年学术年会在上海大学上海电影学院成功举办",
+      "url": "https://news.shu.edu.cn/info/1012/170235.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
