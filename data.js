@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2025-12-30 01:22",
+  "update_time": "2025-12-30 02:36",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -69,6 +69,13 @@ window.SHU_DATA = {
       "url": "https://www.stdaily.com/web/gdxw/2025-09/16/content_401309.html",
       "source": "中国科技网",
       "time": "9月16日",
+      "tag": "media"
+    },
+    {
+      "title": "立志、立学、立德,刘昌胜院士寄语上海大学新生—新闻—科学网",
+      "url": "https://news.sciencenet.cn/htmlnews/2025/9/551771.shtm",
+      "source": "科学网",
+      "time": "9月20日",
       "tag": "media"
     },
     {
