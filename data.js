@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2025-12-29 10:09",
+  "update_time": "2025-12-29 12:12",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "上海大学举办第六届校级教师教学创新大赛决赛",
-      "url": "https://news.shu.edu.cn/info/1012/170025.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上大新增6项国家留学基金委专项人才国际合作培养项目",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "沪校乡村“牵手”，共绘振兴新景——上海大学与崇明区绿华镇华西村结对帮扶签约",
       "url": "https://news.shu.edu.cn/info/1012/170115.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "回顾奋斗路 共绘新蓝图——上海大学海洋智能人才培养研讨会暨未来技术学院成立三周年总结会顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/170145.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
