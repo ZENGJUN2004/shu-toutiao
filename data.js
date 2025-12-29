@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2025-12-29 19:23",
+  "update_time": "2025-12-29 20:54",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -72,10 +72,17 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "纪念|钱谷融:华东师大中文系的灵魂",
-      "url": "https://m.thepaper.cn/wifiKey_detail.jsp?contid=1810126",
+      "title": "澎湃新闻",
+      "url": "https://m.thepaper.cn/tag/812102",
       "source": "澎湃新闻",
-      "time": "9月29日",
+      "time": "7月19日",
+      "tag": "media"
+    },
+    {
+      "title": "静安区委宣传部、上海大学党委宣传部:《红色旋律,千里共鸣》",
+      "url": "https://www.thepaper.cn/newsDetail_forward_31938997",
+      "source": "澎湃新闻",
+      "time": "11月12日",
       "tag": "media"
     },
     {
