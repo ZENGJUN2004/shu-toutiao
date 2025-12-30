@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2025-12-30 21:38",
+  "update_time": "2025-12-30 22:25",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -90,13 +90,6 @@ window.SHU_DATA = {
       "url": "https://www.thepaper.cn/newsDetail_forward_31938997",
       "source": "澎湃新闻",
       "time": "11月12日",
-      "tag": "media"
-    },
-    {
-      "title": "上海大学",
-      "url": "https://www.thepaper.cn/tag/8688",
-      "source": "澎湃新闻",
-      "time": "",
       "tag": "media"
     },
     {
