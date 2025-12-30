@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2025-12-30 22:25",
+  "update_time": "2025-12-30 23:27",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -76,6 +76,13 @@ window.SHU_DATA = {
       "url": "https://news.sciencenet.cn/htmlnews/2025/9/551771.shtm",
       "source": "科学网",
       "time": "9月20日",
+      "tag": "media"
+    },
+    {
+      "title": "为什么上海的年轻人又开始为“文学”排队了",
+      "url": "https://www.thepaper.cn/newsDetail_forward_30579777",
+      "source": "澎湃新闻",
+      "time": "4月5日",
       "tag": "media"
     },
     {
