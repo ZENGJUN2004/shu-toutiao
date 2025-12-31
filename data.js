@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2025-12-31 13:29",
+  "update_time": "2025-12-31 14:39",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "第十八届“谢晋杯”学生作品大赛顺利结束",
-      "url": "https://news.shu.edu.cn/info/1012/170225.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "中国高等院校影视学会影视产业与管理专业委员会2025年学术年会在上海大学上海电影学院成功举办",
-      "url": "https://news.shu.edu.cn/info/1012/170235.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海大学“创新中国”2.0第五课“高端装备与智能制造”开讲",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "上海市科技企业家创新领导力培训第三期（暨上海大学创新领导力第五期）正式启动",
       "url": "https://news.shu.edu.cn/info/1012/170285.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学党校上海电影学院办学点第四十九期入党积极分子培训班暨2025年下半年预备党员培训正式启动",
+      "url": "https://news.shu.edu.cn/info/1012/170555.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "红色文献研究中心、甬籍历史人物研究中心成立大会暨纪念抗战胜利八十周年学术论坛在上海大学举行",
+      "url": "https://news.shu.edu.cn/info/1012/170565.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
