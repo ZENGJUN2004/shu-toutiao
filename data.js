@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-01-01 14:40",
+  "update_time": "2026-01-01 15:27",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "上海市科技企业家创新领导力培训第三期（暨上海大学创新领导力第五期）正式启动",
-      "url": "https://news.shu.edu.cn/info/1012/170285.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海大学党校上海电影学院办学点第四十九期入党积极分子培训班暨2025年下半年预备党员培训正式启动",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "九三学社上海大学委员会完成全年各项培训任务",
       "url": "https://news.shu.edu.cn/info/1012/170755.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学校领导节前“巡诊”校园安全，筑牢安全屏障",
+      "url": "https://news.shu.edu.cn/info/1012/170805.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
