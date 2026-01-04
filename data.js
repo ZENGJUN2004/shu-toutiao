@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-01-04 14:38",
+  "update_time": "2026-01-04 15:25",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "红色文献研究中心、甬籍历史人物研究中心成立大会暨纪念抗战胜利八十周年学术论坛在上海大学举行",
-      "url": "https://news.shu.edu.cn/info/1012/170565.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海电影学院齐伟教授荣获第八届上海文化艺术奖优秀新人奖",
-      "url": "https://news.shu.edu.cn/info/1012/170735.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "通信与信息工程学院通信工程专业成功通过工程教育认证",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "深化产教融合 共育拔尖创新人才——上海颂鼎社创郭艳刚主任一行到访上海大学外国语学院",
       "url": "https://news.shu.edu.cn/info/1012/170795.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "法学院举办2026年“我为上大代言”宣讲实践专题培训会暨贵州学子座谈会",
+      "url": "https://news.shu.edu.cn/info/1012/170825.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学教育发展基金会第三届理事会第七、八次会议召开",
+      "url": "https://news.shu.edu.cn/info/1012/170845.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
