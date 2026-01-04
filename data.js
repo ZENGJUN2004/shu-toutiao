@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-01-04 13:30",
+  "update_time": "2026-01-04 14:38",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "上海大学党校上海电影学院办学点第四十九期入党积极分子培训班暨2025年下半年预备党员培训正式启动",
-      "url": "https://news.shu.edu.cn/info/1012/170555.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "红色文献研究中心、甬籍历史人物研究中心成立大会暨纪念抗战胜利八十周年学术论坛在上海大学举行",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "上海大学校领导节前“巡诊”校园安全，筑牢安全屏障",
       "url": "https://news.shu.edu.cn/info/1012/170805.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "深化产教融合 共育拔尖创新人才——上海颂鼎社创郭艳刚主任一行到访上海大学外国语学院",
+      "url": "https://news.shu.edu.cn/info/1012/170795.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
