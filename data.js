@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-01-06 14:40",
+  "update_time": "2026-01-06 15:30",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "深化产教融合 共育拔尖创新人才——上海颂鼎社创郭艳刚主任一行到访上海大学外国语学院",
-      "url": "https://news.shu.edu.cn/info/1012/170795.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "法学院举办2026年“我为上大代言”宣讲实践专题培训会暨贵州学子座谈会",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "上海大学期刊社徐海丽入选2025年东方英才计划拔尖项目",
       "url": "https://news.shu.edu.cn/info/1012/170995.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "筑牢校园安全防线，护航师生平安发展——我校保卫处召开2026年消防工作部署会",
+      "url": "https://news.shu.edu.cn/info/1012/171015.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
