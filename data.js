@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-01-06 07:24",
+  "update_time": "2026-01-06 10:02",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "九三学社上海大学委员会完成全年各项培训任务",
-      "url": "https://news.shu.edu.cn/info/1012/170755.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海大学校领导节前“巡诊”校园安全，筑牢安全屏障",
-      "url": "https://news.shu.edu.cn/info/1012/170805.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "深化产教融合 共育拔尖创新人才——上海颂鼎社创郭艳刚主任一行到访上海大学外国语学院",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "“影火”合唱团荣获“党的光辉照我心”上海大学2025年主题合唱比赛一等奖",
       "url": "https://news.shu.edu.cn/info/1012/170855.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学举行党委理论学习中心组集体学习研讨会 为高质量开好民主生活会打牢思想基础",
+      "url": "https://news.shu.edu.cn/info/1012/170965.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学期刊社徐海丽入选2025年东方英才计划拔尖项目",
+      "url": "https://news.shu.edu.cn/info/1012/170995.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
