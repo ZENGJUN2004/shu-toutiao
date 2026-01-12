@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-01-12 15:31",
+  "update_time": "2026-01-12 16:38",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,43 +16,43 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "“影火”合唱团荣获“党的光辉照我心”上海大学2025年主题合唱比赛一等奖",
-      "url": "https://news.shu.edu.cn/info/1012/170855.htm",
+      "title": "上海艺指委2025年度工作会议顺利召开",
+      "url": "https://news.shu.edu.cn/info/1012/171095.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "上海大学举行党委理论学习中心组集体学习研讨会 为高质量开好民主生活会打牢思想基础",
-      "url": "https://news.shu.edu.cn/info/1012/170965.htm",
+      "title": "校党委书记与2025级新生代表座谈",
+      "url": "https://news.shu.edu.cn/info/1012/171115.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "上海大学期刊社徐海丽入选2025年东方英才计划拔尖项目",
-      "url": "https://news.shu.edu.cn/info/1012/170995.htm",
+      "title": "法学院知识产权专业研究生师生代表到B站法务部访问交流",
+      "url": "https://news.shu.edu.cn/info/1012/171125.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "筑牢校园安全防线，护航师生平安发展——我校保卫处召开2026年消防工作部署会",
-      "url": "https://news.shu.edu.cn/info/1012/171015.htm",
+      "title": "材料科学与工程学院党委召开系列师生代表座谈会",
+      "url": "https://news.shu.edu.cn/info/1012/171135.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "《丙午年》特种邮票发行，百年上大与百年邮政共同见证",
-      "url": "https://news.shu.edu.cn/info/1012/171025.htm",
+      "title": "送学上门！法学院举行决咨课题申请和专报撰写交流研讨会",
+      "url": "https://news.shu.edu.cn/info/1012/171145.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "九三学社南通市委员会一行到访上海大学",
-      "url": "https://news.shu.edu.cn/info/1012/171045.htm",
+      "title": "材料科学与工程学院党委理论学习中心组开展专题学习研讨锚定新质生产力谋划学院发展",
+      "url": "https://news.shu.edu.cn/info/1012/171155.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
