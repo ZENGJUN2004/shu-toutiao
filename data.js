@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-01-13 09:59",
+  "update_time": "2026-01-13 11:44",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,34 +16,6 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "上海艺指委2025年度工作会议顺利召开",
-      "url": "https://news.shu.edu.cn/info/1012/171095.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "校党委书记与2025级新生代表座谈",
-      "url": "https://news.shu.edu.cn/info/1012/171115.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "法学院知识产权专业研究生师生代表到B站法务部访问交流",
-      "url": "https://news.shu.edu.cn/info/1012/171125.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "材料科学与工程学院党委召开系列师生代表座谈会",
-      "url": "https://news.shu.edu.cn/info/1012/171135.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
       "title": "送学上门！法学院举行决咨课题申请和专报撰写交流研讨会",
       "url": "https://news.shu.edu.cn/info/1012/171145.htm",
       "source": "上大官网",
@@ -53,6 +25,34 @@ window.SHU_DATA = {
     {
       "title": "材料科学与工程学院党委理论学习中心组开展专题学习研讨锚定新质生产力谋划学院发展",
       "url": "https://news.shu.edu.cn/info/1012/171155.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "2025年度上海大学教育统计与评价工作表彰会顺利召开",
+      "url": "https://news.shu.edu.cn/info/1012/171165.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "经济学院举行“筑梦·致远”2025年总结表彰大会",
+      "url": "https://news.shu.edu.cn/info/1012/171175.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海市中小企业服务能力提升培训班在经管中心举办",
+      "url": "https://news.shu.edu.cn/info/1012/171185.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "凝心聚力，砺行致远 ——生命科学学院2025年度总结表彰大会顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/171205.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
