@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-01-14 15:29",
+  "update_time": "2026-01-14 16:36",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,34 +16,6 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "上海市中小企业服务能力提升培训班在经管中心举办",
-      "url": "https://news.shu.edu.cn/info/1012/171185.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "凝心聚力，砺行致远 ——生命科学学院2025年度总结表彰大会顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/171205.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "九三王选关怀基金会和社市委领导看望社员关阳",
-      "url": "https://news.shu.edu.cn/info/1012/171235.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "开局之年，稳步前行 ——九三学社上海大学委员会举行社员迎新大会",
-      "url": "https://news.shu.edu.cn/info/1012/171255.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
       "title": "文信学院教师在第五届全国高校信息资源管理课程思政建设研讨会暨课程思政教学创新大赛中斩获佳绩",
       "url": "https://news.shu.edu.cn/info/1012/171275.htm",
       "source": "上大官网",
@@ -53,6 +25,34 @@ window.SHU_DATA = {
     {
       "title": "社会学院2026届毕业生专场招聘会顺利举办",
       "url": "https://news.shu.edu.cn/info/1012/171285.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "科技赋能家庭心育，志愿护航成长之路 ——上海大学社会学院与市残疾人福利基金会大学生志愿实训签约仪式顺利...",
+      "url": "https://news.shu.edu.cn/info/1012/171295.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "卅载风华凝星光，同心筑梦展新篇——2025年度上海大学外国语学院“海星之夜”总结大会顺利落幕",
+      "url": "https://news.shu.edu.cn/info/1012/171305.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "2025年上海市先进光波导智能制造与测试专业技术服务平台专家委员会会议成功召开",
+      "url": "https://news.shu.edu.cn/info/1012/171325.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "守正创新谋发展 研途奋进向未来——研究生工作处召开2026年工作务虚会",
+      "url": "https://news.shu.edu.cn/info/1012/171345.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
