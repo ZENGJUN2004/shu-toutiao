@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-01-14 10:07",
+  "update_time": "2026-01-14 12:11",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,27 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "送学上门！法学院举行决咨课题申请和专报撰写交流研讨会",
-      "url": "https://news.shu.edu.cn/info/1012/171145.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "材料科学与工程学院党委理论学习中心组开展专题学习研讨锚定新质生产力谋划学院发展",
-      "url": "https://news.shu.edu.cn/info/1012/171155.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "2025年度上海大学教育统计与评价工作表彰会顺利召开",
-      "url": "https://news.shu.edu.cn/info/1012/171165.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "经济学院举行“筑梦·致远”2025年总结表彰大会",
@@ -53,6 +32,27 @@ window.SHU_DATA = {
     {
       "title": "凝心聚力，砺行致远 ——生命科学学院2025年度总结表彰大会顺利举行",
       "url": "https://news.shu.edu.cn/info/1012/171205.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "九三王选关怀基金会和社市委领导看望社员关阳",
+      "url": "https://news.shu.edu.cn/info/1012/171235.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "开局之年，稳步前行 ——九三学社上海大学委员会举行社员迎新大会",
+      "url": "https://news.shu.edu.cn/info/1012/171255.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "文信学院教师在第五届全国高校信息资源管理课程思政建设研讨会暨课程思政教学创新大赛中斩获佳绩",
+      "url": "https://news.shu.edu.cn/info/1012/171275.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
