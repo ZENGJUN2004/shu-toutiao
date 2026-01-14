@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-01-14 13:29",
+  "update_time": "2026-01-14 14:40",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "经济学院举行“筑梦·致远”2025年总结表彰大会",
-      "url": "https://news.shu.edu.cn/info/1012/171175.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海市中小企业服务能力提升培训班在经管中心举办",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "文信学院教师在第五届全国高校信息资源管理课程思政建设研讨会暨课程思政教学创新大赛中斩获佳绩",
       "url": "https://news.shu.edu.cn/info/1012/171275.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "社会学院2026届毕业生专场招聘会顺利举办",
+      "url": "https://news.shu.edu.cn/info/1012/171285.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
