@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-01-15 10:01",
+  "update_time": "2026-01-15 12:06",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "社会学院2026届毕业生专场招聘会顺利举办",
-      "url": "https://news.shu.edu.cn/info/1012/171285.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "科技赋能家庭心育，志愿护航成长之路 ——上海大学社会学院与市残疾人福利基金会大学生志愿实训签约仪式顺利...",
-      "url": "https://news.shu.edu.cn/info/1012/171295.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "卅载风华凝星光，同心筑梦展新篇——2025年度上海大学外国语学院“海星之夜”总结大会顺利落幕",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "传承大钟精神，逐梦智能时代：2025年度上海大学新闻传播学院“大钟奖学金”颁奖典礼顺利举行",
       "url": "https://news.shu.edu.cn/info/1012/171405.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "2025第二届黄山国际传播论坛在上海大学成功举办",
+      "url": "https://news.shu.edu.cn/info/1012/171415.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "戏剧戏曲学科短片《台灵》荣获“电影中国”戏曲电影大展年度戏曲短片奖",
+      "url": "https://news.shu.edu.cn/info/1012/171425.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
