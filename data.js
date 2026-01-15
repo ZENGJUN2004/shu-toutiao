@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-01-15 15:29",
+  "update_time": "2026-01-15 16:36",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "卅载风华凝星光，同心筑梦展新篇——2025年度上海大学外国语学院“海星之夜”总结大会顺利落幕",
-      "url": "https://news.shu.edu.cn/info/1012/171305.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "2025年上海市先进光波导智能制造与测试专业技术服务平台专家委员会会议成功召开",
-      "url": "https://news.shu.edu.cn/info/1012/171325.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "守正创新谋发展 研途奋进向未来——研究生工作处召开2026年工作务虚会",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "戏剧戏曲学科短片《台灵》荣获“电影中国”戏曲电影大展年度戏曲短片奖",
       "url": "https://news.shu.edu.cn/info/1012/171425.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学一站式服务中心成立五周年总结与发展研讨会顺利召开",
+      "url": "https://news.shu.edu.cn/info/1012/171445.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "联合国、哥伦比亚大学代表团访问上海大学共商合作新篇",
+      "url": "https://news.shu.edu.cn/info/1012/171455.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
