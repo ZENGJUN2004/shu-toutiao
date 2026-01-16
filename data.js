@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-01-16 10:04",
+  "update_time": "2026-01-16 12:04",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "守正创新谋发展 研途奋进向未来——研究生工作处召开2026年工作务虚会",
-      "url": "https://news.shu.edu.cn/info/1012/171345.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "传承大钟精神，逐梦智能时代：2025年度上海大学新闻传播学院“大钟奖学金”颁奖典礼顺利举行",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "联合国、哥伦比亚大学代表团访问上海大学共商合作新篇",
       "url": "https://news.shu.edu.cn/info/1012/171455.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "外国语学院党委召开2025年党支部书记抓基层党建工作述职评议考核会",
+      "url": "https://news.shu.edu.cn/info/1012/171465.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
