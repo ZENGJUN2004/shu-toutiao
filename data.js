@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-01-19 14:45",
+  "update_time": "2026-01-19 15:33",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "加强社工人才培养 推动基层社会治理——上海经济管理中心为南汇新城镇举办2026年社工“育苗计划”培训班",
-      "url": "https://news.shu.edu.cn/info/1012/171495.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "共商干部教育与专技教育发展新路径——上海经济管理中心召开第二十五次校务委员会暨国家级专业技术人员继续...",
-      "url": "https://news.shu.edu.cn/info/1012/171505.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "陈立群教授荣获2025年度教育部自然科学研究成果奖二等奖",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "凝聚智慧力量，共绘发展蓝图——外国语学院党委召开党外人士、退休教师座谈会",
       "url": "https://news.shu.edu.cn/info/1012/171595.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "我校召开干部教育培训工作领导小组第六次会议",
+      "url": "https://news.shu.edu.cn/info/1012/171635.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "法国驻上海总领事馆科技领事Rachid MALTI一行访问理学院",
+      "url": "https://news.shu.edu.cn/info/1012/171645.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
