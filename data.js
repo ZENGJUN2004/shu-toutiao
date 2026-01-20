@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-01-20 10:04",
+  "update_time": "2026-01-20 12:09",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "上海市委统战部领导调研上海新的社会阶层研究中心等工作",
-      "url": "https://news.shu.edu.cn/info/1012/171585.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "凝聚智慧力量，共绘发展蓝图——外国语学院党委召开党外人士、退休教师座谈会",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "校地协同赋能智能计算新生态，上大计算机学院赴上海超级计算中心交流访问",
       "url": "https://news.shu.edu.cn/info/1012/171695.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "悉尼工商学院党委举行2025年度党支部书记抓基层党建述职评议考核会",
+      "url": "https://news.shu.edu.cn/info/1012/171705.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
