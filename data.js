@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-01-22 13:33",
+  "update_time": "2026-01-22 14:41",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -65,10 +65,10 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "青瞳视觉正式入驻国际元数创港,4500㎡新基地正式启用",
-      "url": "http://caijing.chinadaily.com.cn/a/202601/21/WS69706708a310942cc499c264.html",
-      "source": "中国日报网",
-      "time": "昨天11:04",
+      "title": "新华时政_新华网",
+      "url": "http://www.xinhuanet.com/politics/ggyslt/zbsl.htm",
+      "source": "新华网",
+      "time": "",
       "tag": "media"
     }
   ]
