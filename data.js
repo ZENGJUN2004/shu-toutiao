@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-01-22 10:07",
+  "update_time": "2026-01-22 12:11",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "上海总工程师协会2025年会暨八届三次会员大会成功召开",
-      "url": "https://news.shu.edu.cn/info/1012/171725.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "2025年度机关党委党支部书记抓基层党建工作述职评议会顺利召开",
-      "url": "https://news.shu.edu.cn/info/1012/171745.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "倾听青年声音，共筑成长桥梁——外国语学院2025-2026学年师生座谈会顺利举行",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "上海航空与上海大学共促文化交流",
       "url": "https://news.shu.edu.cn/info/1012/172035.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "民进上海大学委员会召开2025年度总结表彰会",
+      "url": "https://news.shu.edu.cn/info/1012/172165.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海电影学院顺利召开六届第四次“双代会”",
+      "url": "https://news.shu.edu.cn/info/1012/172175.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
