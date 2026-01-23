@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-01-23 07:26",
+  "update_time": "2026-01-23 10:03",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "倾听青年声音，共筑成长桥梁——外国语学院2025-2026学年师生座谈会顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/172005.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "凝心聚力守初心 双岗建功启新程——民盟上海大学委员会2025年度总结表彰大会顺利召开",
-      "url": "https://news.shu.edu.cn/info/1012/172015.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "悉尼工商学院召开2026年中层战略务虚会",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "上海电影学院顺利召开六届第四次“双代会”",
       "url": "https://news.shu.edu.cn/info/1012/172175.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "巴林教育工作者团访问上海大学",
+      "url": "https://news.shu.edu.cn/info/1012/172185.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海电影学院举行全院大会暨2025年荣誉体系表彰会",
+      "url": "https://news.shu.edu.cn/info/1012/172195.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
