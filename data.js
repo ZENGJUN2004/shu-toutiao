@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-01-23 10:03",
+  "update_time": "2026-01-23 12:06",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,27 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "悉尼工商学院召开2026年中层战略务虚会",
-      "url": "https://news.shu.edu.cn/info/1012/172025.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海航空与上海大学共促文化交流",
-      "url": "https://news.shu.edu.cn/info/1012/172035.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "民进上海大学委员会召开2025年度总结表彰会",
-      "url": "https://news.shu.edu.cn/info/1012/172165.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海电影学院顺利召开六届第四次“双代会”",
@@ -53,6 +32,27 @@ window.SHU_DATA = {
     {
       "title": "上海电影学院举行全院大会暨2025年荣誉体系表彰会",
       "url": "https://news.shu.edu.cn/info/1012/172195.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "为产育人、为城服务，教育家精神赋能高等学历继续教育改革——上海大学继续教育学院举办第三期“校外教学点...",
+      "url": "https://news.shu.edu.cn/info/1012/172205.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "书记述职明方向 凝心聚力促发展：材料学院召开2025年度学院党总支暨党支部书记抓基层党建工作述职评议会",
+      "url": "https://news.shu.edu.cn/info/1012/172215.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "共话人生阅读智慧 赋能成长之路——上海大学管理学院MBA中心携手义乌双童设立奖学金",
+      "url": "https://news.shu.edu.cn/info/1012/172225.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
