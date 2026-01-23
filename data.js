@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-01-23 14:41",
+  "update_time": "2026-01-23 15:30",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,43 +16,43 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "上海电影学院顺利召开六届第四次“双代会”",
-      "url": "https://news.shu.edu.cn/info/1012/172175.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "巴林教育工作者团访问上海大学",
-      "url": "https://news.shu.edu.cn/info/1012/172185.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海电影学院举行全院大会暨2025年荣誉体系表彰会",
-      "url": "https://news.shu.edu.cn/info/1012/172195.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "为产育人、为城服务，教育家精神赋能高等学历继续教育改革——上海大学继续教育学院举办第三期“校外教学点...",
-      "url": "https://news.shu.edu.cn/info/1012/172205.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "书记述职明方向 凝心聚力促发展：材料学院召开2025年度学院党总支暨党支部书记抓基层党建工作述职评议会",
-      "url": "https://news.shu.edu.cn/info/1012/172215.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
       "title": "共话人生阅读智慧 赋能成长之路——上海大学管理学院MBA中心携手义乌双童设立奖学金",
       "url": "https://news.shu.edu.cn/info/1012/172225.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学基础教育集团附属学校专题工作研讨会顺利召开",
+      "url": "https://news.shu.edu.cn/info/1012/172235.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学与湘潭大学签署“伙伴社工高校”合作协议",
+      "url": "https://news.shu.edu.cn/info/1012/172245.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "融合赋能强贡献，凝心聚力启新程——期刊社举行二〇二五年度总结表彰大会",
+      "url": "https://news.shu.edu.cn/info/1012/172255.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "材料学院召开2025年度党员领导干部民主生活会暨巡察整改专题民主生活会",
+      "url": "https://news.shu.edu.cn/info/1012/172265.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海电影学院和国际部举办“党建+国际化”支部共建活动，共话国际化发展未来",
+      "url": "https://news.shu.edu.cn/info/1012/172275.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
