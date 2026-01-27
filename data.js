@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-01-27 22:35",
+  "update_time": "2026-01-27 23:35",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -56,13 +56,6 @@ window.SHU_DATA = {
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
-    },
-    {
-      "title": "钱伟长逝世-新闻专题-科学网",
-      "url": "https://news.sciencenet.cn/news/sub2.aspx?id=388",
-      "source": "科学网",
-      "time": "",
-      "tag": "media"
     },
     {
       "title": "新华时政_新华网",
