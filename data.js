@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-01-27 23:35",
+  "update_time": "2026-01-28 00:35",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -58,17 +58,31 @@ window.SHU_DATA = {
       "tag": "official"
     },
     {
-      "title": "新华时政_新华网",
-      "url": "http://www.xinhuanet.com/politics/ggyslt/zbsl.htm",
-      "source": "新华网",
+      "title": "钱伟长逝世-新闻专题-科学网",
+      "url": "https://news.sciencenet.cn/news/sub2.aspx?id=388",
+      "source": "科学网",
       "time": "",
+      "tag": "media"
+    },
+    {
+      "title": "首届重庆市人工智能赋能科学研究大会举行",
+      "url": "https://www.stdaily.com/web/gdxw/2026-01/17/content_463054.html",
+      "source": "中国科技网",
+      "time": "1月17日",
       "tag": "media"
     },
     {
       "title": "2025年社会学研究发展报告",
       "url": "https://www.thepaper.cn/newsDetail_forward_32463887",
       "source": "澎湃新闻",
-      "time": "昨天11:42",
+      "time": "前天11:42",
+      "tag": "media"
+    },
+    {
+      "title": "新华时政_新华网",
+      "url": "http://www.xinhuanet.com/politics/ggyslt/zbsl.htm",
+      "source": "新华网",
+      "time": "",
       "tag": "media"
     }
   ]
