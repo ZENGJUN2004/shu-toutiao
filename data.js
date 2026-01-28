@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-01-28 23:38",
+  "update_time": "2026-01-29 00:43",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,53 +16,46 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "共话人生阅读智慧 赋能成长之路——上海大学管理学院MBA中心携手义乌双童设立奖学金",
-      "url": "https://news.shu.edu.cn/info/1012/172225.htm",
+      "title": "上海高校计算机类院系学工书记沙龙（第二期）成功举办",
+      "url": "https://news.shu.edu.cn/info/1012/172485.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "上海大学基础教育集团附属学校专题工作研讨会顺利召开",
-      "url": "https://news.shu.edu.cn/info/1012/172235.htm",
+      "title": "凝聚共识 汇聚改革合力——生命学院举办学校综合改革专场宣讲会",
+      "url": "https://news.shu.edu.cn/info/1012/172495.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "上海大学与湘潭大学签署“伙伴社工高校”合作协议",
-      "url": "https://news.shu.edu.cn/info/1012/172245.htm",
+      "title": "材料学院全国重点实验室党总支成立选举暨所属党支部换届选举顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/172505.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "融合赋能强贡献，凝心聚力启新程——期刊社举行二〇二五年度总结表彰大会",
-      "url": "https://news.shu.edu.cn/info/1012/172255.htm",
+      "title": "巴林大学健康与运动科学学院院长Leena Mohammad博士一行来访上海大学体育学院",
+      "url": "https://news.shu.edu.cn/info/1012/172525.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "材料学院召开2025年度党员领导干部民主生活会暨巡察整改专题民主生活会",
-      "url": "https://news.shu.edu.cn/info/1012/172265.htm",
+      "title": "“天地间·曾成钢雕塑作品展”开幕，137件雕塑力作彰显中国美学",
+      "url": "https://news.shu.edu.cn/info/1012/172545.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "上海电影学院和国际部举办“党建+国际化”支部共建活动，共话国际化发展未来",
-      "url": "https://news.shu.edu.cn/info/1012/172275.htm",
+      "title": "凝心聚力铸辉煌，奋楫扬帆谱新篇——环化学院召开2025年终总结表彰会",
+      "url": "https://news.shu.edu.cn/info/1012/172555.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
-    },
-    {
-      "title": "2025年社会学研究发展报告",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32463887",
-      "source": "澎湃新闻",
-      "time": "前天11:42",
-      "tag": "media"
     },
     {
       "title": "新华时政_新华网",
