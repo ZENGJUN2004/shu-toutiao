@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-01-28 15:31",
+  "update_time": "2026-01-28 16:39",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -65,17 +65,10 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "创新原位表征技术 引领储能器件未来",
-      "url": "http://caijing.chinadaily.com.cn/a/202601/15/WS69687bffa310942cc499b586.html",
-      "source": "中国日报网",
-      "time": "1月15日",
-      "tag": "media"
-    },
-    {
-      "title": "“十五五”开局之年,全力“拼经济”",
-      "url": "http://column.chinadaily.com.cn/a/202601/28/WS6979b872a310942cc499d2d2.html",
-      "source": "中国日报网",
-      "time": "今天",
+      "title": "新华时政_新华网",
+      "url": "http://www.xinhuanet.com/politics/ggyslt/zbsl.htm",
+      "source": "新华网",
+      "time": "",
       "tag": "media"
     }
   ]
