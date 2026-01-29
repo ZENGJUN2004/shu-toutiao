@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-01-29 18:41",
+  "update_time": "2026-01-29 19:34",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,43 +16,43 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "上海高校计算机类院系学工书记沙龙（第二期）成功举办",
-      "url": "https://news.shu.edu.cn/info/1012/172485.htm",
+      "title": "白板人生 故事永续——深切缅怀上海大学上海温哥华电影学院迪恩·威廉·伯恩斯先生",
+      "url": "https://news.shu.edu.cn/info/1012/172585.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "凝聚共识 汇聚改革合力——生命学院举办学校综合改革专场宣讲会",
-      "url": "https://news.shu.edu.cn/info/1012/172495.htm",
+      "title": "上海大学举行2026年校领导班子学习讨论会",
+      "url": "https://news.shu.edu.cn/info/1012/172605.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "材料学院全国重点实验室党总支成立选举暨所属党支部换届选举顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/172505.htm",
+      "title": "法学院党委领导班子召开2025年度民主生活会",
+      "url": "https://news.shu.edu.cn/info/1012/172615.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "巴林大学健康与运动科学学院院长Leena Mohammad博士一行来访上海大学体育学院",
-      "url": "https://news.shu.edu.cn/info/1012/172525.htm",
+      "title": "上海市向明中学师生赴我校开展“筑梦上大，智创未来”研学活动",
+      "url": "https://news.shu.edu.cn/info/1012/172625.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "“天地间·曾成钢雕塑作品展”开幕，137件雕塑力作彰显中国美学",
-      "url": "https://news.shu.edu.cn/info/1012/172545.htm",
+      "title": "新闻传播学院召开2026年第一次全体教师大会暨2025年度先进工作者表彰大会",
+      "url": "https://news.shu.edu.cn/info/1012/172635.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "凝心聚力铸辉煌，奋楫扬帆谱新篇——环化学院召开2025年终总结表彰会",
-      "url": "https://news.shu.edu.cn/info/1012/172555.htm",
+      "title": "笃行不怠传薪火 赓续初心绘新卷——农工党上海大学支部委员会2025年度总结交流座谈会顺利召开",
+      "url": "https://news.shu.edu.cn/info/1012/172645.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
