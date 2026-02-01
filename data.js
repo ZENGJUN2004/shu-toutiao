@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-02-01 19:26",
+  "update_time": "2026-02-01 20:59",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "白板人生 故事永续——深切缅怀上海大学上海温哥华电影学院迪恩·威廉·伯恩斯先生",
-      "url": "https://news.shu.edu.cn/info/1012/172585.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海大学举行2026年校领导班子学习讨论会",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "笃行不怠传薪火 赓续初心绘新卷——农工党上海大学支部委员会2025年度总结交流座谈会顺利召开",
       "url": "https://news.shu.edu.cn/info/1012/172645.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "创意涌动赋能产业 产教融合共育新才——第六届全国会展策划创意大赛顺利落幕",
+      "url": "https://news.shu.edu.cn/info/1012/172705.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
