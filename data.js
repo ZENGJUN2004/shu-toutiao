@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-02-01 22:30",
+  "update_time": "2026-02-01 23:30",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "上海大学举行2026年校领导班子学习讨论会",
-      "url": "https://news.shu.edu.cn/info/1012/172605.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "法学院党委领导班子召开2025年度民主生活会",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "创意涌动赋能产业 产教融合共育新才——第六届全国会展策划创意大赛顺利落幕",
       "url": "https://news.shu.edu.cn/info/1012/172705.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "情暖军营迎新春，军民同心谱新篇",
+      "url": "https://news.shu.edu.cn/info/1012/172695.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
