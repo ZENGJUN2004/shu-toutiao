@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-02-04 21:10",
+  "update_time": "2026-02-04 22:43",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "上海市向明中学师生赴我校开展“筑梦上大，智创未来”研学活动",
-      "url": "https://news.shu.edu.cn/info/1012/172625.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "新闻传播学院召开2026年第一次全体教师大会暨2025年度先进工作者表彰大会",
-      "url": "https://news.shu.edu.cn/info/1012/172635.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "笃行不怠传薪火 赓续初心绘新卷——农工党上海大学支部委员会2025年度总结交流座谈会顺利召开",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "学先进经验 促合作共赢——经管中心校友分会一行专访盐城校友企业",
       "url": "https://news.shu.edu.cn/info/1012/172735.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "民革上大委员会开展春节走访慰问老党员活动",
+      "url": "https://news.shu.edu.cn/info/1012/172675.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学侨联新春送暖走访慰问老归侨侨眷",
+      "url": "https://news.shu.edu.cn/info/1012/172745.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
