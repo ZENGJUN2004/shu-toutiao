@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-02-04 16:50",
+  "update_time": "2026-02-04 17:51",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "法学院党委领导班子召开2025年度民主生活会",
-      "url": "https://news.shu.edu.cn/info/1012/172615.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海市向明中学师生赴我校开展“筑梦上大，智创未来”研学活动",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "情暖军营迎新春，军民同心谱新篇",
       "url": "https://news.shu.edu.cn/info/1012/172695.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "学先进经验 促合作共赢——经管中心校友分会一行专访盐城校友企业",
+      "url": "https://news.shu.edu.cn/info/1012/172735.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
