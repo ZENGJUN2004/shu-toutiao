@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-02-07 18:31",
+  "update_time": "2026-02-07 19:26",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "笃行不怠传薪火 赓续初心绘新卷——农工党上海大学支部委员会2025年度总结交流座谈会顺利召开",
-      "url": "https://news.shu.edu.cn/info/1012/172645.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "创意涌动赋能产业 产教融合共育新才——第六届全国会展策划创意大赛顺利落幕",
-      "url": "https://news.shu.edu.cn/info/1012/172705.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "情暖军营迎新春，军民同心谱新篇",
@@ -58,18 +44,18 @@ window.SHU_DATA = {
       "tag": "official"
     },
     {
-      "title": "钱伟长逝世-新闻专题-科学网",
-      "url": "https://news.sciencenet.cn/news/sub2.aspx?id=388",
-      "source": "科学网",
-      "time": "",
-      "tag": "media"
+      "title": "党建引领聚合力 校企协同促发展——上海大学一行赴上海软件中心调研交流",
+      "url": "https://news.shu.edu.cn/info/1012/172945.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
     },
     {
-      "title": "2025年社会学研究发展报告",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32463887",
-      "source": "澎湃新闻",
-      "time": "1月26日",
-      "tag": "media"
+      "title": "计算机学院举行2026年寒假留校学生慰问座谈会",
+      "url": "https://news.shu.edu.cn/info/1012/172955.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
     },
     {
       "title": "新华时政_新华网",
