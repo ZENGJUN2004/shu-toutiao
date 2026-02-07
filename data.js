@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-02-07 10:26",
+  "update_time": "2026-02-07 12:41",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -58,10 +58,10 @@ window.SHU_DATA = {
       "tag": "official"
     },
     {
-      "title": "新华时政_新华网",
-      "url": "http://www.xinhuanet.com/politics/ggyslt/zbsl.htm",
-      "source": "新华网",
-      "time": "",
+      "title": "AI+新能源!易事特受邀参加第五届企业创新发展大会",
+      "url": "https://baijiahao.baidu.com/s?id=1856329090541365104&wfr=spider&for=pc",
+      "source": "同花顺财经",
+      "time": "前天18:12",
       "tag": "media"
     }
   ]
