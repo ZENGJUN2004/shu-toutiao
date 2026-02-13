@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-02-13 10:41",
+  "update_time": "2026-02-13 12:57",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "情暖军营迎新春，军民同心谱新篇",
-      "url": "https://news.shu.edu.cn/info/1012/172695.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "学先进经验 促合作共赢——经管中心校友分会一行专访盐城校友企业",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "计算机学院举行2026年寒假留校学生慰问座谈会",
       "url": "https://news.shu.edu.cn/info/1012/172955.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "环化学院召开2026年国家自然科学基金和人才计划申报辅导会",
+      "url": "https://news.shu.edu.cn/info/1012/172995.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
