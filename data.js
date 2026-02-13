@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-02-13 23:48",
+  "update_time": "2026-02-14 00:54",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "党建引领聚合力 校企协同促发展——上海大学一行赴上海软件中心调研交流",
-      "url": "https://news.shu.edu.cn/info/1012/172945.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "计算机学院举行2026年寒假留校学生慰问座谈会",
@@ -58,17 +51,24 @@ window.SHU_DATA = {
       "tag": "official"
     },
     {
-      "title": "新华时政_新华网",
-      "url": "http://www.xinhuanet.com/politics/ggyslt/zbsl.htm",
-      "source": "新华网",
-      "time": "",
-      "tag": "media"
+      "title": "欧美同学会上大分会走访慰问80岁以上老学长",
+      "url": "https://news.shu.edu.cn/info/1012/173055.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
     },
     {
       "title": "互联网条件下新大众文艺呼唤新知识体系",
       "url": "https://baijiahao.baidu.com/s?id=1856885193657162104&wfr=spider&for=pc",
       "source": "光明网",
-      "time": "昨天10:30",
+      "time": "前天10:30",
+      "tag": "media"
+    },
+    {
+      "title": "新华时政_新华网",
+      "url": "http://www.xinhuanet.com/politics/ggyslt/zbsl.htm",
+      "source": "新华网",
+      "time": "",
       "tag": "media"
     }
   ]
