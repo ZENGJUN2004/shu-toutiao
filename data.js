@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-02-14 23:31",
+  "update_time": "2026-02-15 00:36",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -56,13 +56,6 @@ window.SHU_DATA = {
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
-    },
-    {
-      "title": "互联网条件下新大众文艺呼唤新知识体系",
-      "url": "https://baijiahao.baidu.com/s?id=1856885193657162104&wfr=spider&for=pc",
-      "source": "光明网",
-      "time": "前天10:30",
-      "tag": "media"
     },
     {
       "title": "新华时政_新华网",
