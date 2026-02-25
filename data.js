@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-02-25 12:56",
+  "update_time": "2026-02-25 14:06",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -56,6 +56,27 @@ window.SHU_DATA = {
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
+    },
+    {
+      "title": "【科技日报】第二届智能科学家生态联盟大会在中国科学技术大学举办",
+      "url": "http://news.ustc.edu.cn/info/1056/89534.htm",
+      "source": "中国科学技术大学中国科大新闻网",
+      "time": "",
+      "tag": "media"
+    },
+    {
+      "title": "钱伟长逝世-新闻专题-科学网",
+      "url": "https://news.sciencenet.cn/news/sub2.aspx?id=388",
+      "source": "科学网",
+      "time": "",
+      "tag": "media"
+    },
+    {
+      "title": "科学网—速读",
+      "url": "https://news.sciencenet.cn/sbhtmlnews/2026/1/388264.shtm",
+      "source": "科学网",
+      "time": "1月23日",
+      "tag": "media"
     },
     {
       "title": "新华时政_新华网",
