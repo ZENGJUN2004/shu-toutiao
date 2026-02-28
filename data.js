@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-01 01:25",
+  "update_time": "2026-03-01 02:39",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -58,10 +58,10 @@ window.SHU_DATA = {
       "tag": "official"
     },
     {
-      "title": "卢阿普拉河畔的新春坚守(共建“一带一路”·第一现场)",
-      "url": "https://world.people.com.cn/n1/2026/0213/c1002-40665017.html",
-      "source": "人民网",
-      "time": "2月13日",
+      "title": "新华时政_新华网",
+      "url": "http://www.xinhuanet.com/politics/ggyslt/zbsl.htm",
+      "source": "新华网",
+      "time": "",
       "tag": "media"
     }
   ]
