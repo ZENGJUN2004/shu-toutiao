@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-02 22:48",
+  "update_time": "2026-03-02 23:47",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -58,10 +58,24 @@ window.SHU_DATA = {
       "tag": "official"
     },
     {
-      "title": "新华时政_新华网",
-      "url": "http://www.xinhuanet.com/politics/ggyslt/zbsl.htm",
+      "title": "卢阿普拉河畔的新春坚守(共建“一带一路”·第一现场)",
+      "url": "https://world.people.com.cn/n1/2026/0213/c1002-40665017.html",
+      "source": "人民网",
+      "time": "2月13日",
+      "tag": "media"
+    },
+    {
+      "title": "片源丰富,为何难吸引低频观影人群",
+      "url": "http://www.xinhuanet.com/ent/20260302/c9c3ba1a888149ddb8fb67a1836bf120/c.html",
       "source": "新华网",
-      "time": "",
+      "time": "14小时前",
+      "tag": "media"
+    },
+    {
+      "title": "萌马送福 马力全开",
+      "url": "https://baijiahao.baidu.com/s?id=1858403205438133654&wfr=spider&for=pc",
+      "source": "光明网",
+      "time": "昨天03:30",
       "tag": "media"
     }
   ]
