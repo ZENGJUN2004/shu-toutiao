@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-03 10:35",
+  "update_time": "2026-03-03 12:50",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "九三学社上海大学委员会开展新春慰问活动",
-      "url": "https://news.shu.edu.cn/info/1012/173015.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海市智能网联汽车网络安全重点实验室2025年度学术委员会会议顺利召开",
-      "url": "https://news.shu.edu.cn/info/1012/173025.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "马年迎春至，家访送暖情——上海大学开展2026年春节家访慰问活动",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "上海大学举办丙午马年国际学生新春沙龙",
       "url": "https://news.shu.edu.cn/info/1012/173095.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "悉尼工商学院召开新年教职工大会",
+      "url": "https://news.shu.edu.cn/info/1012/173315.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "攻坚攀高峰，笃行开新局——机自学院2026年全院教职工大会顺利召开",
+      "url": "https://news.shu.edu.cn/info/1012/173325.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
