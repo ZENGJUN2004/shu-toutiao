@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-06 15:41",
+  "update_time": "2026-03-06 16:44",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -58,17 +58,17 @@ window.SHU_DATA = {
       "tag": "official"
     },
     {
+      "title": "新华时政_新华网",
+      "url": "http://www.xinhuanet.com/politics/ggyslt/zbsl.htm",
+      "source": "新华网",
+      "time": "",
+      "tag": "media"
+    },
+    {
       "title": "提升中华优秀传统文化国际传播效能",
       "url": "https://baijiahao.baidu.com/s?id=1858784267378999936&wfr=spider&for=pc",
       "source": "光明网",
       "time": "昨天09:35",
-      "tag": "media"
-    },
-    {
-      "title": "科技与民俗相融,上海宝山罗店镇解锁元宵新玩法",
-      "url": "https://difang.gmw.cn/sh/2026-03/05/content_38630046.htm",
-      "source": "光明网",
-      "time": "昨天14:31",
       "tag": "media"
     }
   ]
