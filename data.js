@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-06 23:42",
+  "update_time": "2026-03-07 00:49",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -58,17 +58,17 @@ window.SHU_DATA = {
       "tag": "official"
     },
     {
+      "title": "提升中华优秀传统文化国际传播效能",
+      "url": "https://baijiahao.baidu.com/s?id=1858784267378999936&wfr=spider&for=pc",
+      "source": "光明网",
+      "time": "前天09:35",
+      "tag": "media"
+    },
+    {
       "title": "新华时政_新华网",
       "url": "http://www.xinhuanet.com/politics/ggyslt/zbsl.htm",
       "source": "新华网",
       "time": "",
-      "tag": "media"
-    },
-    {
-      "title": "提升中华优秀传统文化国际传播效能",
-      "url": "https://baijiahao.baidu.com/s?id=1858784267378999936&wfr=spider&for=pc",
-      "source": "光明网",
-      "time": "昨天09:35",
       "tag": "media"
     }
   ]
