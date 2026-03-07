@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-07 23:28",
+  "update_time": "2026-03-08 00:33",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -56,13 +56,6 @@ window.SHU_DATA = {
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
-    },
-    {
-      "title": "提升中华优秀传统文化国际传播效能",
-      "url": "https://baijiahao.baidu.com/s?id=1858784267378999936&wfr=spider&for=pc",
-      "source": "光明网",
-      "time": "前天09:35",
-      "tag": "media"
     },
     {
       "title": "新华时政_新华网",
