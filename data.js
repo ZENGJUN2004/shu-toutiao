@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-10 07:32",
+  "update_time": "2026-03-10 10:27",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,34 +16,6 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "上海美术学院青年教师蔡丰盛荣膺2026年德国iF设计奖",
-      "url": "https://news.shu.edu.cn/info/1012/173465.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "民盟上海大学委员会2026年双月例会第一次会议成功召开",
-      "url": "https://news.shu.edu.cn/info/1012/173505.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海大学集成电路协同育人联盟 赴临港新片区集成电路产业集群党委调研座谈",
-      "url": "https://news.shu.edu.cn/info/1012/173515.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "民进上海大学委员会召开换届工作启动会",
-      "url": "https://news.shu.edu.cn/info/1012/173535.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
       "title": "手植微世界 帧藏好春光——上海电影学院三八国际妇女节系列活动顺利举办",
       "url": "https://news.shu.edu.cn/info/1012/173555.htm",
       "source": "上大官网",
@@ -53,6 +25,34 @@ window.SHU_DATA = {
     {
       "title": "上海电影学院召开全院教职工大会",
       "url": "https://news.shu.edu.cn/info/1012/173565.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学理学院与阿克苏诺贝尔集团粉末涂料事业部举行校企合作交流会",
+      "url": "https://news.shu.edu.cn/info/1012/173605.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "期刊社召开新学期首日工作会议",
+      "url": "https://news.shu.edu.cn/info/1012/173625.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海美术学院召开2026年春季中层干部务虚会",
+      "url": "https://news.shu.edu.cn/info/1012/173635.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "本科生院召开教职工首日工作会议",
+      "url": "https://news.shu.edu.cn/info/1012/173645.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
