@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-11 07:32",
+  "update_time": "2026-03-11 10:26",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "手植微世界 帧藏好春光——上海电影学院三八国际妇女节系列活动顺利举办",
-      "url": "https://news.shu.edu.cn/info/1012/173555.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海电影学院召开全院教职工大会",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "本科生院召开教职工首日工作会议",
       "url": "https://news.shu.edu.cn/info/1012/173645.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "国家重点研发计划“共生菌对发育和代谢的影响及干预”项目启动会在上海大学顺利召开",
+      "url": "https://news.shu.edu.cn/info/1012/173685.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
