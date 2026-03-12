@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-12 10:32",
+  "update_time": "2026-03-12 12:50",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,27 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "上海电影学院召开全院教职工大会",
-      "url": "https://news.shu.edu.cn/info/1012/173565.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海大学理学院与阿克苏诺贝尔集团粉末涂料事业部举行校企合作交流会",
-      "url": "https://news.shu.edu.cn/info/1012/173605.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "期刊社召开新学期首日工作会议",
-      "url": "https://news.shu.edu.cn/info/1012/173625.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海美术学院召开2026年春季中层干部务虚会",
@@ -53,6 +32,27 @@ window.SHU_DATA = {
     {
       "title": "国家重点研发计划“共生菌对发育和代谢的影响及干预”项目启动会在上海大学顺利召开",
       "url": "https://news.shu.edu.cn/info/1012/173685.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "巾帼不让须眉——致敬微电子学院“她风采”",
+      "url": "https://news.shu.edu.cn/info/1012/173725.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学外国语学院赴中国东航股份有限公司开展校企合作走访交流",
+      "url": "https://news.shu.edu.cn/info/1012/173735.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学二〇二六年上半年退役学生欢迎大会举行",
+      "url": "https://news.shu.edu.cn/info/1012/173745.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
