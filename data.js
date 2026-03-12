@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-13 04:40",
+  "update_time": "2026-03-13 05:37",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -62,6 +62,13 @@ window.SHU_DATA = {
       "url": "https://news.sciencenet.cn/htmlnews/2026/2/560499.shtm",
       "source": "科学网",
       "time": "2月25日",
+      "tag": "media"
+    },
+    {
+      "title": "新华时政_新华网",
+      "url": "http://www.xinhuanet.com/politics/ggyslt/zbsl.htm",
+      "source": "新华网",
+      "time": "",
       "tag": "media"
     }
   ]
