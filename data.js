@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-12 16:51",
+  "update_time": "2026-03-12 17:50",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -58,10 +58,17 @@ window.SHU_DATA = {
       "tag": "official"
     },
     {
-      "title": "...被迫”换实验室,他在陌生领域意外发现衰老新机制—新闻—科学网",
-      "url": "https://news.sciencenet.cn/htmlnews/2026/2/560499.shtm",
+      "title": "【科技日报】第二届智能科学家生态联盟大会在中国科学技术大学举办",
+      "url": "http://news.ustc.edu.cn/info/1056/89534.htm",
+      "source": "中国科学技术大学中国科大新闻网",
+      "time": "",
+      "tag": "media"
+    },
+    {
+      "title": "钱伟长逝世-新闻专题-科学网",
+      "url": "https://news.sciencenet.cn/news/sub2.aspx?id=388",
       "source": "科学网",
-      "time": "2月25日",
+      "time": "",
       "tag": "media"
     },
     {
