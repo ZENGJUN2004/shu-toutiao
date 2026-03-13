@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-13 10:30",
+  "update_time": "2026-03-13 12:47",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "上海美术学院召开2026年春季中层干部务虚会",
-      "url": "https://news.shu.edu.cn/info/1012/173635.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "本科生院召开教职工首日工作会议",
-      "url": "https://news.shu.edu.cn/info/1012/173645.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "国家重点研发计划“共生菌对发育和代谢的影响及干预”项目启动会在上海大学顺利召开",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "上海大学二〇二六年上半年退役学生欢迎大会举行",
       "url": "https://news.shu.edu.cn/info/1012/173745.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "党委巡察工作领导小组召开2026年第1次会议",
+      "url": "https://news.shu.edu.cn/info/1012/173875.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "环化学院与上海市减污降碳管理运行技术中心开展人才联合培养交流会",
+      "url": "https://news.shu.edu.cn/info/1012/173885.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
