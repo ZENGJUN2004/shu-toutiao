@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-16 07:34",
+  "update_time": "2026-03-16 10:49",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "巾帼不让须眉——致敬微电子学院“她风采”",
-      "url": "https://news.shu.edu.cn/info/1012/173725.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海大学外国语学院赴中国东航股份有限公司开展校企合作走访交流",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "亲近自然，守护绿色：上海大学法学院联合后勤保障部开展“古银杏守护者”植树节主题活动",
       "url": "https://news.shu.edu.cn/info/1012/173905.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学举办人工智能赋能教师教学能力提升系列研讨会（经管类专场）",
+      "url": "https://news.shu.edu.cn/info/1012/173935.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
