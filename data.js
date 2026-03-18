@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-18 23:08",
+  "update_time": "2026-03-19 01:06",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -56,13 +56,6 @@ window.SHU_DATA = {
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
-    },
-    {
-      "title": "...被迫”换实验室,他在陌生领域意外发现衰老新机制—新闻—科学网",
-      "url": "https://news.sciencenet.cn/htmlnews/2026/2/560499.shtm",
-      "source": "科学网",
-      "time": "2月25日",
-      "tag": "media"
     },
     {
       "title": "新华时政_新华网",
