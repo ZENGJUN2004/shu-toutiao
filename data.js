@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-18 15:07",
+  "update_time": "2026-03-18 16:56",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,13 +16,6 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "党政办公室党支部与市政府办公厅政务服务处党支部召开专题联组学习会",
-      "url": "https://news.shu.edu.cn/info/1012/173975.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
       "title": "“金专计划”第四期开班仪式顺利举行",
       "url": "https://news.shu.edu.cn/info/1012/174295.htm",
       "source": "上大官网",
@@ -30,7 +23,7 @@ window.SHU_DATA = {
       "tag": "official"
     },
     {
-      "title": "上海大学新闻传播学院党委部署开展树立和践行正确政绩观学习教育",
+      "title": "新闻传播学院党委部署开展树立和践行正确政绩观学习教育",
       "url": "https://news.shu.edu.cn/info/1012/174305.htm",
       "source": "上大官网",
       "time": "校内",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "上电师生在多项AI创作大赛中斩获佳绩",
       "url": "https://news.shu.edu.cn/info/1012/174335.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "“上海市原子级制造产业共性技术研究院”正式揭牌",
+      "url": "https://news.shu.edu.cn/info/1012/174345.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
