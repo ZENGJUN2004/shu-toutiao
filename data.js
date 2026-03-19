@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-19 15:50",
+  "update_time": "2026-03-19 16:50",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "“金专计划”第四期开班仪式顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/174295.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "新闻传播学院党委部署开展树立和践行正确政绩观学习教育",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "“上海市原子级制造产业共性技术研究院”正式揭牌",
       "url": "https://news.shu.edu.cn/info/1012/174345.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "英国班戈大学校长团访问上海大学",
+      "url": "https://news.shu.edu.cn/info/1012/174375.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
