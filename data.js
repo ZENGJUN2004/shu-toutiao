@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-19 12:58",
+  "update_time": "2026-03-19 14:03",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -69,6 +69,13 @@ window.SHU_DATA = {
       "url": "http://www.xinhuanet.com/politics/ggyslt/zbsl.htm",
       "source": "新华网",
       "time": "",
+      "tag": "media"
+    },
+    {
+      "title": "历史上的今天|1922年3月18日,上海大学成立",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32773213",
+      "source": "澎湃新闻",
+      "time": "昨天07:11",
       "tag": "media"
     }
   ]
