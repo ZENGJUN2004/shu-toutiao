@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-20 23:49",
+  "update_time": "2026-03-21 00:51",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "上海电影学院教授携博士出版专著《中国画艺术十讲》获2026“中国好书”奖",
-      "url": "https://news.shu.edu.cn/info/1012/174325.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上电师生在多项AI创作大赛中斩获佳绩",
@@ -58,6 +51,13 @@ window.SHU_DATA = {
       "tag": "official"
     },
     {
+      "title": "上海大学党委统一战线工作领导小组暨民族宗教工作领导小组全体会议召开",
+      "url": "https://news.shu.edu.cn/info/1012/174415.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
       "title": "【科技日报】第二届智能科学家生态联盟大会在中国科学技术大学举办",
       "url": "http://news.ustc.edu.cn/info/1056/89534.htm",
       "source": "中国科学技术大学中国科大新闻网",
@@ -69,13 +69,6 @@ window.SHU_DATA = {
       "url": "http://www.xinhuanet.com/politics/ggyslt/zbsl.htm",
       "source": "新华网",
       "time": "",
-      "tag": "media"
-    },
-    {
-      "title": "历史上的今天|1922年3月18日,上海大学成立",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32773213",
-      "source": "澎湃新闻",
-      "time": "前天07:11",
       "tag": "media"
     }
   ]
