@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-20 22:48",
+  "update_time": "2026-03-20 23:49",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "新闻传播学院党委部署开展树立和践行正确政绩观学习教育",
-      "url": "https://news.shu.edu.cn/info/1012/174305.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "锚定高质量发展 开启“十五五”新篇——上海大学新闻传播学院举行2026年第二次全体教师大会",
-      "url": "https://news.shu.edu.cn/info/1012/174315.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海电影学院教授携博士出版专著《中国画艺术十讲》获2026“中国好书”奖",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "英国班戈大学校长团访问上海大学",
       "url": "https://news.shu.edu.cn/info/1012/174375.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "文化遗产与信息管理学院“十五五”规划研讨会顺利召开",
+      "url": "https://news.shu.edu.cn/info/1012/174395.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "重温讲话精神 凝聚育人共识——马克思主义学院召开师生座谈会重温习近平总书记“3·18”重要讲话精神",
+      "url": "https://news.shu.edu.cn/info/1012/174405.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
