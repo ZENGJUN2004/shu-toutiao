@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-21 23:30",
+  "update_time": "2026-03-22 00:35",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -61,6 +61,13 @@ window.SHU_DATA = {
       "title": "【科技日报】第二届智能科学家生态联盟大会在中国科学技术大学举办",
       "url": "http://news.ustc.edu.cn/info/1056/89534.htm",
       "source": "中国科学技术大学中国科大新闻网",
+      "time": "",
+      "tag": "media"
+    },
+    {
+      "title": "新华时政_新华网",
+      "url": "http://www.xinhuanet.com/politics/ggyslt/zbsl.htm",
+      "source": "新华网",
       "time": "",
       "tag": "media"
     }
