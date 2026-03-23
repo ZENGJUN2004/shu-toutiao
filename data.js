@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-23 10:40",
+  "update_time": "2026-03-23 13:07",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,27 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "上电师生在多项AI创作大赛中斩获佳绩",
-      "url": "https://news.shu.edu.cn/info/1012/174335.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "“上海市原子级制造产业共性技术研究院”正式揭牌",
-      "url": "https://news.shu.edu.cn/info/1012/174345.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "英国班戈大学校长团访问上海大学",
-      "url": "https://news.shu.edu.cn/info/1012/174375.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "文化遗产与信息管理学院“十五五”规划研讨会顺利召开",
@@ -53,6 +32,27 @@ window.SHU_DATA = {
     {
       "title": "上海大学党委统一战线工作领导小组暨民族宗教工作领导小组全体会议召开",
       "url": "https://news.shu.edu.cn/info/1012/174415.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学举办第二十七期“教师午餐会”",
+      "url": "https://news.shu.edu.cn/info/1012/174445.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "计算机学院举行“十五五”规划校企座谈会",
+      "url": "https://news.shu.edu.cn/info/1012/174455.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学与里昂三大合作举办社会学专业硕士项目1期校友值年暨入校10周年活动顺利举办",
+      "url": "https://news.shu.edu.cn/info/1012/174465.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
