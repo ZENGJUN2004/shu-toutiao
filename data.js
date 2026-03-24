@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-24 07:37",
+  "update_time": "2026-03-24 10:32",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "上海大学党委统一战线工作领导小组暨民族宗教工作领导小组全体会议召开",
-      "url": "https://news.shu.edu.cn/info/1012/174415.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海大学举办第二十七期“教师午餐会”",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "上海大学外国语学院赴上海国旅开展校企合作走访交流",
       "url": "https://news.shu.edu.cn/info/1012/174485.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学召开树立和践行正确政绩观学习教育工作专班会议",
+      "url": "https://news.shu.edu.cn/info/1012/174505.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
