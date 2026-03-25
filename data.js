@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-25 14:07",
+  "update_time": "2026-03-25 15:55",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "上海大学召开树立和践行正确政绩观学习教育工作专班会议",
-      "url": "https://news.shu.edu.cn/info/1012/174505.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "通信学院举办“十五五”规划校企座谈会",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "校领导看望2026年上半年预定新兵",
       "url": "https://news.shu.edu.cn/info/1012/174575.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海美术学院举办“上海与新中国设计史”学术研讨会",
+      "url": "https://news.shu.edu.cn/info/1012/174595.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
