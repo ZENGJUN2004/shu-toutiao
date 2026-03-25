@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-25 10:37",
+  "update_time": "2026-03-25 12:58",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,43 +16,43 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "上海大学举办第二十七期“教师午餐会”",
-      "url": "https://news.shu.edu.cn/info/1012/174445.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "计算机学院举行“十五五”规划校企座谈会",
-      "url": "https://news.shu.edu.cn/info/1012/174455.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海大学与里昂三大合作举办社会学专业硕士项目1期校友值年暨入校10周年活动顺利举办",
-      "url": "https://news.shu.edu.cn/info/1012/174465.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海大学举办人工智能赋能教师教学能力提升研讨会（人文社科类专场）",
-      "url": "https://news.shu.edu.cn/info/1012/174475.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海大学外国语学院赴上海国旅开展校企合作走访交流",
-      "url": "https://news.shu.edu.cn/info/1012/174485.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
       "title": "上海大学召开树立和践行正确政绩观学习教育工作专班会议",
       "url": "https://news.shu.edu.cn/info/1012/174505.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "通信学院举办“十五五”规划校企座谈会",
+      "url": "https://news.shu.edu.cn/info/1012/174535.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海市高温超导重点实验室第三届学术委员会第二次会议成功举办",
+      "url": "https://news.shu.edu.cn/info/1012/174545.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "欧美同学会上海大学分会2026年新春座谈会召开",
+      "url": "https://news.shu.edu.cn/info/1012/174555.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "缅怀先烈铸忠魂，砥砺初心再出发——上海大学社会学院秋白党支部清明节祭扫先烈活动",
+      "url": "https://news.shu.edu.cn/info/1012/174565.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "校领导看望2026年上半年预定新兵",
+      "url": "https://news.shu.edu.cn/info/1012/174575.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
