@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-27 13:11",
+  "update_time": "2026-03-27 15:15",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "校领导看望2026年上半年预定新兵",
-      "url": "https://news.shu.edu.cn/info/1012/174575.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海美术学院举办“上海与新中国设计史”学术研讨会",
-      "url": "https://news.shu.edu.cn/info/1012/174595.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "“时代楷模”曲建武教授在微电子学院作报告",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "上海大学“1+3+N”集成电路协同育人联盟树立和践行正确政绩观联组学习暨2026年党建联席会议第一次会议顺利召...",
       "url": "https://news.shu.edu.cn/info/1012/174705.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学青年教师联谊会钱伟长学院分会成立大会召开",
+      "url": "https://news.shu.edu.cn/info/1012/174725.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "深化综改精准引育，产教融合协同育人——上海大学MBA中心首批实践教授聘任活动顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/174745.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
