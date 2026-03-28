@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-28 10:36",
+  "update_time": "2026-03-28 12:57",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,27 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "“时代楷模”曲建武教授在微电子学院作报告",
-      "url": "https://news.shu.edu.cn/info/1012/174675.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海大学与科技园联动赋能 助推校友企业昆仑数模与上检公司深度合作",
-      "url": "https://news.shu.edu.cn/info/1012/174685.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "曼谷大学副校长一行访问上海大学",
-      "url": "https://news.shu.edu.cn/info/1012/174695.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海大学“1+3+N”集成电路协同育人联盟树立和践行正确政绩观联组学习暨2026年党建联席会议第一次会议顺利召...",
@@ -53,6 +32,27 @@ window.SHU_DATA = {
     {
       "title": "深化综改精准引育，产教融合协同育人——上海大学MBA中心首批实践教授聘任活动顺利举行",
       "url": "https://news.shu.edu.cn/info/1012/174745.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "深化区校合作 共育时代新人 ——奉贤区与上海大学合作办学工作推进会",
+      "url": "https://news.shu.edu.cn/info/1012/174755.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "提升应急救护能力  筑牢生命安全防线——机关党委、机关工会与校医院联合举办急救及AED培训",
+      "url": "https://news.shu.edu.cn/info/1012/174765.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "力学与工程科学学院召开“十五五”发展规划专题研讨会",
+      "url": "https://news.shu.edu.cn/info/1012/174775.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
