@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-30 03:35",
+  "update_time": "2026-03-30 04:38",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -56,6 +56,13 @@ window.SHU_DATA = {
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
+    },
+    {
+      "title": "钱伟长逝世-新闻专题-科学网",
+      "url": "https://news.sciencenet.cn/news/sub2.aspx?id=388",
+      "source": "科学网",
+      "time": "",
+      "tag": "media"
     },
     {
       "title": "【科技日报】第二届智能科学家生态联盟大会在中国科学技术大学举办",
