@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-29 16:48",
+  "update_time": "2026-03-29 17:42",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "上海大学“1+3+N”集成电路协同育人联盟树立和践行正确政绩观联组学习暨2026年党建联席会议第一次会议顺利召...",
-      "url": "https://news.shu.edu.cn/info/1012/174705.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海大学青年教师联谊会钱伟长学院分会成立大会召开",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "力学与工程科学学院召开“十五五”发展规划专题研讨会",
       "url": "https://news.shu.edu.cn/info/1012/174775.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "土耳其海峡大学孔子学院2026年度理事会顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/174785.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
