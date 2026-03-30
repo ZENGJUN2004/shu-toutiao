@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-30 07:38",
+  "update_time": "2026-03-30 10:53",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "上海大学青年教师联谊会钱伟长学院分会成立大会召开",
-      "url": "https://news.shu.edu.cn/info/1012/174725.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "深化综改精准引育，产教融合协同育人——上海大学MBA中心首批实践教授聘任活动顺利举行",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "土耳其海峡大学孔子学院2026年度理事会顺利举行",
       "url": "https://news.shu.edu.cn/info/1012/174785.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "党政办、保卫处、基础教育处联合主办国家安全宣讲教案评奖活动",
+      "url": "https://news.shu.edu.cn/info/1012/174795.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
