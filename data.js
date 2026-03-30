@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-31 01:01",
+  "update_time": "2026-03-31 03:05",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -65,17 +65,10 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "以整体性治理的制度创新开创人民城市建设新局面",
-      "url": "https://baijiahao.baidu.com/s?id=1861027409092408027&wfr=spider&for=pc",
-      "source": "光明网",
-      "time": "昨天02:35",
-      "tag": "media"
-    },
-    {
-      "title": "顾村公园推公益帮拍服务 将加强管控商拍\"占树\"",
-      "url": "http://sh.people.com.cn/n2/2026/0330/c176737-41538319.html",
-      "source": "人民网",
-      "time": "昨天16:43",
+      "title": "新华时政_新华网",
+      "url": "http://www.xinhuanet.com/politics/ggyslt/zbsl.htm",
+      "source": "新华网",
+      "time": "",
       "tag": "media"
     }
   ]
