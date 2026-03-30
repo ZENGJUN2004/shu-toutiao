@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-30 13:29",
+  "update_time": "2026-03-30 15:49",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "深化综改精准引育，产教融合协同育人——上海大学MBA中心首批实践教授聘任活动顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/174745.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "深化区校合作 共育时代新人 ——奉贤区与上海大学合作办学工作推进会",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "党政办、保卫处、基础教育处联合主办国家安全宣讲教案评奖活动",
       "url": "https://news.shu.edu.cn/info/1012/174795.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "以思政赋能铸魂 以保密履职立心——校工会联合保密办开展保密人员专项思政培训",
+      "url": "https://news.shu.edu.cn/info/1012/174825.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
