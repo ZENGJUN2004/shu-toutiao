@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-31 13:13",
+  "update_time": "2026-03-31 15:22",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,27 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "计算机学院召开第八届青年教师联谊会换届大会暨学院“十五五”发展规划青年教师座谈会",
-      "url": "https://news.shu.edu.cn/info/1012/174875.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "春启新程，职向未来——上海大学2026年经管类毕业生春季专场招聘会顺利举办",
-      "url": "https://news.shu.edu.cn/info/1012/174885.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "产教融合聚智慧 建言献策绘新篇——材料科学与工程学院举办“十五五”规划重点企业座谈会",
-      "url": "https://news.shu.edu.cn/info/1012/174895.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "经济学院举办专业宣讲会和专业开放日活动",
@@ -53,6 +32,27 @@ window.SHU_DATA = {
     {
       "title": "上海大学召开四届党委第四轮巡察工作动员部署会",
       "url": "https://news.shu.edu.cn/info/1012/174925.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "样板选树强引领 聚力赋能共成长——上海大学学生样板党支部培育单位中期建设交流会顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/174935.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "图书馆召开第六届双代会第四次代表大会",
+      "url": "https://news.shu.edu.cn/info/1012/174945.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "机关党委召开2026年党建和全面从严治党等系列会议",
+      "url": "https://news.shu.edu.cn/info/1012/174955.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
