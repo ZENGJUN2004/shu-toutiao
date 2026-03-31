@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-03-31 10:46",
+  "update_time": "2026-03-31 13:13",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "微电子学院党委与临港新片区集成电路产业集群党委结对签约仪式暨“十五五”规划产业专家、校友座谈会顺利举办",
-      "url": "https://news.shu.edu.cn/info/1012/174845.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "为“芯”聚才 向新而行 | 上海大学2026年集成电路行业专场招聘会顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/174815.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "计算机学院召开第八届青年教师联谊会换届大会暨学院“十五五”发展规划青年教师座谈会",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "经济学院举办专业宣讲会和专业开放日活动",
       "url": "https://news.shu.edu.cn/info/1012/174905.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学新闻传播学院2026年专业分流宣讲会顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/174915.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学召开四届党委第四轮巡察工作动员部署会",
+      "url": "https://news.shu.edu.cn/info/1012/174925.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
