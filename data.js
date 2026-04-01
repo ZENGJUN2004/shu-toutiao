@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-04-01 13:57",
+  "update_time": "2026-04-01 15:46",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "经济学院举办专业宣讲会和专业开放日活动",
-      "url": "https://news.shu.edu.cn/info/1012/174905.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海大学新闻传播学院2026年专业分流宣讲会顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/174915.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海大学召开四届党委第四轮巡察工作动员部署会",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "机关党委召开2026年党建和全面从严治党等系列会议",
       "url": "https://news.shu.edu.cn/info/1012/174955.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "法国电影工作坊“艺术电影的海外策略”顺利结束",
+      "url": "https://news.shu.edu.cn/info/1012/174975.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学召开2026届毕业生就业工作推进会",
+      "url": "https://news.shu.edu.cn/info/1012/174985.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
