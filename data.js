@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-04-03 10:44",
+  "update_time": "2026-04-03 13:09",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "学校举行第四届纪委八次全体（扩大）会议",
-      "url": "https://news.shu.edu.cn/info/1012/175045.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "大型历史人文纪录片《大江南》 放映分享会走进上海电影学院",
-      "url": "https://news.shu.edu.cn/info/1012/175055.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "聚焦民生实事 共谋服务新篇——校工会妇委会与后勤保障部开展联组学习活动",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "多方联动聚合力 精准对接谋实策——嘉定校区校地合作交流会举行",
       "url": "https://news.shu.edu.cn/info/1012/175105.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "重庆工商大学副校长一行来悉尼工商学院调研访问",
+      "url": "https://news.shu.edu.cn/info/1012/175115.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学重庆招宣组携“大咖讲堂”走进山城，点燃学子科创梦想！",
+      "url": "https://news.shu.edu.cn/info/1012/175125.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
