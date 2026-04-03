@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-04-03 07:39",
+  "update_time": "2026-04-03 10:44",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,27 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "“法治护航 聚力‘十五五’开局”——上海大学侨联联合市华侨事务中心举办侨界法治宣传专场活动",
-      "url": "https://news.shu.edu.cn/info/1012/175005.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "文化遗产与信息管理学院与福建省永安市举行共建签约仪式暨红色文化讲解主题学习研讨活动",
-      "url": "https://news.shu.edu.cn/info/1012/175015.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "清明祭英烈 薪火永相传：新闻传播学院赴龙华烈士陵园开展沉浸式党课学习",
-      "url": "https://news.shu.edu.cn/info/1012/175025.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "学校举行第四届纪委八次全体（扩大）会议",
@@ -53,6 +32,27 @@ window.SHU_DATA = {
     {
       "title": "聚焦民生实事 共谋服务新篇——校工会妇委会与后勤保障部开展联组学习活动",
       "url": "https://news.shu.edu.cn/info/1012/175065.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "我校召开监督贯通协同工作会议",
+      "url": "https://news.shu.edu.cn/info/1012/175085.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "偏微分方程先进计算方法研讨会在上海大学召开",
+      "url": "https://news.shu.edu.cn/info/1012/175095.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "多方联动聚合力 精准对接谋实策——嘉定校区校地合作交流会举行",
+      "url": "https://news.shu.edu.cn/info/1012/175105.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
