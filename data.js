@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-04-05 23:37",
+  "update_time": "2026-04-06 00:41",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -65,6 +65,13 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
+      "title": "探索“科学家群体办刊”新模式 首批高质量学术期刊在沪创刊",
+      "url": "https://www.stdaily.com/web/gdxw/2026-04/04/content_497889.html",
+      "source": "中国科技网",
+      "time": "前天14:08",
+      "tag": "media"
+    },
+    {
       "title": "新华时政_新华网",
       "url": "http://www.xinhuanet.com/politics/ggyslt/zbsl.htm",
       "source": "新华网",
@@ -76,13 +83,6 @@ window.SHU_DATA = {
       "url": "https://m.thepaper.cn/newsDetail_forward_32773330",
       "source": "澎湃新闻",
       "time": "",
-      "tag": "media"
-    },
-    {
-      "title": "探索“科学家群体办刊”新模式 首批高质量学术期刊在沪创刊",
-      "url": "https://www.stdaily.com/web/gdxw/2026-04/04/content_497889.html",
-      "source": "中国科技网",
-      "time": "昨天14:08",
       "tag": "media"
     }
   ]
