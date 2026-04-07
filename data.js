@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-04-07 07:40",
+  "update_time": "2026-04-07 10:47",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,43 +16,43 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "聚焦民生实事 共谋服务新篇——校工会妇委会与后勤保障部开展联组学习活动",
-      "url": "https://news.shu.edu.cn/info/1012/175065.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "我校召开监督贯通协同工作会议",
-      "url": "https://news.shu.edu.cn/info/1012/175085.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "偏微分方程先进计算方法研讨会在上海大学召开",
-      "url": "https://news.shu.edu.cn/info/1012/175095.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "多方联动聚合力 精准对接谋实策——嘉定校区校地合作交流会举行",
-      "url": "https://news.shu.edu.cn/info/1012/175105.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "重庆工商大学副校长一行来悉尼工商学院调研访问",
-      "url": "https://news.shu.edu.cn/info/1012/175115.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
       "title": "上海大学重庆招宣组携“大咖讲堂”走进山城，点燃学子科创梦想！",
       "url": "https://news.shu.edu.cn/info/1012/175125.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "微电子学院第二届青年教师联谊会换届大会顺利召开",
+      "url": "https://news.shu.edu.cn/info/1012/175145.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "缅怀钱伟长老校长 | 钱伟长学院开展2026年清明节祭扫活动",
+      "url": "https://news.shu.edu.cn/info/1012/175155.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "泰国宋卡王子大学普吉孔子学院第十五届理事会顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/175135.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学青年教师联谊会外国语学院分会换届大会顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/175165.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "学两会精神 绘“十五五”蓝图——上海大学外国语学院召开全院教职工大会",
+      "url": "https://news.shu.edu.cn/info/1012/175175.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
