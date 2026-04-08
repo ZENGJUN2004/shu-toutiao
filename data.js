@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-04-08 07:41",
+  "update_time": "2026-04-08 10:49",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,27 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "上海大学重庆招宣组携“大咖讲堂”走进山城，点燃学子科创梦想！",
-      "url": "https://news.shu.edu.cn/info/1012/175125.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "微电子学院第二届青年教师联谊会换届大会顺利召开",
-      "url": "https://news.shu.edu.cn/info/1012/175145.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "缅怀钱伟长老校长 | 钱伟长学院开展2026年清明节祭扫活动",
-      "url": "https://news.shu.edu.cn/info/1012/175155.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "泰国宋卡王子大学普吉孔子学院第十五届理事会顺利举行",
@@ -53,6 +32,27 @@ window.SHU_DATA = {
     {
       "title": "学两会精神 绘“十五五”蓝图——上海大学外国语学院召开全院教职工大会",
       "url": "https://news.shu.edu.cn/info/1012/175175.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "共话改革 共谋发展：上海电影学院行政党支部与财务处党支部联合开展政绩观学习教育",
+      "url": "https://news.shu.edu.cn/info/1012/175195.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "民进上大委员会3名会员参加民进上海市委宣传骨干培训班",
+      "url": "https://news.shu.edu.cn/info/1012/175215.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学召开上海新时代党的统一战线研究上海大学基地2026年工作推进会",
+      "url": "https://news.shu.edu.cn/info/1012/175225.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
