@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-04-10 13:29",
+  "update_time": "2026-04-10 15:48",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "民进上大委员会3名会员参加民进上海市委宣传骨干培训班",
-      "url": "https://news.shu.edu.cn/info/1012/175215.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海大学召开上海新时代党的统一战线研究上海大学基地2026年工作推进会",
-      "url": "https://news.shu.edu.cn/info/1012/175225.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "春启职途，智汇未来——上海大学2026年文科联盟就业招聘会顺利举办",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "体育学院开展内控专项监督检查与工作研讨",
       "url": "https://news.shu.edu.cn/info/1012/175305.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "民进上海大学委员会召开2026年第二次工作会议",
+      "url": "https://news.shu.edu.cn/info/1012/175315.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "务实对接促合作 机制先行谋发展——上海市侨联、上海留学生企业协会与上海大学产学研合作专项工作推进会在我...",
+      "url": "https://news.shu.edu.cn/info/1012/175325.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
