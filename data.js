@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-04-11 22:39",
+  "update_time": "2026-04-11 23:37",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
