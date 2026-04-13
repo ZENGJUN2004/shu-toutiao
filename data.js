@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-04-13 14:19",
+  "update_time": "2026-04-13 17:02",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,27 +16,6 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "校党委第一巡察组巡察机关党委进驻动员会召开",
-      "url": "https://news.shu.edu.cn/info/1012/175295.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "体育学院开展内控专项监督检查与工作研讨",
-      "url": "https://news.shu.edu.cn/info/1012/175305.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "民进上海大学委员会召开2026年第二次工作会议",
-      "url": "https://news.shu.edu.cn/info/1012/175315.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
       "title": "务实对接促合作 机制先行谋发展——上海市侨联、上海留学生企业协会与上海大学产学研合作专项工作推进会在我...",
       "url": "https://news.shu.edu.cn/info/1012/175325.htm",
       "source": "上大官网",
@@ -44,15 +23,36 @@ window.SHU_DATA = {
       "tag": "official"
     },
     {
-      "title": "AI技术进校园，探索海洋智能人才培养新路径——未来技术学院联合腾讯教育成功举办“腾讯AI百校行”活动",
-      "url": "https://news.shu.edu.cn/info/1012/175335.htm",
+      "title": "深耕中外文明互鉴 聚力打磨精品丛书——《百年上海中外文明交流互鉴》丛书主创团队工作会议顺利召开",
+      "url": "https://news.shu.edu.cn/info/1012/175345.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "深耕中外文明互鉴 聚力打磨精品丛书——《百年上海中外文明交流互鉴》丛书主创团队工作会议顺利召开",
-      "url": "https://news.shu.edu.cn/info/1012/175345.htm",
+      "title": "参政为公开新局——九三上大委2026年课题申报全部立项",
+      "url": "https://news.shu.edu.cn/info/1012/175385.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "体育学院召开2026年党的建设和全面从严治党工作会议",
+      "url": "https://news.shu.edu.cn/info/1012/175395.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "国家艺术基金“薪火传承”红色主题油画创作人才培训项目汇报展在上海美术学院开幕",
+      "url": "https://news.shu.edu.cn/info/1012/175405.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "AI技术进校园｜探索海洋智能人才培养新路径——未来技术学院联合腾讯教育成功举办“腾讯AI百校行”活动",
+      "url": "https://news.shu.edu.cn/info/1012/175415.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
