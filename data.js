@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-04-13 07:40",
+  "update_time": "2026-04-13 11:24",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "春启职途，智汇未来——上海大学2026年文科联盟就业招聘会顺利举办",
-      "url": "https://news.shu.edu.cn/info/1012/175275.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "教育部中外语言交流合作中心来我校调研交流",
-      "url": "https://news.shu.edu.cn/info/1012/175285.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "校党委第一巡察组巡察机关党委进驻动员会召开",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "务实对接促合作 机制先行谋发展——上海市侨联、上海留学生企业协会与上海大学产学研合作专项工作推进会在我...",
       "url": "https://news.shu.edu.cn/info/1012/175325.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "AI技术进校园，探索海洋智能人才培养新路径——未来技术学院联合腾讯教育成功举办“腾讯AI百校行”活动",
+      "url": "https://news.shu.edu.cn/info/1012/175335.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "深耕中外文明互鉴 聚力打磨精品丛书——《百年上海中外文明交流互鉴》丛书主创团队工作会议顺利召开",
+      "url": "https://news.shu.edu.cn/info/1012/175345.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
