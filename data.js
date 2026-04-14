@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-04-14 13:29",
+  "update_time": "2026-04-14 15:54",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "深耕中外文明互鉴 聚力打磨精品丛书——《百年上海中外文明交流互鉴》丛书主创团队工作会议顺利召开",
-      "url": "https://news.shu.edu.cn/info/1012/175345.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "参政为公开新局——九三上大委2026年课题申报全部立项",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "沪校联袂乡村行，双创赋能谋振兴——上海大学创新创业学院赴崇明绿华镇华西村开展产学研深度合作",
       "url": "https://news.shu.edu.cn/info/1012/175425.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "西班牙国家研究委员会代表团访问上海大学",
+      "url": "https://news.shu.edu.cn/info/1012/175465.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
