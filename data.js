@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-04-15 07:53",
+  "update_time": "2026-04-15 10:54",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "参政为公开新局——九三上大委2026年课题申报全部立项",
-      "url": "https://news.shu.edu.cn/info/1012/175385.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "体育学院召开2026年党的建设和全面从严治党工作会议",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "西班牙国家研究委员会代表团访问上海大学",
       "url": "https://news.shu.edu.cn/info/1012/175465.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "深化融合促发展 实干担当开新局",
+      "url": "https://news.shu.edu.cn/info/1012/175475.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
