@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-04-16 07:49",
+  "update_time": "2026-04-16 11:20",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,43 +16,43 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "体育学院召开2026年党的建设和全面从严治党工作会议",
-      "url": "https://news.shu.edu.cn/info/1012/175395.htm",
+      "title": "高举旗帜守初心，挺膺担当启新程——机自学院第十次团代会顺利召开",
+      "url": "https://news.shu.edu.cn/info/1012/175525.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "国家艺术基金“薪火传承”红色主题油画创作人才培训项目汇报展在上海美术学院开幕",
-      "url": "https://news.shu.edu.cn/info/1012/175405.htm",
+      "title": "语润寰宇・文明互鉴——上海大学《威尼斯商人》斩获第四届全国大学生英语戏剧节特等奖",
+      "url": "https://news.shu.edu.cn/info/1012/175545.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "AI技术进校园｜探索海洋智能人才培养新路径——未来技术学院联合腾讯教育成功举办“腾讯AI百校行”活动",
-      "url": "https://news.shu.edu.cn/info/1012/175415.htm",
+      "title": "重温民革党史·传承前辈精神——民革上海大学委员会组织党员活动",
+      "url": "https://news.shu.edu.cn/info/1012/175495.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "沪校联袂乡村行，双创赋能谋振兴——上海大学创新创业学院赴崇明绿华镇华西村开展产学研深度合作",
-      "url": "https://news.shu.edu.cn/info/1012/175425.htm",
+      "title": "上大民革党员参加上海民革新党员第二期“同心成长营”",
+      "url": "https://news.shu.edu.cn/info/1012/175575.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "西班牙国家研究委员会代表团访问上海大学",
-      "url": "https://news.shu.edu.cn/info/1012/175465.htm",
+      "title": "我校两个案例入选教育部“长三角教育现代化”典型案例",
+      "url": "https://news.shu.edu.cn/info/1012/175585.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "深化融合促发展 实干担当开新局",
-      "url": "https://news.shu.edu.cn/info/1012/175475.htm",
+      "title": "上海大学2026年审计工作领导小组会议召开",
+      "url": "https://news.shu.edu.cn/info/1012/175595.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
