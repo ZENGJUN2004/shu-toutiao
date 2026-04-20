@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-04-20 14:19",
+  "update_time": "2026-04-20 17:08",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "青春护航 五育融安——上海大学国家安全宣讲团2026年火热开讲",
-      "url": "https://news.shu.edu.cn/info/1012/175615.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "中国运筹学会期刊建设工作会议在上海大学召开",
@@ -51,8 +44,15 @@ window.SHU_DATA = {
       "tag": "official"
     },
     {
-      "title": "上海智能计算系统工程技术研究中心2026年度技术委员会会议顺利召开",
-      "url": "https://news.shu.edu.cn/info/1012/175765.htm",
+      "title": "聚焦主题教育，布局换届工作——九三学社上海大学委员会举行扩大会议",
+      "url": "https://news.shu.edu.cn/info/1012/175925.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "同步推进思政课程与课程思政建设，筑牢党的创新理论主课堂——上海大学举办第三十六期“我与书记面对面”座谈会",
+      "url": "https://news.shu.edu.cn/info/1012/175935.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
