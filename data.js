@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-04-21 07:49",
+  "update_time": "2026-04-21 10:57",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "中国运筹学会期刊建设工作会议在上海大学召开",
-      "url": "https://news.shu.edu.cn/info/1012/175485.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "企智合作赋能企业全球化发展 助力高校毕业生就业活动在上海大学举行",
-      "url": "https://news.shu.edu.cn/info/1012/175725.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "骑行追风 共启新程——上海大学行健社首次骑行活动圆满结束",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "同步推进思政课程与课程思政建设，筑牢党的创新理论主课堂——上海大学举办第三十六期“我与书记面对面”座谈会",
       "url": "https://news.shu.edu.cn/info/1012/175935.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海智能计算系统工程技术研究中心2026年度技术委员会会议顺利召开",
+      "url": "https://news.shu.edu.cn/info/1012/175945.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "第六届少年儿童认知发展与二语习得论坛在上海大学成功举办",
+      "url": "https://news.shu.edu.cn/info/1012/175965.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
