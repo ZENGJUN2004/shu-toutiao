@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-04-22 07:39",
+  "update_time": "2026-04-22 10:56",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,34 +16,6 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "骑行追风 共启新程——上海大学行健社首次骑行活动圆满结束",
-      "url": "https://news.shu.edu.cn/info/1012/175735.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "第二届中国-葡语国家文明互鉴研讨会暨《巴西人：巴西的形成及意义》图书推介会顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/175745.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "聚焦主题教育，布局换届工作——九三学社上海大学委员会举行扩大会议",
-      "url": "https://news.shu.edu.cn/info/1012/175925.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "同步推进思政课程与课程思政建设，筑牢党的创新理论主课堂——上海大学举办第三十六期“我与书记面对面”座谈会",
-      "url": "https://news.shu.edu.cn/info/1012/175935.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
       "title": "上海智能计算系统工程技术研究中心2026年度技术委员会会议顺利召开",
       "url": "https://news.shu.edu.cn/info/1012/175945.htm",
       "source": "上大官网",
@@ -53,6 +25,34 @@ window.SHU_DATA = {
     {
       "title": "第六届少年儿童认知发展与二语习得论坛在上海大学成功举办",
       "url": "https://news.shu.edu.cn/info/1012/175965.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "榜样领航 砥行致远｜ 2026年上海大学社会学院荣誉奖学金颁奖典礼暨“李友梅教育基金”第二轮捐赠签约仪式圆...",
+      "url": "https://news.shu.edu.cn/info/1012/175975.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "校领导率团访问英国、摩洛哥",
+      "url": "https://news.shu.edu.cn/info/1012/175985.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "“深学笃行习近平法治思想 全面提升依法治州能力”专题研讨班启动",
+      "url": "https://news.shu.edu.cn/info/1012/175995.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海商学院与上海大学开展学习教育联组学习",
+      "url": "https://news.shu.edu.cn/info/1012/176025.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
