@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-04-22 13:31",
+  "update_time": "2026-04-22 15:56",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "上海智能计算系统工程技术研究中心2026年度技术委员会会议顺利召开",
-      "url": "https://news.shu.edu.cn/info/1012/175945.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "第六届少年儿童认知发展与二语习得论坛在上海大学成功举办",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "上海商学院与上海大学开展学习教育联组学习",
       "url": "https://news.shu.edu.cn/info/1012/176025.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "生态环境部环境工程评估中心赴上海大学开展调研",
+      "url": "https://news.shu.edu.cn/info/1012/176055.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
