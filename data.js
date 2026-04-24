@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-04-24 07:52",
+  "update_time": "2026-04-24 11:20",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "校领导率团访问英国、摩洛哥",
-      "url": "https://news.shu.edu.cn/info/1012/175985.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "“深学笃行习近平法治思想 全面提升依法治州能力”专题研讨班启动",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "校领导带队调研指导第四轮巡察工作",
       "url": "https://news.shu.edu.cn/info/1012/176075.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "我校“艺乡人”项目斩获首届全国高校创新转化大赛总决赛金奖",
+      "url": "https://news.shu.edu.cn/info/1012/176095.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
