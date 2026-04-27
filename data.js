@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-04-27 11:31",
+  "update_time": "2026-04-27 14:31",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "生态环境部环境工程评估中心赴上海大学开展调研",
-      "url": "https://news.shu.edu.cn/info/1012/176055.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "民进上海大学委员会获多项民进上海市委会参政议政成果奖与课题立项",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "雨中寻初心，实地悟担当——材料学院电子信息材料系党总支赴陈云纪念馆开展主题党日活动",
       "url": "https://news.shu.edu.cn/info/1012/176185.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "携手区校共建 共探教育新篇——黄浦区与上海大学基础教育工作交流会举行",
+      "url": "https://news.shu.edu.cn/info/1012/176215.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
