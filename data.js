@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-04-27 07:44",
+  "update_time": "2026-04-27 11:31",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "“深学笃行习近平法治思想 全面提升依法治州能力”专题研讨班启动",
-      "url": "https://news.shu.edu.cn/info/1012/175995.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海商学院与上海大学开展学习教育联组学习",
-      "url": "https://news.shu.edu.cn/info/1012/176025.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "生态环境部环境工程评估中心赴上海大学开展调研",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "我校“艺乡人”项目斩获首届全国高校创新转化大赛总决赛金奖",
       "url": "https://news.shu.edu.cn/info/1012/176095.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学与国元证券深化校企合作 共谱协同育人新篇章",
+      "url": "https://news.shu.edu.cn/info/1012/176105.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "雨中寻初心，实地悟担当——材料学院电子信息材料系党总支赴陈云纪念馆开展主题党日活动",
+      "url": "https://news.shu.edu.cn/info/1012/176185.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
