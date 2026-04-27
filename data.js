@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-04-27 14:31",
+  "update_time": "2026-04-27 17:22",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "民进上海大学委员会获多项民进上海市委会参政议政成果奖与课题立项",
-      "url": "https://news.shu.edu.cn/info/1012/176065.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "校领导带队调研指导第四轮巡察工作",
-      "url": "https://news.shu.edu.cn/info/1012/176075.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "我校“艺乡人”项目斩获首届全国高校创新转化大赛总决赛金奖",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "携手区校共建 共探教育新篇——黄浦区与上海大学基础教育工作交流会举行",
       "url": "https://news.shu.edu.cn/info/1012/176215.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "民盟上海大学委员会荣获多项表彰",
+      "url": "https://news.shu.edu.cn/info/1012/176235.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "全国高校第二十届“金法槌杯”模拟法庭大赛颁奖典礼暨第二十一届大赛启动仪式成功举行",
+      "url": "https://news.shu.edu.cn/info/1012/176245.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
