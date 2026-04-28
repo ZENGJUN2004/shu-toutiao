@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-04-28 08:00",
+  "update_time": "2026-04-28 12:35",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,43 +16,43 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "我校“艺乡人”项目斩获首届全国高校创新转化大赛总决赛金奖",
-      "url": "https://news.shu.edu.cn/info/1012/176095.htm",
+      "title": "传承五四薪火，凝聚青春力量｜上海大学秋白书院举办五四青春歌会暨卓越班级风采展示活动",
+      "url": "https://news.shu.edu.cn/info/1012/176255.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "上海大学与国元证券深化校企合作 共谱协同育人新篇章",
-      "url": "https://news.shu.edu.cn/info/1012/176105.htm",
+      "title": "书香润心・学术护航：上海大学 “论文加油站”服务正式启动",
+      "url": "https://news.shu.edu.cn/info/1012/176265.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "雨中寻初心，实地悟担当——材料学院电子信息材料系党总支赴陈云纪念馆开展主题党日活动",
-      "url": "https://news.shu.edu.cn/info/1012/176185.htm",
+      "title": "上海大学本科生研究生工作部、科产系统党委调研嘉定科技园",
+      "url": "https://news.shu.edu.cn/info/1012/176275.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "携手区校共建 共探教育新篇——黄浦区与上海大学基础教育工作交流会举行",
-      "url": "https://news.shu.edu.cn/info/1012/176215.htm",
+      "title": "以青春之名，赴光影之约——第28届上海国际电影节、第31届上海电视节上海大学志愿者宣讲活动暨志愿项目启动...",
+      "url": "https://news.shu.edu.cn/info/1012/176305.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "民盟上海大学委员会荣获多项表彰",
-      "url": "https://news.shu.edu.cn/info/1012/176235.htm",
+      "title": "《上海翻译》创刊40周年暨中国应用翻译研究发展座谈会成功举行",
+      "url": "https://news.shu.edu.cn/info/1012/176315.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "全国高校第二十届“金法槌杯”模拟法庭大赛颁奖典礼暨第二十一届大赛启动仪式成功举行",
-      "url": "https://news.shu.edu.cn/info/1012/176245.htm",
+      "title": "上海大学副校长于雪梅率团访问德国、意大利、日本高校",
+      "url": "https://news.shu.edu.cn/info/1012/176325.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
