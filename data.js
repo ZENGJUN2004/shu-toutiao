@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-04-29 12:31",
+  "update_time": "2026-04-29 15:25",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,27 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "传承五四薪火，凝聚青春力量｜上海大学秋白书院举办五四青春歌会暨卓越班级风采展示活动",
-      "url": "https://news.shu.edu.cn/info/1012/176255.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "书香润心・学术护航：上海大学 “论文加油站”服务正式启动",
-      "url": "https://news.shu.edu.cn/info/1012/176265.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海大学本科生研究生工作部、科产系统党委调研嘉定科技园",
-      "url": "https://news.shu.edu.cn/info/1012/176275.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "以青春之名，赴光影之约——第28届上海国际电影节、第31届上海电视节上海大学志愿者宣讲活动暨志愿项目启动...",
@@ -53,6 +32,27 @@ window.SHU_DATA = {
     {
       "title": "上海大学副校长于雪梅率团访问德国、意大利、日本高校",
       "url": "https://news.shu.edu.cn/info/1012/176325.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "“AI赋能科普短视频创作一日实战工坊暨上海电影学院AI赋能影像创研系列讲座”成功举办",
+      "url": "https://news.shu.edu.cn/info/1012/176385.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "聚焦主题教育，筹备换届工作——民革上海大学委员会召开党员会议",
+      "url": "https://news.shu.edu.cn/info/1012/176395.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "九三学社上海大学委员会与中国科学院上海分院联合举办“泮溪启声”主题教育活动",
+      "url": "https://news.shu.edu.cn/info/1012/176405.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
