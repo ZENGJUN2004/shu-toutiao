@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-04-30 12:33",
+  "update_time": "2026-04-30 15:29",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,43 +16,43 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "上海大学副校长于雪梅率团访问德国、意大利、日本高校",
-      "url": "https://news.shu.edu.cn/info/1012/176325.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "“AI赋能科普短视频创作一日实战工坊暨上海电影学院AI赋能影像创研系列讲座”成功举办",
-      "url": "https://news.shu.edu.cn/info/1012/176385.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "聚焦主题教育，筹备换届工作——民革上海大学委员会召开党员会议",
-      "url": "https://news.shu.edu.cn/info/1012/176395.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "九三学社上海大学委员会与中国科学院上海分院联合举办“泮溪启声”主题教育活动",
-      "url": "https://news.shu.edu.cn/info/1012/176405.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "中欧工程技术学院接受法国工程师职衔委员会（CTI）实地考察认证",
-      "url": "https://news.shu.edu.cn/info/1012/176415.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
       "title": "上海大学举办“突发事件的公共沟通”专题讲座",
       "url": "https://news.shu.edu.cn/info/1012/176425.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "筑强科创教育底座 点亮AI未来之光——上海大学、上海市科创教育研究院联合建设的首家青少年AI科创学习中心正...",
+      "url": "https://news.shu.edu.cn/info/1012/176435.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学法学院和海华永泰律师事务所交流座谈会顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/176445.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "“当AI遇见传统文化”中印尼青年AI传统文化视觉作品线下专题展览及展映暨颁奖典礼（雅加达站）成功举办",
+      "url": "https://news.shu.edu.cn/info/1012/176455.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "启航！上海大学嘉定校区“青春合伙人”计划启动仪式暨“党建带团建”学习沙龙顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/176465.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "凝聚共识，共谋发展——欧美同学会上大分会召开2026年理事会会议",
+      "url": "https://news.shu.edu.cn/info/1012/176475.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
