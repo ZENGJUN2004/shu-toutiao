@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-04-30 08:03",
+  "update_time": "2026-04-30 12:33",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "以青春之名，赴光影之约——第28届上海国际电影节、第31届上海电视节上海大学志愿者宣讲活动暨志愿项目启动...",
-      "url": "https://news.shu.edu.cn/info/1012/176305.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "《上海翻译》创刊40周年暨中国应用翻译研究发展座谈会成功举行",
-      "url": "https://news.shu.edu.cn/info/1012/176315.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海大学副校长于雪梅率团访问德国、意大利、日本高校",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "九三学社上海大学委员会与中国科学院上海分院联合举办“泮溪启声”主题教育活动",
       "url": "https://news.shu.edu.cn/info/1012/176405.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "中欧工程技术学院接受法国工程师职衔委员会（CTI）实地考察认证",
+      "url": "https://news.shu.edu.cn/info/1012/176415.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学举办“突发事件的公共沟通”专题讲座",
+      "url": "https://news.shu.edu.cn/info/1012/176425.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
