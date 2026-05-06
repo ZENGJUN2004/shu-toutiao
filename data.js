@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-05-06 07:52",
+  "update_time": "2026-05-06 11:35",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,43 +16,43 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "上海大学举办“突发事件的公共沟通”专题讲座",
-      "url": "https://news.shu.edu.cn/info/1012/176425.htm",
+      "title": "智汇中原 共赴未来——上海大学河南招宣组赴豫多所头部高中开展招生宣传工作",
+      "url": "https://news.shu.edu.cn/info/1012/176555.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "筑强科创教育底座 点亮AI未来之光——上海大学、上海市科创教育研究院联合建设的首家青少年AI科创学习中心正...",
-      "url": "https://news.shu.edu.cn/info/1012/176435.htm",
+      "title": "2026年（第十八届）上海市大学生计算机应用能力大赛开幕式顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/176565.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "上海大学法学院和海华永泰律师事务所交流座谈会顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/176445.htm",
+      "title": "上海大学举办“上海高校示范性本科课堂”《智能控制》教学观摩活动",
+      "url": "https://news.shu.edu.cn/info/1012/176575.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "“当AI遇见传统文化”中印尼青年AI传统文化视觉作品线下专题展览及展映暨颁奖典礼（雅加达站）成功举办",
-      "url": "https://news.shu.edu.cn/info/1012/176455.htm",
+      "title": "上海市金瑞学校来访上海大学数学科学实践工作站",
+      "url": "https://news.shu.edu.cn/info/1012/176585.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "启航！上海大学嘉定校区“青春合伙人”计划启动仪式暨“党建带团建”学习沙龙顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/176465.htm",
+      "title": "“清风荷韵·润泽校园”荷花捐赠暨种植仪式顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/176595.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "凝聚共识，共谋发展——欧美同学会上大分会召开2026年理事会会议",
-      "url": "https://news.shu.edu.cn/info/1012/176475.htm",
+      "title": "力工学院传达学习习近平总书记重要讲话精神 全院师生将聚力基础研究 勇担科创使命",
+      "url": "https://news.shu.edu.cn/info/1012/176605.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
