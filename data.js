@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-05-07 07:02",
+  "update_time": "2026-05-07 11:35",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,27 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "智汇中原 共赴未来——上海大学河南招宣组赴豫多所头部高中开展招生宣传工作",
-      "url": "https://news.shu.edu.cn/info/1012/176555.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "2026年（第十八届）上海市大学生计算机应用能力大赛开幕式顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/176565.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海大学举办“上海高校示范性本科课堂”《智能控制》教学观摩活动",
-      "url": "https://news.shu.edu.cn/info/1012/176575.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海市金瑞学校来访上海大学数学科学实践工作站",
@@ -53,6 +32,27 @@ window.SHU_DATA = {
     {
       "title": "力工学院传达学习习近平总书记重要讲话精神 全院师生将聚力基础研究 勇担科创使命",
       "url": "https://news.shu.edu.cn/info/1012/176605.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "2026年国家艺术基金传播交流推广资助项目“‘艺’起童年——中国儿童美术百年巡展”开幕",
+      "url": "https://news.shu.edu.cn/info/1012/176825.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海电影学院青年教师联谊会分会完成换届大会",
+      "url": "https://news.shu.edu.cn/info/1012/176835.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "中欧工程技术学院接受法国工程师职衔委员会（CTI）实地考察认证",
+      "url": "https://news.shu.edu.cn/info/1012/176845.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
