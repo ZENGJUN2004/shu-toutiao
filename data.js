@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-05-09 15:10",
+  "update_time": "2026-05-09 17:23",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "上海市金瑞学校来访上海大学数学科学实践工作站",
-      "url": "https://news.shu.edu.cn/info/1012/176585.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "“清风荷韵·润泽校园”荷花捐赠暨种植仪式顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/176595.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "力工学院传达学习习近平总书记重要讲话精神 全院师生将聚力基础研究 勇担科创使命",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "中欧工程技术学院接受法国工程师职衔委员会（CTI）实地考察认证",
       "url": "https://news.shu.edu.cn/info/1012/176845.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上大民革党员参加上海民革新党员第三期“同心成长营”活动",
+      "url": "https://news.shu.edu.cn/info/1012/176885.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "继续教育学院党委与瑞金医院卢湾分院党委开展医教协同党建共建活动",
+      "url": "https://news.shu.edu.cn/info/1012/176895.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
