@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-05-11 12:07",
+  "update_time": "2026-05-11 16:26",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,13 +16,6 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "上大民革党员参加上海民革新党员第三期“同心成长营”活动",
-      "url": "https://news.shu.edu.cn/info/1012/176885.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
       "title": "继续教育学院党委与瑞金医院卢湾分院党委开展医教协同党建共建活动",
       "url": "https://news.shu.edu.cn/info/1012/176895.htm",
       "source": "上大官网",
@@ -30,7 +23,7 @@ window.SHU_DATA = {
       "tag": "official"
     },
     {
-      "title": "走进计量实验室 感知芯片”芯”力量——上海大学微电子学院2026春考新生赴广电计量开展研学实践",
+      "title": "走进计量实验室 感知芯片“芯”力量——上海大学微电子学院2026春考新生赴广电计量开展研学实践",
       "url": "https://news.shu.edu.cn/info/1012/176905.htm",
       "source": "上大官网",
       "time": "校内",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "上海大学第17届JUST搜搜信息检索能力大赛顺利举行",
       "url": "https://news.shu.edu.cn/info/1012/176945.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "法学院青年教师联谊会分会换届大会顺利召开",
+      "url": "https://news.shu.edu.cn/info/1012/176925.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
