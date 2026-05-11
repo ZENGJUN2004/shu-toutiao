@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-05-11 07:56",
+  "update_time": "2026-05-11 12:07",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,34 +16,6 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "力工学院传达学习习近平总书记重要讲话精神 全院师生将聚力基础研究 勇担科创使命",
-      "url": "https://news.shu.edu.cn/info/1012/176605.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "2026年国家艺术基金传播交流推广资助项目“‘艺’起童年——中国儿童美术百年巡展”开幕",
-      "url": "https://news.shu.edu.cn/info/1012/176825.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海电影学院青年教师联谊会分会完成换届大会",
-      "url": "https://news.shu.edu.cn/info/1012/176835.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "中欧工程技术学院接受法国工程师职衔委员会（CTI）实地考察认证",
-      "url": "https://news.shu.edu.cn/info/1012/176845.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
       "title": "上大民革党员参加上海民革新党员第三期“同心成长营”活动",
       "url": "https://news.shu.edu.cn/info/1012/176885.htm",
       "source": "上大官网",
@@ -53,6 +25,34 @@ window.SHU_DATA = {
     {
       "title": "继续教育学院党委与瑞金医院卢湾分院党委开展医教协同党建共建活动",
       "url": "https://news.shu.edu.cn/info/1012/176895.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "走进计量实验室 感知芯片”芯”力量——上海大学微电子学院2026春考新生赴广电计量开展研学实践",
+      "url": "https://news.shu.edu.cn/info/1012/176905.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "理学院大中物理学科贯通教育与拔尖人才培养座谈会举行",
+      "url": "https://news.shu.edu.cn/info/1012/176915.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "点亮“文学之光”！上海大学“文学之夜”！",
+      "url": "https://news.shu.edu.cn/info/1012/176935.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学第17届JUST搜搜信息检索能力大赛顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/176945.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
