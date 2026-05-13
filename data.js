@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-05-14 00:22",
+  "update_time": "2026-05-14 02:58",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -75,6 +75,13 @@ window.SHU_DATA = {
       "title": "【中国科学报】永怀爱国之心 ——纪念“两弹一星”元勋郭永怀",
       "url": "http://news.ustc.edu.cn/info/1056/74957.htm",
       "source": "中国科学技术大学中国科大新闻网",
+      "time": "",
+      "tag": "media"
+    },
+    {
+      "title": "上海_澎湃新闻-The Paper",
+      "url": "https://www.thepaper.cn/region",
+      "source": "澎湃新闻",
       "time": "",
       "tag": "media"
     },
