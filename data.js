@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-05-13 15:52",
+  "update_time": "2026-05-13 18:33",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "法学院青年教师联谊会分会换届大会顺利召开",
-      "url": "https://news.shu.edu.cn/info/1012/176925.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海大学援疆教师饶进军获评“第十一批优秀援疆干部人才”并记功",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "“国球宝山行，上大风景线” 上海大学代表队获上海乒乓嘉年华宝山区选拔赛亚军",
       "url": "https://news.shu.edu.cn/info/1012/177155.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学召开2026年第二次党群工作例会",
+      "url": "https://news.shu.edu.cn/info/1012/177225.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
