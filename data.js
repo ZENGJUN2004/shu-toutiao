@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-05-15 18:31",
+  "update_time": "2026-05-15 20:56",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "“国球宝山行，上大风景线” 上海大学代表队获上海乒乓嘉年华宝山区选拔赛亚军",
-      "url": "https://news.shu.edu.cn/info/1012/177155.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海大学召开2026年第二次党群工作例会",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "2026年怒江州高质量发展与现代化治理综合能力提升专题培训班启动",
       "url": "https://news.shu.edu.cn/info/1012/177295.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学召开党委理论学习中心组（扩大）学习会",
+      "url": "https://news.shu.edu.cn/info/1012/177385.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
