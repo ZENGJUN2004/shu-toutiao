@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-05-18 12:36",
+  "update_time": "2026-05-18 16:47",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,34 +16,6 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "2026年上海高校计算机学院院长论坛在上海大学举行",
-      "url": "https://news.shu.edu.cn/info/1012/177275.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海大学党委书记吴坚勇率团访问爱尔兰、瑞士",
-      "url": "https://news.shu.edu.cn/info/1012/177285.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "2026年怒江州高质量发展与现代化治理综合能力提升专题培训班启动",
-      "url": "https://news.shu.edu.cn/info/1012/177295.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海大学召开党委理论学习中心组（扩大）学习会",
-      "url": "https://news.shu.edu.cn/info/1012/177385.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
       "title": "党委巡察工作领导小组召开2026年第2次会议",
       "url": "https://news.shu.edu.cn/info/1012/177395.htm",
       "source": "上大官网",
@@ -53,6 +25,34 @@ window.SHU_DATA = {
     {
       "title": "匠心筑梦育英才·立德树人担使命——微电子学院开展劳模精神交流会暨中心组学习（扩大）会",
       "url": "https://news.shu.edu.cn/info/1012/177405.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "合肥大学邬平川书记一行来访我校交流新结构经济学学科建设与合作",
+      "url": "https://news.shu.edu.cn/info/1012/177435.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "环化学院召开干部宣布大会",
+      "url": "https://news.shu.edu.cn/info/1012/177445.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "傅克诚先生《综述大都市圈空间结构三要素》新书发布暨研讨会在上海大学举办",
+      "url": "https://news.shu.edu.cn/info/1012/177465.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "红脉融汇强动能，产业共振谱新篇——“共同行动”区域化党建联建活动顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/177485.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
