@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-05-18 07:59",
+  "update_time": "2026-05-18 12:36",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "上海大学召开2026年第二次党群工作例会",
-      "url": "https://news.shu.edu.cn/info/1012/177225.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海市计算机学会2026年度学术年会在上海大学举行",
-      "url": "https://news.shu.edu.cn/info/1012/177265.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "2026年上海高校计算机学院院长论坛在上海大学举行",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "上海大学召开党委理论学习中心组（扩大）学习会",
       "url": "https://news.shu.edu.cn/info/1012/177385.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "党委巡察工作领导小组召开2026年第2次会议",
+      "url": "https://news.shu.edu.cn/info/1012/177395.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "匠心筑梦育英才·立德树人担使命——微电子学院开展劳模精神交流会暨中心组学习（扩大）会",
+      "url": "https://news.shu.edu.cn/info/1012/177405.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
