@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-05-19 13:04",
+  "update_time": "2026-05-19 17:53",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "文信学院召开图情档与考古文博学科交叉融合交流座谈会",
-      "url": "https://news.shu.edu.cn/info/1012/177525.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "外国语学院院长尚新率团参加第十九届全国英语类专业院长/系主任高级论坛并作专题报告",
-      "url": "https://news.shu.edu.cn/info/1012/177535.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "“江声海韵·民乐华章”上海民族乐团民族管弦乐音乐会上海大学专场演出精彩落幕",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "青春如故 归来仍少年 ——理学院化学系2026年校友返校日活动顺利举行",
       "url": "https://news.shu.edu.cn/info/1012/177575.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "正风铸魂砺初心 笃行实干担使命——社会学院学生党支部联合主题党日活动顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/177705.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "2026年（第十八届）上海市大学生计算机应用能力大赛决赛在上海大学顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/177715.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
