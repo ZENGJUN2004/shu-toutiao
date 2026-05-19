@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-05-19 08:12",
+  "update_time": "2026-05-19 13:04",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,43 +16,43 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "党委巡察工作领导小组召开2026年第2次会议",
-      "url": "https://news.shu.edu.cn/info/1012/177395.htm",
+      "title": "文信学院召开图情档与考古文博学科交叉融合交流座谈会",
+      "url": "https://news.shu.edu.cn/info/1012/177525.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "匠心筑梦育英才·立德树人担使命——微电子学院开展劳模精神交流会暨中心组学习（扩大）会",
-      "url": "https://news.shu.edu.cn/info/1012/177405.htm",
+      "title": "外国语学院院长尚新率团参加第十九届全国英语类专业院长/系主任高级论坛并作专题报告",
+      "url": "https://news.shu.edu.cn/info/1012/177535.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "合肥大学邬平川书记一行来访我校交流新结构经济学学科建设与合作",
-      "url": "https://news.shu.edu.cn/info/1012/177435.htm",
+      "title": "“江声海韵·民乐华章”上海民族乐团民族管弦乐音乐会上海大学专场演出精彩落幕",
+      "url": "https://news.shu.edu.cn/info/1012/177545.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "环化学院召开干部宣布大会",
-      "url": "https://news.shu.edu.cn/info/1012/177445.htm",
+      "title": "我校举办2026年数字技术应用专项师资研修班",
+      "url": "https://news.shu.edu.cn/info/1012/177555.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "傅克诚先生《综述大都市圈空间结构三要素》新书发布暨研讨会在上海大学举办",
-      "url": "https://news.shu.edu.cn/info/1012/177465.htm",
+      "title": "我校举办2026年上半年上海市领导干部专题培训班（第二期）“现代化人民城市治理”",
+      "url": "https://news.shu.edu.cn/info/1012/177565.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "红脉融汇强动能，产业共振谱新篇——“共同行动”区域化党建联建活动顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/177485.htm",
+      "title": "青春如故 归来仍少年 ——理学院化学系2026年校友返校日活动顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/177575.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
