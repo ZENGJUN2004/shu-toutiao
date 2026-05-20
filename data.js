@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-05-20 11:58",
+  "update_time": "2026-05-20 15:53",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "我校举办2026年上半年上海市领导干部专题培训班（第二期）“现代化人民城市治理”",
-      "url": "https://news.shu.edu.cn/info/1012/177565.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "青春如故 归来仍少年 ——理学院化学系2026年校友返校日活动顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/177575.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "正风铸魂砺初心 笃行实干担使命——社会学院学生党支部联合主题党日活动顺利举行",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "第三届中国李大钊研究会青年学术研讨会在上海大学举办",
       "url": "https://news.shu.edu.cn/info/1012/177745.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "2026年上海大学数学实践工作站开班典礼举行",
+      "url": "https://news.shu.edu.cn/info/1012/177775.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "古今集韵 万卷藏珍——《古今图书集成》专题展揭幕",
+      "url": "https://news.shu.edu.cn/info/1012/177795.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
