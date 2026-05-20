@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-05-20 07:06",
+  "update_time": "2026-05-20 11:58",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "“江声海韵·民乐华章”上海民族乐团民族管弦乐音乐会上海大学专场演出精彩落幕",
-      "url": "https://news.shu.edu.cn/info/1012/177545.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "我校举办2026年数字技术应用专项师资研修班",
-      "url": "https://news.shu.edu.cn/info/1012/177555.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "我校举办2026年上半年上海市领导干部专题培训班（第二期）“现代化人民城市治理”",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "2026年（第十八届）上海市大学生计算机应用能力大赛决赛在上海大学顺利举行",
       "url": "https://news.shu.edu.cn/info/1012/177715.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "宝山筑梦·兰香致远——2026上海创业培训“马兰花计划”宝山区第三期创业培训班（上海大学GYB班）顺利落幕",
+      "url": "https://news.shu.edu.cn/info/1012/177735.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "第三届中国李大钊研究会青年学术研讨会在上海大学举办",
+      "url": "https://news.shu.edu.cn/info/1012/177745.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
