@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-05-22 08:07",
+  "update_time": "2026-05-22 13:04",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,27 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "正风铸魂砺初心 笃行实干担使命——社会学院学生党支部联合主题党日活动顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/177705.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "2026年（第十八届）上海市大学生计算机应用能力大赛决赛在上海大学顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/177715.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "宝山筑梦·兰香致远——2026上海创业培训“马兰花计划”宝山区第三期创业培训班（上海大学GYB班）顺利落幕",
-      "url": "https://news.shu.edu.cn/info/1012/177735.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "第三届中国李大钊研究会青年学术研讨会在上海大学举办",
@@ -53,6 +32,27 @@ window.SHU_DATA = {
     {
       "title": "古今集韵 万卷藏珍——《古今图书集成》专题展揭幕",
       "url": "https://news.shu.edu.cn/info/1012/177795.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "太原市文物局党组书记、局长李宏文一行访问上海大学文化遗产与信息管理学院",
+      "url": "https://news.shu.edu.cn/info/1012/177885.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学北京招宣组顺利开展2026年春季招生宣传工作",
+      "url": "https://news.shu.edu.cn/info/1012/177895.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学机自学院学生获第十一届国际大学生智能农业装备创新大赛特等奖",
+      "url": "https://news.shu.edu.cn/info/1012/177905.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
