@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-05-25 23:53",
+  "update_time": "2026-05-26 01:47",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -83,6 +83,13 @@ window.SHU_DATA = {
       "url": "https://news.sciencenet.cn/htmlnews/2026/4/563981.shtm",
       "source": "科学网",
       "time": "4月29日",
+      "tag": "media"
+    },
+    {
+      "title": "...协同治理破解转化难题,加快人工智能药物设计丨媒体聚焦-科技日报",
+      "url": "http://baijiahao.baidu.com/s?id=1865330999317228449&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "5月15日",
       "tag": "media"
     },
     {
