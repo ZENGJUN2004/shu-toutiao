@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-05-25 12:13",
+  "update_time": "2026-05-25 16:59",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,27 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "2026年上海大学数学实践工作站开班典礼举行",
-      "url": "https://news.shu.edu.cn/info/1012/177775.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "古今集韵 万卷藏珍——《古今图书集成》专题展揭幕",
-      "url": "https://news.shu.edu.cn/info/1012/177795.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "太原市文物局党组书记、局长李宏文一行访问上海大学文化遗产与信息管理学院",
-      "url": "https://news.shu.edu.cn/info/1012/177885.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海大学北京招宣组顺利开展2026年春季招生宣传工作",
@@ -53,6 +32,27 @@ window.SHU_DATA = {
     {
       "title": "法学院决策咨询专报撰写及国家社科基金申报专题交流会顺利举行",
       "url": "https://news.shu.edu.cn/info/1012/177925.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "民进上海大学委员会顺利完成换届",
+      "url": "https://news.shu.edu.cn/info/1012/177945.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "校领导出席第十三届世界城市论坛并开展系列交流活动",
+      "url": "https://news.shu.edu.cn/info/1012/177955.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学荣获第十三届ASC世界大学生超算竞赛一等奖",
+      "url": "https://news.shu.edu.cn/info/1012/177965.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
