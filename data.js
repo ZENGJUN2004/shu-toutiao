@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-05-26 15:57",
+  "update_time": "2026-05-26 23:48",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,6 +14,13 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
+    },
+    {
+      "title": "上海大学北京招宣组顺利开展2026年春季招生宣传工作",
+      "url": "https://news.shu.edu.cn/info/1012/177895.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
     },
     {
       "title": "上海大学机自学院学生获第十一届国际大学生智能农业装备创新大赛特等奖",
@@ -32,13 +39,6 @@ window.SHU_DATA = {
     {
       "title": "民进上海大学委员会顺利完成换届",
       "url": "https://news.shu.edu.cn/info/1012/177945.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "校领导出席第十三届世界城市论坛并开展系列交流活动",
-      "url": "https://news.shu.edu.cn/info/1012/177955.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
