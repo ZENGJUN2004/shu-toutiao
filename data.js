@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-05-27 02:30",
+  "update_time": "2026-05-27 04:56",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -86,31 +86,17 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "上海:“百川汇海:海丝帆影下的文明互鉴”特展开幕",
-      "url": "https://difang.gmw.cn/sh/2026-05/10/content_38760699.htm",
-      "source": "光明网",
-      "time": "5月10日",
+      "title": "澎湃新闻-专注时政与思想-ThePaper.cn",
+      "url": "https://www.thepaper.cn/gov_79007",
+      "source": "澎湃新闻",
+      "time": "",
       "tag": "media"
     },
     {
-      "title": "2026青春上海大学生音乐季暨美妆派对燃动南上海科创中心",
-      "url": "http://cn.chinadaily.com.cn/a/202605/25/WS6a13ebcba310942cc49ae139.html",
-      "source": "中国日报网",
-      "time": "前天12:08",
-      "tag": "media"
-    },
-    {
-      "title": "第三届“双十大”榜单正式发布!普陀五案上榜!全方位展现科技金融...",
-      "url": "http://cn.chinadaily.com.cn/a/202605/25/WS6a140e08a310942cc49ae316.html",
-      "source": "中国日报网",
-      "time": "前天16:53",
-      "tag": "media"
-    },
-    {
-      "title": "上海大学悉尼工商学院SHU-UTS硕士项目举办国际创新大赛参赛项目...",
-      "url": "http://cn.chinadaily.com.cn/a/202605/26/WS6a155959a310942cc49ae644.html",
-      "source": "中国日报网",
-      "time": "昨天16:19",
+      "title": "新华时政_新华网",
+      "url": "http://www.xinhuanet.com/politics/ggyslt/zbsl.htm",
+      "source": "新华网",
+      "time": "",
       "tag": "media"
     }
   ]
