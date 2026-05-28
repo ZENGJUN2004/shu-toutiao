@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-05-28 08:03",
+  "update_time": "2026-05-28 13:11",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,6 +14,48 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
+    },
+    {
+      "title": "上海大学科产系统工会开展春游团建活动",
+      "url": "https://news.shu.edu.cn/info/1012/177985.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "材料学院顺利举办2026年校友值年返校日活动",
+      "url": "https://news.shu.edu.cn/info/1012/178005.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "微电子学院邀请全国最美高校辅导员开展先锋领航辅导员成长沙龙",
+      "url": "https://news.shu.edu.cn/info/1012/178065.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学外国语学院赴科大讯飞开展专题调研",
+      "url": "https://news.shu.edu.cn/info/1012/178075.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "“上海法官进高校系列巡讲”：“聚焦法典时代的生态环境司法”专题讲座在上海大学顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/178085.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "第二届新时代知识产权强国建设主题征文学术交流活动在上海大学举办",
+      "url": "https://news.shu.edu.cn/info/1012/178095.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
     },
     {
       "title": "【科技日报】第二届智能科学家生态联盟大会在中国科学技术大学举办",
