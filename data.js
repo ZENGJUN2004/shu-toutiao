@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-05-29 07:21",
+  "update_time": "2026-05-29 12:02",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "上海大学科产系统工会开展春游团建活动",
-      "url": "https://news.shu.edu.cn/info/1012/177985.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "材料学院顺利举办2026年校友值年返校日活动",
-      "url": "https://news.shu.edu.cn/info/1012/178005.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "微电子学院邀请全国最美高校辅导员开展先锋领航辅导员成长沙龙",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "第二届新时代知识产权强国建设主题征文学术交流活动在上海大学举办",
       "url": "https://news.shu.edu.cn/info/1012/178095.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "原创导向学术评价引领中国哲学社会科学自主知识体系建构学术研讨会在我校召开",
+      "url": "https://news.shu.edu.cn/info/1012/178155.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "我校成功举办“新时代青年社科工作者的历史使命与责任担当”平行论坛",
+      "url": "https://news.shu.edu.cn/info/1012/178265.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
@@ -104,6 +104,20 @@ window.SHU_DATA = {
       "url": "http://www.xinhuanet.com/politics/ggyslt/zbsl.htm",
       "source": "新华网",
       "time": "",
+      "tag": "media"
+    },
+    {
+      "title": "“科创+文创”双核驱动,上海大学科学画廊落成启用—新闻—科学网",
+      "url": "https://news.sciencenet.cn/htmlnews/2026/5/565502.shtm",
+      "source": "科学网",
+      "time": "昨天10:48",
+      "tag": "media"
+    },
+    {
+      "title": "走向真实环境,上海大学推出两款特种人形机器人—新闻—科学网",
+      "url": "https://news.sciencenet.cn/htmlnews/2026/5/565504.shtm",
+      "source": "科学网",
+      "time": "昨天10:50",
       "tag": "media"
     }
   ]
