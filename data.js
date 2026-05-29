@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-05-29 20:18",
+  "update_time": "2026-05-30 00:44",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -93,10 +93,17 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "澎湃新闻-专注时政与思想-ThePaper.cn",
-      "url": "https://www.thepaper.cn/gov_79007",
-      "source": "澎湃新闻",
-      "time": "",
+      "title": "“科创+文创”双核驱动,上海大学科学画廊落成启用—新闻—科学网",
+      "url": "https://news.sciencenet.cn/htmlnews/2026/5/565502.shtm",
+      "source": "科学网",
+      "time": "前天10:48",
+      "tag": "media"
+    },
+    {
+      "title": "走向真实环境,上海大学推出两款特种人形机器人—新闻—科学网",
+      "url": "https://news.sciencenet.cn/htmlnews/2026/5/565504.shtm",
+      "source": "科学网",
+      "time": "前天10:50",
       "tag": "media"
     },
     {
@@ -104,20 +111,6 @@ window.SHU_DATA = {
       "url": "http://www.xinhuanet.com/politics/ggyslt/zbsl.htm",
       "source": "新华网",
       "time": "",
-      "tag": "media"
-    },
-    {
-      "title": "“科创+文创”双核驱动,上海大学科学画廊落成启用—新闻—科学网",
-      "url": "https://news.sciencenet.cn/htmlnews/2026/5/565502.shtm",
-      "source": "科学网",
-      "time": "昨天10:48",
-      "tag": "media"
-    },
-    {
-      "title": "走向真实环境,上海大学推出两款特种人形机器人—新闻—科学网",
-      "url": "https://news.sciencenet.cn/htmlnews/2026/5/565504.shtm",
-      "source": "科学网",
-      "time": "昨天10:50",
       "tag": "media"
     }
   ]
