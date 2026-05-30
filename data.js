@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-05-30 23:12",
+  "update_time": "2026-05-31 01:13",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -90,20 +90,6 @@ window.SHU_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1865330999317228449&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "5月15日",
-      "tag": "media"
-    },
-    {
-      "title": "“科创+文创”双核驱动,上海大学科学画廊落成启用—新闻—科学网",
-      "url": "https://news.sciencenet.cn/htmlnews/2026/5/565502.shtm",
-      "source": "科学网",
-      "time": "前天10:48",
-      "tag": "media"
-    },
-    {
-      "title": "走向真实环境,上海大学推出两款特种人形机器人—新闻—科学网",
-      "url": "https://news.sciencenet.cn/htmlnews/2026/5/565504.shtm",
-      "source": "科学网",
-      "time": "前天10:50",
       "tag": "media"
     },
     {
