@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-06-01 18:23",
+  "update_time": "2026-06-02 00:40",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,43 +16,43 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "第二届新时代知识产权强国建设主题征文学术交流活动在上海大学举办",
-      "url": "https://news.shu.edu.cn/info/1012/178095.htm",
+      "title": "上海大学纪委与上海师范大学纪委开展联组学习",
+      "url": "https://news.shu.edu.cn/info/1012/178415.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "原创导向学术评价引领中国哲学社会科学自主知识体系建构学术研讨会在我校召开",
-      "url": "https://news.shu.edu.cn/info/1012/178155.htm",
+      "title": "上海大学上海美术学院第二届理事会第二次会议召开",
+      "url": "https://news.shu.edu.cn/info/1012/178425.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "我校成功举办“新时代青年社科工作者的历史使命与责任担当”平行论坛",
-      "url": "https://news.shu.edu.cn/info/1012/178265.htm",
+      "title": "环化学院青年教师联谊分会换届大会顺利召开",
+      "url": "https://news.shu.edu.cn/info/1012/178435.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "新闻传播学院与文科处共同举办科研专题交流会",
-      "url": "https://news.shu.edu.cn/info/1012/178385.htm",
+      "title": "材料学院特殊钢精炼教工党支部组织党员集体参观中国共产党人与黄埔军校图片巡展",
+      "url": "https://news.shu.edu.cn/info/1012/178445.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "筑强科创育人新空间 共绘校城融合新图景——上海科技节·上海大学科普日暨科学画廊正式落成启用",
-      "url": "https://news.shu.edu.cn/info/1012/178365.htm",
+      "title": "马克思主义学院召开AI赋能思政课教学研究专题培训会暨教师政治理论学习会",
+      "url": "https://news.shu.edu.cn/info/1012/178455.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "决策咨询专报撰写和国家社科基金项目申报交流会在外国语学院顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/178375.htm",
+      "title": "首届AI电影制作专业学员在上海大学上海温哥华电影学院结业，三个月交出这份“AI原生创作”答卷",
+      "url": "https://news.shu.edu.cn/info/1012/178465.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
