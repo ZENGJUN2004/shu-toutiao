@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-06-02 12:21",
+  "update_time": "2026-06-02 17:11",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,43 +16,43 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "上海大学纪委与上海师范大学纪委开展联组学习",
-      "url": "https://news.shu.edu.cn/info/1012/178415.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海大学上海美术学院第二届理事会第二次会议召开",
-      "url": "https://news.shu.edu.cn/info/1012/178425.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "环化学院青年教师联谊分会换届大会顺利召开",
-      "url": "https://news.shu.edu.cn/info/1012/178435.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "材料学院特殊钢精炼教工党支部组织党员集体参观中国共产党人与黄埔军校图片巡展",
-      "url": "https://news.shu.edu.cn/info/1012/178445.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "马克思主义学院召开AI赋能思政课教学研究专题培训会暨教师政治理论学习会",
-      "url": "https://news.shu.edu.cn/info/1012/178455.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
       "title": "首届AI电影制作专业学员在上海大学上海温哥华电影学院结业，三个月交出这份“AI原生创作”答卷",
       "url": "https://news.shu.edu.cn/info/1012/178465.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "理学院数学大师讲坛第二十、二十一讲顺利开讲",
+      "url": "https://news.shu.edu.cn/info/1012/178485.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "树立和践行正确政绩观！人文社科艺术处（智库管理办公室）开展“智库进学院”系列活动",
+      "url": "https://news.shu.edu.cn/info/1012/178495.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "法学院举行党委理论学习中心组（扩大）学习会暨班子集体研讨交流会",
+      "url": "https://news.shu.edu.cn/info/1012/178505.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "科产系统党委开展树立和践行正确政绩观学习辅导报告",
+      "url": "https://news.shu.edu.cn/info/1012/178515.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "环化学院与中海油能源发展有限公司上海安全环保分公司开展合作交流",
+      "url": "https://news.shu.edu.cn/info/1012/178525.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
