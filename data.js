@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-06-03 17:54",
+  "update_time": "2026-06-03 22:45",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -90,6 +90,13 @@ window.SHU_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1865330999317228449&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "5月15日",
+      "tag": "media"
+    },
+    {
+      "title": "澎湃新闻-专注时政与思想-ThePaper.cn",
+      "url": "https://www.thepaper.cn/gov_79007",
+      "source": "澎湃新闻",
+      "time": "",
       "tag": "media"
     },
     {
