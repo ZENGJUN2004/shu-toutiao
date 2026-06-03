@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-06-03 07:49",
+  "update_time": "2026-06-03 12:41",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "首届AI电影制作专业学员在上海大学上海温哥华电影学院结业，三个月交出这份“AI原生创作”答卷",
-      "url": "https://news.shu.edu.cn/info/1012/178465.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "理学院数学大师讲坛第二十、二十一讲顺利开讲",
-      "url": "https://news.shu.edu.cn/info/1012/178485.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "树立和践行正确政绩观！人文社科艺术处（智库管理办公室）开展“智库进学院”系列活动",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "环化学院与中海油能源发展有限公司上海安全环保分公司开展合作交流",
       "url": "https://news.shu.edu.cn/info/1012/178525.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "理学院党委与国际部党委开展中心组联组学习",
+      "url": "https://news.shu.edu.cn/info/1012/178655.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "2026年上海市高温超导重点实验室开放日活动顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/178665.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
