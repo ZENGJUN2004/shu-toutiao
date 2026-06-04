@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-06-04 07:47",
+  "update_time": "2026-06-04 12:26",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,43 +16,43 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "树立和践行正确政绩观！人文社科艺术处（智库管理办公室）开展“智库进学院”系列活动",
-      "url": "https://news.shu.edu.cn/info/1012/178495.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "法学院举行党委理论学习中心组（扩大）学习会暨班子集体研讨交流会",
-      "url": "https://news.shu.edu.cn/info/1012/178505.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "科产系统党委开展树立和践行正确政绩观学习辅导报告",
-      "url": "https://news.shu.edu.cn/info/1012/178515.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "环化学院与中海油能源发展有限公司上海安全环保分公司开展合作交流",
-      "url": "https://news.shu.edu.cn/info/1012/178525.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "理学院党委与国际部党委开展中心组联组学习",
-      "url": "https://news.shu.edu.cn/info/1012/178655.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
       "title": "2026年上海市高温超导重点实验室开放日活动顺利举行",
       "url": "https://news.shu.edu.cn/info/1012/178665.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "夺冠之路！微电子学院斩获上海大学第二十三届研究生篮球联赛总冠军",
+      "url": "https://news.shu.edu.cn/info/1012/178845.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "“光影中国”系列讲座成功举办：胡智锋教授谈中国网络视听发展新亮点、问题与前瞻思考",
+      "url": "https://news.shu.edu.cn/info/1012/178855.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "以步履探古都文脉，以数据智守中华瑰宝——第三届中国研究生“文化中国”两创大赛 ▪ 上大文信师生大同主题...",
+      "url": "https://news.shu.edu.cn/info/1012/178865.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "走进古猗园·问诊千年文物：上大文信学院让文保科普“触手可及”",
+      "url": "https://news.shu.edu.cn/info/1012/178875.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "力学AI4M产教研融合创新研讨会在我校召开",
+      "url": "https://news.shu.edu.cn/info/1012/178885.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
