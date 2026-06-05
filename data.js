@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-06-05 08:13",
+  "update_time": "2026-06-05 13:21",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "2026年上海市高温超导重点实验室开放日活动顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/178665.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "夺冠之路！微电子学院斩获上海大学第二十三届研究生篮球联赛总冠军",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "力学AI4M产教研融合创新研讨会在我校召开",
       "url": "https://news.shu.edu.cn/info/1012/178885.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "校党委第一巡察组向机关党委反馈巡察情况",
+      "url": "https://news.shu.edu.cn/info/1012/178895.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
