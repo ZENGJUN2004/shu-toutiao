@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-06-05 13:21",
+  "update_time": "2026-06-05 17:59",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "夺冠之路！微电子学院斩获上海大学第二十三届研究生篮球联赛总冠军",
-      "url": "https://news.shu.edu.cn/info/1012/178845.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "“光影中国”系列讲座成功举办：胡智锋教授谈中国网络视听发展新亮点、问题与前瞻思考",
-      "url": "https://news.shu.edu.cn/info/1012/178855.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "以步履探古都文脉，以数据智守中华瑰宝——第三届中国研究生“文化中国”两创大赛 ▪ 上大文信师生大同主题...",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "校党委第一巡察组向机关党委反馈巡察情况",
       "url": "https://news.shu.edu.cn/info/1012/178895.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "探秘微观生命 点亮科学童心——上海器官修复工程技术研究中心开展2026上海科技节开放日活动",
+      "url": "https://news.shu.edu.cn/info/1012/178925.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学9种期刊2025 CiteScore再创佳绩，国际影响力持续攀升",
+      "url": "https://news.shu.edu.cn/info/1012/178945.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
