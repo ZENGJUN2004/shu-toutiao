@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-06-08 08:13",
+  "update_time": "2026-06-08 13:54",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,34 +16,6 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "以步履探古都文脉，以数据智守中华瑰宝——第三届中国研究生“文化中国”两创大赛 ▪ 上大文信师生大同主题...",
-      "url": "https://news.shu.edu.cn/info/1012/178865.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "走进古猗园·问诊千年文物：上大文信学院让文保科普“触手可及”",
-      "url": "https://news.shu.edu.cn/info/1012/178875.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "力学AI4M产教研融合创新研讨会在我校召开",
-      "url": "https://news.shu.edu.cn/info/1012/178885.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "校党委第一巡察组向机关党委反馈巡察情况",
-      "url": "https://news.shu.edu.cn/info/1012/178895.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
       "title": "探秘微观生命 点亮科学童心——上海器官修复工程技术研究中心开展2026上海科技节开放日活动",
       "url": "https://news.shu.edu.cn/info/1012/178925.htm",
       "source": "上大官网",
@@ -53,6 +25,34 @@ window.SHU_DATA = {
     {
       "title": "上海大学9种期刊2025 CiteScore再创佳绩，国际影响力持续攀升",
       "url": "https://news.shu.edu.cn/info/1012/178945.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "打通网络思政的“最后一公里”——我校举办辅导员网络思政专题学习",
+      "url": "https://news.shu.edu.cn/info/1012/178955.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "四届党委第四轮巡察整改部署会召开",
+      "url": "https://news.shu.edu.cn/info/1012/178965.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "监督贯通协同暨智慧监督专项工作推进会召开",
+      "url": "https://news.shu.edu.cn/info/1012/178975.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "羽动赛场展风采 凝心聚力促奋进——2026年上海大学教职工羽毛球团体赛顺利举办",
+      "url": "https://news.shu.edu.cn/info/1012/178985.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
