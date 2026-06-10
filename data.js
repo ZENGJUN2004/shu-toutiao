@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-06-10 12:06",
+  "update_time": "2026-06-10 16:51",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "上海大学理学院数学大师讲坛顺利开讲",
-      "url": "https://news.shu.edu.cn/info/1012/179125.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "2026 年第六期“群雁齐飞计划”——上海院校“聚力协同共建，深耕双创育人”产教融合师资培训班在我校顺利举...",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "通信学院获批教育部光电专业教育教学改革重点项目 探索复合型光电创新人才培育新路径",
       "url": "https://news.shu.edu.cn/info/1012/179265.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学上海温哥华电影学院院长课堂 | 贾樟柯：在AI时代，用“实践”重新发明电影",
+      "url": "https://news.shu.edu.cn/info/1012/179275.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
