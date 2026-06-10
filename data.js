@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-06-10 07:19",
+  "update_time": "2026-06-10 12:06",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "我校举行第三十九、四十期中青班暨二级党委青联会会长培训班开班式",
-      "url": "https://news.shu.edu.cn/info/1012/179115.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海大学理学院数学大师讲坛顺利开讲",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "学生档案之树常青——上海大学档案馆成功举办2026年国际档案日主题活动",
       "url": "https://news.shu.edu.cn/info/1012/179165.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "通信学院获批教育部光电专业教育教学改革重点项目 探索复合型光电创新人才培育新路径",
+      "url": "https://news.shu.edu.cn/info/1012/179265.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
