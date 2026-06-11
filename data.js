@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-06-11 08:19",
+  "update_time": "2026-06-11 13:53",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "2026 年第六期“群雁齐飞计划”——上海院校“聚力协同共建，深耕双创育人”产教融合师资培训班在我校顺利举...",
-      "url": "https://news.shu.edu.cn/info/1012/179135.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海大学理学院数学学科发展研讨会顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/179145.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "湖南宜章访问团来校考察收集邓中夏同志建设上海大学生平事迹史料",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "上海大学上海温哥华电影学院院长课堂 | 贾樟柯：在AI时代，用“实践”重新发明电影",
       "url": "https://news.shu.edu.cn/info/1012/179275.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "马可・穆勒教授荣获意大利共和国功勋勋章指挥官勋位",
+      "url": "https://news.shu.edu.cn/info/1012/179295.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "印度尼西亚泗水国立大学体育与健康学院代表团来访上海大学体育学院",
+      "url": "https://news.shu.edu.cn/info/1012/179305.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
