@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-06-12 12:22",
+  "update_time": "2026-06-12 17:01",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "印度尼西亚泗水国立大学体育与健康学院代表团来访上海大学体育学院",
-      "url": "https://news.shu.edu.cn/info/1012/179305.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "平安相伴 行稳致远——上海大学2026年安全工作会议召开",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "后勤保障部与环化学院签署战略合作协议",
       "url": "https://news.shu.edu.cn/info/1012/179355.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "斯洛伐克布拉迪斯拉发经济与公共管理大学代表团访问上海大学",
+      "url": "https://news.shu.edu.cn/info/1012/179375.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
