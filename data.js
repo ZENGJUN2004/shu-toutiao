@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-06-12 07:26",
+  "update_time": "2026-06-12 12:22",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,43 +16,43 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "湖南宜章访问团来校考察收集邓中夏同志建设上海大学生平事迹史料",
-      "url": "https://news.shu.edu.cn/info/1012/179155.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "学生档案之树常青——上海大学档案馆成功举办2026年国际档案日主题活动",
-      "url": "https://news.shu.edu.cn/info/1012/179165.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "通信学院获批教育部光电专业教育教学改革重点项目 探索复合型光电创新人才培育新路径",
-      "url": "https://news.shu.edu.cn/info/1012/179265.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海大学上海温哥华电影学院院长课堂 | 贾樟柯：在AI时代，用“实践”重新发明电影",
-      "url": "https://news.shu.edu.cn/info/1012/179275.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "马可・穆勒教授荣获意大利共和国功勋勋章指挥官勋位",
-      "url": "https://news.shu.edu.cn/info/1012/179295.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
       "title": "印度尼西亚泗水国立大学体育与健康学院代表团来访上海大学体育学院",
       "url": "https://news.shu.edu.cn/info/1012/179305.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "平安相伴 行稳致远——上海大学2026年安全工作会议召开",
+      "url": "https://news.shu.edu.cn/info/1012/179315.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "期刊社举行人文社科期刊评刊会",
+      "url": "https://news.shu.edu.cn/info/1012/179325.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "欧美同学会上大分会与宝山分会开启互动新篇章",
+      "url": "https://news.shu.edu.cn/info/1012/179335.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "新闻传播学院刘幼琍教授当选国际传播学会会士（ICA Fellow）",
+      "url": "https://news.shu.edu.cn/info/1012/179345.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "后勤保障部与环化学院签署战略合作协议",
+      "url": "https://news.shu.edu.cn/info/1012/179355.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
