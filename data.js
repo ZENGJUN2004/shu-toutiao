@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-06-13 22:08",
+  "update_time": "2026-06-14 00:17",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -79,6 +79,13 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
+      "title": "上海大学通报论文数据存疑问题",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33367299",
+      "source": "澎湃新闻",
+      "time": "前天17:11",
+      "tag": "media"
+    },
+    {
       "title": "澎湃新闻-专注时政与思想-ThePaper.cn",
       "url": "https://www.thepaper.cn/gov_79007",
       "source": "澎湃新闻",
@@ -90,13 +97,6 @@ window.SHU_DATA = {
       "url": "http://www.xinhuanet.com/politics/ggyslt/zbsl.htm",
       "source": "新华网",
       "time": "",
-      "tag": "media"
-    },
-    {
-      "title": "上海大学通报论文数据存疑问题",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33367299",
-      "source": "澎湃新闻",
-      "time": "昨天17:11",
       "tag": "media"
     }
   ]
