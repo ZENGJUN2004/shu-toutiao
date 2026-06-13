@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-06-13 12:11",
+  "update_time": "2026-06-13 16:23",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -90,6 +90,13 @@ window.SHU_DATA = {
       "url": "http://www.xinhuanet.com/politics/ggyslt/zbsl.htm",
       "source": "新华网",
       "time": "",
+      "tag": "media"
+    },
+    {
+      "title": "上海大学通报论文数据存疑问题",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33367299",
+      "source": "澎湃新闻",
+      "time": "昨天17:11",
       "tag": "media"
     }
   ]
