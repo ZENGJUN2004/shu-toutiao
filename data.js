@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-06-15 08:16",
+  "update_time": "2026-06-15 14:29",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "平安相伴 行稳致远——上海大学2026年安全工作会议召开",
-      "url": "https://news.shu.edu.cn/info/1012/179315.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "期刊社举行人文社科期刊评刊会",
@@ -58,6 +51,13 @@ window.SHU_DATA = {
       "tag": "official"
     },
     {
+      "title": "上海大学赋能新质生产力多项创新成果亮相第十二届上交会",
+      "url": "https://news.shu.edu.cn/info/1012/179385.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
       "title": "探索“科学家群体办刊”新模式 首批高质量学术期刊在沪创刊",
       "url": "https://www.stdaily.com/web/gdxw/2026-04/04/content_497889.html",
       "source": "中国科技网",
@@ -68,13 +68,6 @@ window.SHU_DATA = {
       "title": "【中国科学报】永怀爱国之心 ——纪念“两弹一星”元勋郭永怀",
       "url": "http://news.ustc.edu.cn/info/1056/74957.htm",
       "source": "中国科学技术大学中国科大新闻网",
-      "time": "",
-      "tag": "media"
-    },
-    {
-      "title": "澎湃新闻-专注时政与思想-ThePaper.cn",
-      "url": "https://www.thepaper.cn/gov_79007",
-      "source": "澎湃新闻",
       "time": "",
       "tag": "media"
     },
