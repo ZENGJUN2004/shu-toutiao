@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-06-16 07:49",
+  "update_time": "2026-06-16 12:48",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,34 +16,6 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "期刊社举行人文社科期刊评刊会",
-      "url": "https://news.shu.edu.cn/info/1012/179325.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "欧美同学会上大分会与宝山分会开启互动新篇章",
-      "url": "https://news.shu.edu.cn/info/1012/179335.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "新闻传播学院刘幼琍教授当选国际传播学会会士（ICA Fellow）",
-      "url": "https://news.shu.edu.cn/info/1012/179345.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "后勤保障部与环化学院签署战略合作协议",
-      "url": "https://news.shu.edu.cn/info/1012/179355.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
       "title": "斯洛伐克布拉迪斯拉发经济与公共管理大学代表团访问上海大学",
       "url": "https://news.shu.edu.cn/info/1012/179375.htm",
       "source": "上大官网",
@@ -53,6 +25,34 @@ window.SHU_DATA = {
     {
       "title": "上海大学赋能新质生产力多项创新成果亮相第十二届上交会",
       "url": "https://news.shu.edu.cn/info/1012/179385.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "数聚芳华，情归母校——理学院数学系2026年校友返校日活动举行",
+      "url": "https://news.shu.edu.cn/info/1012/179425.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "深化沪明协作——上海大学图书馆赴三明学院参加“伟长书屋”揭牌仪式并开展业务交流",
+      "url": "https://news.shu.edu.cn/info/1012/179435.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海美术学院、新闻传播学院、音乐学院、文学院开展树立和践行正确政绩观学习教育联组学习",
+      "url": "https://news.shu.edu.cn/info/1012/179445.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "环化学院博士研究生在世界土壤学大会作专题报告",
+      "url": "https://news.shu.edu.cn/info/1012/179455.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
