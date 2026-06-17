@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-06-17 08:20",
+  "update_time": "2026-06-17 14:18",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,34 +16,6 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "斯洛伐克布拉迪斯拉发经济与公共管理大学代表团访问上海大学",
-      "url": "https://news.shu.edu.cn/info/1012/179375.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海大学赋能新质生产力多项创新成果亮相第十二届上交会",
-      "url": "https://news.shu.edu.cn/info/1012/179385.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "数聚芳华，情归母校——理学院数学系2026年校友返校日活动举行",
-      "url": "https://news.shu.edu.cn/info/1012/179425.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "深化沪明协作——上海大学图书馆赴三明学院参加“伟长书屋”揭牌仪式并开展业务交流",
-      "url": "https://news.shu.edu.cn/info/1012/179435.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
       "title": "上海美术学院、新闻传播学院、音乐学院、文学院开展树立和践行正确政绩观学习教育联组学习",
       "url": "https://news.shu.edu.cn/info/1012/179445.htm",
       "source": "上大官网",
@@ -53,6 +25,34 @@ window.SHU_DATA = {
     {
       "title": "环化学院博士研究生在世界土壤学大会作专题报告",
       "url": "https://news.shu.edu.cn/info/1012/179455.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "薪火相传守初心，逐梦前行担使命——外国语学院2026年毕业生党员座谈会顺利开展",
+      "url": "https://news.shu.edu.cn/info/1012/179475.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "警校协同筑反诈 凝心聚力守平安——机自学院反诈沙龙顺利开讲",
+      "url": "https://news.shu.edu.cn/info/1012/179485.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "期刊社召开2026年度“攀登计划”项目评审会",
+      "url": "https://news.shu.edu.cn/info/1012/179495.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海电力大学纪委一行来我校调研",
+      "url": "https://news.shu.edu.cn/info/1012/179505.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
