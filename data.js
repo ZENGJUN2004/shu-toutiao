@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-06-18 12:21",
+  "update_time": "2026-06-18 17:17",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,6 +14,13 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
+    },
+    {
+      "title": "警校协同筑反诈 凝心聚力守平安——机自学院反诈沙龙顺利开讲",
+      "url": "https://news.shu.edu.cn/info/1012/179485.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
     },
     {
       "title": "期刊社召开2026年度“攀登计划”项目评审会",
@@ -39,13 +46,6 @@ window.SHU_DATA = {
     {
       "title": "凝心聚力谋改革 协同共进促发展——上海大学召开党委双月座谈会",
       "url": "https://news.shu.edu.cn/info/1012/179535.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "第二届东方国际商事调解研讨会暨钢铁行业知识产权纠纷调解中心成立仪式在上海大学举行",
-      "url": "https://news.shu.edu.cn/info/1012/179545.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
