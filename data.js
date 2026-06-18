@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-06-18 07:41",
+  "update_time": "2026-06-18 12:21",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,34 +16,6 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "上海美术学院、新闻传播学院、音乐学院、文学院开展树立和践行正确政绩观学习教育联组学习",
-      "url": "https://news.shu.edu.cn/info/1012/179445.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "环化学院博士研究生在世界土壤学大会作专题报告",
-      "url": "https://news.shu.edu.cn/info/1012/179455.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "薪火相传守初心，逐梦前行担使命——外国语学院2026年毕业生党员座谈会顺利开展",
-      "url": "https://news.shu.edu.cn/info/1012/179475.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "警校协同筑反诈 凝心聚力守平安——机自学院反诈沙龙顺利开讲",
-      "url": "https://news.shu.edu.cn/info/1012/179485.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
       "title": "期刊社召开2026年度“攀登计划”项目评审会",
       "url": "https://news.shu.edu.cn/info/1012/179495.htm",
       "source": "上大官网",
@@ -53,6 +25,34 @@ window.SHU_DATA = {
     {
       "title": "上海电力大学纪委一行来我校调研",
       "url": "https://news.shu.edu.cn/info/1012/179505.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "沪渝高校联动推进数字档案建设和电子档案异地备份工作",
+      "url": "https://news.shu.edu.cn/info/1012/179525.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "凝心聚力谋改革 协同共进促发展——上海大学召开党委双月座谈会",
+      "url": "https://news.shu.edu.cn/info/1012/179535.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "第二届东方国际商事调解研讨会暨钢铁行业知识产权纠纷调解中心成立仪式在上海大学举行",
+      "url": "https://news.shu.edu.cn/info/1012/179545.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学期刊最新IF出炉，《社会（英文）》跃升Q1区",
+      "url": "https://news.shu.edu.cn/info/1012/179555.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
