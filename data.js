@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-06-22 07:19",
+  "update_time": "2026-06-22 12:52",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,27 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "警校协同筑反诈 凝心聚力守平安——机自学院反诈沙龙顺利开讲",
-      "url": "https://news.shu.edu.cn/info/1012/179485.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "期刊社召开2026年度“攀登计划”项目评审会",
-      "url": "https://news.shu.edu.cn/info/1012/179495.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海电力大学纪委一行来我校调研",
-      "url": "https://news.shu.edu.cn/info/1012/179505.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "沪渝高校联动推进数字档案建设和电子档案异地备份工作",
@@ -53,6 +32,27 @@ window.SHU_DATA = {
     {
       "title": "上海大学期刊最新IF出炉，《社会（英文）》跃升Q1区",
       "url": "https://news.shu.edu.cn/info/1012/179555.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "经济学院举行2026年毕业典礼暨学位授予仪式",
+      "url": "https://news.shu.edu.cn/info/1012/179785.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "民进上海大学委员会以“社会服务”为笔，绘就和美乡村新画卷",
+      "url": "https://news.shu.edu.cn/info/1012/179825.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "民革上海大学委员会顺利完成换届",
+      "url": "https://news.shu.edu.cn/info/1012/179815.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
