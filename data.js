@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-06-23 08:10",
+  "update_time": "2026-06-23 13:05",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,27 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "沪渝高校联动推进数字档案建设和电子档案异地备份工作",
-      "url": "https://news.shu.edu.cn/info/1012/179525.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "凝心聚力谋改革 协同共进促发展——上海大学召开党委双月座谈会",
-      "url": "https://news.shu.edu.cn/info/1012/179535.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海大学期刊最新IF出炉，《社会（英文）》跃升Q1区",
-      "url": "https://news.shu.edu.cn/info/1012/179555.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "经济学院举行2026年毕业典礼暨学位授予仪式",
@@ -53,6 +32,27 @@ window.SHU_DATA = {
     {
       "title": "民革上海大学委员会顺利完成换届",
       "url": "https://news.shu.edu.cn/info/1012/179815.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "协同采购：物有所值 AI 物尽其用",
+      "url": "https://news.shu.edu.cn/info/1012/179845.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学2026年第1次巡察整改和成果运用联席会议召开",
+      "url": "https://news.shu.edu.cn/info/1012/179855.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "思美文化筑根基 凝心聚力启新程：法学院召开2026年第四次全院教职工大会",
+      "url": "https://news.shu.edu.cn/info/1012/179885.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
