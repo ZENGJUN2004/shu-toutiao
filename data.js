@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-06-24 07:10",
+  "update_time": "2026-06-24 11:57",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "经济学院举行2026年毕业典礼暨学位授予仪式",
-      "url": "https://news.shu.edu.cn/info/1012/179785.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "民进上海大学委员会以“社会服务”为笔，绘就和美乡村新画卷",
-      "url": "https://news.shu.edu.cn/info/1012/179825.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "民革上海大学委员会顺利完成换届",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "思美文化筑根基 凝心聚力启新程：法学院召开2026年第四次全院教职工大会",
       "url": "https://news.shu.edu.cn/info/1012/179885.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学法学院与徐汇区人民法院举行战略合作签约暨联学共建活动",
+      "url": "https://news.shu.edu.cn/info/1012/179895.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "2026“看中国·外国青年影像计划”上海行上大温影启程：从国潮动画到具身智能，他们将如何讲述今天的上海？",
+      "url": "https://news.shu.edu.cn/info/1012/179905.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
