@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-06-25 08:16",
+  "update_time": "2026-06-25 13:08",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "民革上海大学委员会顺利完成换届",
-      "url": "https://news.shu.edu.cn/info/1012/179815.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "协同采购：物有所值 AI 物尽其用",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "2026“看中国·外国青年影像计划”上海行上大温影启程：从国潮动画到具身智能，他们将如何讲述今天的上海？",
       "url": "https://news.shu.edu.cn/info/1012/179905.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "情系上大逐光而行，矢志报国再启新程——校领导与2026届优秀毕业生代表进行面对面座谈",
+      "url": "https://news.shu.edu.cn/info/1012/180005.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
