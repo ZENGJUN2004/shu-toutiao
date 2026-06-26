@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-06-26 08:13",
+  "update_time": "2026-06-26 13:11",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "协同采购：物有所值 AI 物尽其用",
-      "url": "https://news.shu.edu.cn/info/1012/179845.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海大学2026年第1次巡察整改和成果运用联席会议召开",
-      "url": "https://news.shu.edu.cn/info/1012/179855.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "思美文化筑根基 凝心聚力启新程：法学院召开2026年第四次全院教职工大会",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "情系上大逐光而行，矢志报国再启新程——校领导与2026届优秀毕业生代表进行面对面座谈",
       "url": "https://news.shu.edu.cn/info/1012/180005.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "集众智可定良策，合群力必兴伟业——上海大学六届三次“双代会”胜利闭幕",
+      "url": "https://news.shu.edu.cn/info/1012/180015.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "机自学院党委、计算机学院党委、未来技术学院党委开展树立和践行正确政绩观联组学习",
+      "url": "https://news.shu.edu.cn/info/1012/180045.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
