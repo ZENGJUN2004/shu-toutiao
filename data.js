@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-06-29 07:07",
+  "update_time": "2026-06-29 12:19",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,43 +16,43 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "思美文化筑根基 凝心聚力启新程：法学院召开2026年第四次全院教职工大会",
-      "url": "https://news.shu.edu.cn/info/1012/179885.htm",
+      "title": "以交流拓思路 以互鉴促提质——复旦大学档案馆到访上海大学档案馆开展业务交流",
+      "url": "https://news.shu.edu.cn/info/1012/180165.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "上海大学法学院与徐汇区人民法院举行战略合作签约暨联学共建活动",
-      "url": "https://news.shu.edu.cn/info/1012/179895.htm",
+      "title": "表彰，启航！上海大学开展学生“红色先锋”表彰暨2026届毕业生党员教育",
+      "url": "https://news.shu.edu.cn/info/1012/180175.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "2026“看中国·外国青年影像计划”上海行上大温影启程：从国潮动画到具身智能，他们将如何讲述今天的上海？",
-      "url": "https://news.shu.edu.cn/info/1012/179905.htm",
+      "title": "上海市环保产业协会固废专委会年会暨环境保护人才培养综合改革研讨会顺利召开",
+      "url": "https://news.shu.edu.cn/info/1012/180185.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "情系上大逐光而行，矢志报国再启新程——校领导与2026届优秀毕业生代表进行面对面座谈",
-      "url": "https://news.shu.edu.cn/info/1012/180005.htm",
+      "title": "上海大学与嘉定区教育局深化共建上海大学嘉定基础教育集团签约仪式举行",
+      "url": "https://news.shu.edu.cn/info/1012/180195.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "集众智可定良策，合群力必兴伟业——上海大学六届三次“双代会”胜利闭幕",
-      "url": "https://news.shu.edu.cn/info/1012/180015.htm",
+      "title": "融通中外担使命，译启风华赴前程——上海大学外国语学院2026年毕业典礼暨学位授予仪式顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/180205.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "机自学院党委、计算机学院党委、未来技术学院党委开展树立和践行正确政绩观联组学习",
-      "url": "https://news.shu.edu.cn/info/1012/180045.htm",
+      "title": "计算机学院举行2026届毕业典礼暨学位授予仪式",
+      "url": "https://news.shu.edu.cn/info/1012/180215.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
