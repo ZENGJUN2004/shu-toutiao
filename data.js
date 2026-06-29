@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-06-29 12:19",
+  "update_time": "2026-06-29 17:50",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "以交流拓思路 以互鉴促提质——复旦大学档案馆到访上海大学档案馆开展业务交流",
-      "url": "https://news.shu.edu.cn/info/1012/180165.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "表彰，启航！上海大学开展学生“红色先锋”表彰暨2026届毕业生党员教育",
-      "url": "https://news.shu.edu.cn/info/1012/180175.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海市环保产业协会固废专委会年会暨环境保护人才培养综合改革研讨会顺利召开",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "计算机学院举行2026届毕业典礼暨学位授予仪式",
       "url": "https://news.shu.edu.cn/info/1012/180215.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "筑牢安全防线 共绘发展新篇——外国语学院召开全院教职工大会",
+      "url": "https://news.shu.edu.cn/info/1012/180225.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "校党委常委、总会计师苟燕楠讲党课“在约思纯：长征的财政过紧日子之道”",
+      "url": "https://news.shu.edu.cn/info/1012/180235.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
