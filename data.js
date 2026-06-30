@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-06-30 13:07",
+  "update_time": "2026-06-30 17:45",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,27 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "校党委常委、总会计师苟燕楠讲党课“在约思纯：长征的财政过紧日子之道”",
-      "url": "https://news.shu.edu.cn/info/1012/180235.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "“主委走基层”——钱锋主委赴九三学社上海大学委员会走访调研",
-      "url": "https://news.shu.edu.cn/info/1012/180245.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "九三学社上海大学委员会召开第八次代表大会",
-      "url": "https://news.shu.edu.cn/info/1012/180255.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海大学-悉尼科技大学硕士项目十周年大会暨2026级新生开学典礼顺利举行",
@@ -53,6 +32,27 @@ window.SHU_DATA = {
     {
       "title": "深学细悟正确政绩观，实干担当赋能“强芯”育人——微电子学院开展树立和践行正确政绩观专题党课暨2026年第...",
       "url": "https://news.shu.edu.cn/info/1012/180285.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "“青春逐梦担大任，笃志躬行启新程” 机自学院2026届毕业典礼暨学位授予仪式顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/180305.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "致敬五十载初心如磐  对标先进勇担时代使命——机关党委举行2026年“光荣在党50年”纪念章颁发仪式暨机关党...",
+      "url": "https://news.shu.edu.cn/info/1012/180315.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学未来技术学院举行2026年毕业典礼暨学位授予仪式",
+      "url": "https://news.shu.edu.cn/info/1012/180335.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
