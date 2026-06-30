@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-06-30 08:09",
+  "update_time": "2026-06-30 13:07",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,43 +16,43 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "上海市环保产业协会固废专委会年会暨环境保护人才培养综合改革研讨会顺利召开",
-      "url": "https://news.shu.edu.cn/info/1012/180185.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海大学与嘉定区教育局深化共建上海大学嘉定基础教育集团签约仪式举行",
-      "url": "https://news.shu.edu.cn/info/1012/180195.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "融通中外担使命，译启风华赴前程——上海大学外国语学院2026年毕业典礼暨学位授予仪式顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/180205.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "计算机学院举行2026届毕业典礼暨学位授予仪式",
-      "url": "https://news.shu.edu.cn/info/1012/180215.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "筑牢安全防线 共绘发展新篇——外国语学院召开全院教职工大会",
-      "url": "https://news.shu.edu.cn/info/1012/180225.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
       "title": "校党委常委、总会计师苟燕楠讲党课“在约思纯：长征的财政过紧日子之道”",
       "url": "https://news.shu.edu.cn/info/1012/180235.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "“主委走基层”——钱锋主委赴九三学社上海大学委员会走访调研",
+      "url": "https://news.shu.edu.cn/info/1012/180245.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "九三学社上海大学委员会召开第八次代表大会",
+      "url": "https://news.shu.edu.cn/info/1012/180255.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学-悉尼科技大学硕士项目十周年大会暨2026级新生开学典礼顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/180265.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "中共上海大学机关委员会第二次代表大会第三次会议顺利召开",
+      "url": "https://news.shu.edu.cn/info/1012/180275.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "深学细悟正确政绩观，实干担当赋能“强芯”育人——微电子学院开展树立和践行正确政绩观专题党课暨2026年第...",
+      "url": "https://news.shu.edu.cn/info/1012/180285.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
