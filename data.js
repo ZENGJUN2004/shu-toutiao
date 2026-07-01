@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-01 13:24",
+  "update_time": "2026-07-01 17:56",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "上海大学-悉尼科技大学硕士项目十周年大会暨2026级新生开学典礼顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/180265.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "中共上海大学机关委员会第二次代表大会第三次会议顺利召开",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "上海大学未来技术学院举行2026年毕业典礼暨学位授予仪式",
       "url": "https://news.shu.edu.cn/info/1012/180335.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学侨联与嘉定区侨联、南翔镇共同举办“新侨双创在上海”主题活动",
+      "url": "https://news.shu.edu.cn/info/1012/180345.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
