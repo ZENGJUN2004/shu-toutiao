@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-02 20:10",
+  "update_time": "2026-07-02 23:19",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -69,6 +69,13 @@ window.SHU_DATA = {
       "url": "http://news.ustc.edu.cn/info/1056/74957.htm",
       "source": "中国科学技术大学中国科大新闻网",
       "time": "",
+      "tag": "media"
+    },
+    {
+      "title": "“科创+文创”双核驱动,上海大学科学画廊落成启用—新闻—科学网",
+      "url": "https://news.sciencenet.cn/htmlnews/2026/5/565502.shtm",
+      "source": "科学网",
+      "time": "5月28日",
       "tag": "media"
     },
     {
