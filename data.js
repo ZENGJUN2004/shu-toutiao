@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-02 13:00",
+  "update_time": "2026-07-02 17:18",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,43 +16,43 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "中共上海大学机关委员会第二次代表大会第三次会议顺利召开",
-      "url": "https://news.shu.edu.cn/info/1012/180275.htm",
+      "title": "上海电影学院2026届毕业典礼暨学位授予仪式顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/180455.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "深学细悟正确政绩观，实干担当赋能“强芯”育人——微电子学院开展树立和践行正确政绩观专题党课暨2026年第...",
-      "url": "https://news.shu.edu.cn/info/1012/180285.htm",
+      "title": "环化学院开展树立和践行正确政绩观专题党课暨警示教育会",
+      "url": "https://news.shu.edu.cn/info/1012/180465.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "“青春逐梦担大任，笃志躬行启新程” 机自学院2026届毕业典礼暨学位授予仪式顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/180305.htm",
+      "title": "上海大学召开树立和践行正确政绩观学习教育警示教育会",
+      "url": "https://news.shu.edu.cn/info/1012/180485.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "致敬五十载初心如磐  对标先进勇担时代使命——机关党委举行2026年“光荣在党50年”纪念章颁发仪式暨机关党...",
-      "url": "https://news.shu.edu.cn/info/1012/180315.htm",
+      "title": "校党委常委、副校长王从春讲党课“践行正确政绩观，攻坚成果转化平台建设”",
+      "url": "https://news.shu.edu.cn/info/1012/180495.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "上海大学未来技术学院举行2026年毕业典礼暨学位授予仪式",
-      "url": "https://news.shu.edu.cn/info/1012/180335.htm",
+      "title": "科产系统党委走访慰问“光荣在党50年”老同志",
+      "url": "https://news.shu.edu.cn/info/1012/180505.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "上海大学侨联与嘉定区侨联、南翔镇共同举办“新侨双创在上海”主题活动",
-      "url": "https://news.shu.edu.cn/info/1012/180345.htm",
+      "title": "微电子学院、环境与化学工程学院开展树立和践行正确政绩观联组学习",
+      "url": "https://news.shu.edu.cn/info/1012/180515.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
