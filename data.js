@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-03 18:40",
+  "update_time": "2026-07-03 20:58",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,8 +16,8 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "上海大学召开树立和践行正确政绩观学习教育警示教育会",
-      "url": "https://news.shu.edu.cn/info/1012/180485.htm",
+      "title": "环化学院开展树立和践行正确政绩观专题党课暨警示教育会",
+      "url": "https://news.shu.edu.cn/info/1012/180465.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
