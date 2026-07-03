@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-03 07:11",
+  "update_time": "2026-07-03 11:38",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "上海电影学院2026届毕业典礼暨学位授予仪式顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/180455.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "环化学院开展树立和践行正确政绩观专题党课暨警示教育会",
-      "url": "https://news.shu.edu.cn/info/1012/180465.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海大学召开树立和践行正确政绩观学习教育警示教育会",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "微电子学院、环境与化学工程学院开展树立和践行正确政绩观联组学习",
       "url": "https://news.shu.edu.cn/info/1012/180515.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "笃行·致远——上海大学2025级民族预科生结业典礼举行",
+      "url": "https://news.shu.edu.cn/info/1012/180535.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "九三学社上海大学委员会召开主委班子例会",
+      "url": "https://news.shu.edu.cn/info/1012/180555.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
