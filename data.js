@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-07 12:55",
+  "update_time": "2026-07-07 16:26",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "“上海·大学实验室安全讲堂”开讲 首期聚焦特种设备安全管理",
-      "url": "https://news.shu.edu.cn/info/1012/180835.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "光影十一载，薪火续华章",
-      "url": "https://news.shu.edu.cn/info/1012/180845.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "“声动海归·同心向党”留学人员文化自信与城市软实力传播行动在上海大学举行",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "材料科学与工程学院 “两优一先” 表彰会顺利召开",
       "url": "https://news.shu.edu.cn/info/1012/180935.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海经济管理中心举办2026年上海市中小企业服务能力提升培训班",
+      "url": "https://news.shu.edu.cn/info/1012/180975.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "材料学院党委与法学院党委开展联学联建活动",
+      "url": "https://news.shu.edu.cn/info/1012/180995.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
