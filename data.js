@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-08 08:00",
+  "update_time": "2026-07-08 11:37",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "“声动海归·同心向党”留学人员文化自信与城市软实力传播行动在上海大学举行",
-      "url": "https://news.shu.edu.cn/info/1012/180875.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海大学新闻传播学院与国际新闻传播教育联盟成员举行双边会谈",
-      "url": "https://news.shu.edu.cn/info/1012/180915.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "启航新程，逐梦新传 | 上海大学新闻传播学院举办2025级大类分流新生欢迎会",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "材料学院党委与法学院党委开展联学联建活动",
       "url": "https://news.shu.edu.cn/info/1012/180995.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "中国英汉语比较研究会2026年常务理事会暨第五届英汉对比与翻译学科建设高层论坛在上海大学成功举办",
+      "url": "https://news.shu.edu.cn/info/1012/181005.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "深学笃行正确政绩观，校地联动共促城市更新——上海大学力工学院党委与四川北路街道党工委开展理论学习中心...",
+      "url": "https://news.shu.edu.cn/info/1012/181015.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
