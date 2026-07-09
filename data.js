@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-09 08:15",
+  "update_time": "2026-07-09 13:02",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,34 +16,6 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "启航新程，逐梦新传 | 上海大学新闻传播学院举办2025级大类分流新生欢迎会",
-      "url": "https://news.shu.edu.cn/info/1012/180895.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "材料科学与工程学院 “两优一先” 表彰会顺利召开",
-      "url": "https://news.shu.edu.cn/info/1012/180935.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海经济管理中心举办2026年上海市中小企业服务能力提升培训班",
-      "url": "https://news.shu.edu.cn/info/1012/180975.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "材料学院党委与法学院党委开展联学联建活动",
-      "url": "https://news.shu.edu.cn/info/1012/180995.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
       "title": "中国英汉语比较研究会2026年常务理事会暨第五届英汉对比与翻译学科建设高层论坛在上海大学成功举办",
       "url": "https://news.shu.edu.cn/info/1012/181005.htm",
       "source": "上大官网",
@@ -53,6 +25,34 @@ window.SHU_DATA = {
     {
       "title": "深学笃行正确政绩观，校地联动共促城市更新——上海大学力工学院党委与四川北路街道党工委开展理论学习中心...",
       "url": "https://news.shu.edu.cn/info/1012/181015.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "党建联学聚“芯”力  产教协同育“芯”人——上海大学集成电路协同育人联盟与临港新片区产业集群党委开展联...",
+      "url": "https://news.shu.edu.cn/info/1012/181025.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "“当AI遇见传统文化”中印尼青年视觉作品展上海站颁奖典礼在上大温影举办，印尼高中生AI短片获特等奖",
+      "url": "https://news.shu.edu.cn/info/1012/181035.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "新闻传播学院举办树立和践行正确政绩观学习教育专题党课暨“迎七一”系列活动",
+      "url": "https://news.shu.edu.cn/info/1012/181055.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "我校主办期刊《自然杂志》刊载的文章被《新华文摘》转载",
+      "url": "https://news.shu.edu.cn/info/1012/181065.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
