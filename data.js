@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-13 07:58",
+  "update_time": "2026-07-13 11:48",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,43 +16,43 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "新闻传播学院举办树立和践行正确政绩观学习教育专题党课暨“迎七一”系列活动",
-      "url": "https://news.shu.edu.cn/info/1012/181055.htm",
+      "title": "民革上海大学委员会召开主委（扩大）工作例会",
+      "url": "https://news.shu.edu.cn/info/1012/181215.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "我校主办期刊《自然杂志》刊载的文章被《新华文摘》转载",
-      "url": "https://news.shu.edu.cn/info/1012/181065.htm",
+      "title": "EER主编张久俊院士应邀在第15届英文科技期刊学术会议作大会报告",
+      "url": "https://news.shu.edu.cn/info/1012/181225.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "从弄堂咖啡到机器人实验室，十位外国青年这样拍上海：2026“看中国·上海行”在上大温影闭幕展映",
-      "url": "https://news.shu.edu.cn/info/1012/181095.htm",
+      "title": "新闻传播学院2026年毕业典礼暨学位授予仪式顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/181235.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "启航新程，逐梦新传 | 上海大学新闻传播学院举办2025级大类分流新生欢迎会",
-      "url": "https://news.shu.edu.cn/info/1012/181105.htm",
+      "title": "第九届国际新闻传播教育联盟理事会暨智能传播上海暑期班开班仪式在上海大学举行",
+      "url": "https://news.shu.edu.cn/info/1012/181245.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "深化馆际合作交流  共探档案创新路径——上海大学档案馆赴复旦大学档案馆开展专题调研交流",
-      "url": "https://news.shu.edu.cn/info/1012/181115.htm",
+      "title": "九三学社上海大学委员会举行第二次全委（扩大）会议",
+      "url": "https://news.shu.edu.cn/info/1012/181255.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "寻迹文脉守初心  深耕校史启新程——上海大学档案馆开展于右任档案专题调研",
-      "url": "https://news.shu.edu.cn/info/1012/181125.htm",
+      "title": "大连交通大学经济管理学院一行赴上海大学经济学院调研“习近平经济思想概论”课程建设",
+      "url": "https://news.shu.edu.cn/info/1012/181265.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
