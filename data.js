@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-15 11:24",
+  "update_time": "2026-07-15 14:18",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "民革上海大学委员会召开主委（扩大）工作例会",
-      "url": "https://news.shu.edu.cn/info/1012/181215.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "EER主编张久俊院士应邀在第15届英文科技期刊学术会议作大会报告",
-      "url": "https://news.shu.edu.cn/info/1012/181225.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "新闻传播学院2026年毕业典礼暨学位授予仪式顺利举行",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "大连交通大学经济管理学院一行赴上海大学经济学院调研“习近平经济思想概论”课程建设",
       "url": "https://news.shu.edu.cn/info/1012/181265.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "面向人工智能时代的教育教学督导——上海高校质量保障联盟2026年年会召开",
+      "url": "https://news.shu.edu.cn/info/1012/181305.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "“触摸产业前沿 探索AI未来”高中生科创体验营在上海大学开营",
+      "url": "https://news.shu.edu.cn/info/1012/181315.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
