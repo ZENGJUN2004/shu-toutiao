@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-16 08:06",
+  "update_time": "2026-07-16 12:11",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,34 +16,6 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "新闻传播学院2026年毕业典礼暨学位授予仪式顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/181235.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "第九届国际新闻传播教育联盟理事会暨智能传播上海暑期班开班仪式在上海大学举行",
-      "url": "https://news.shu.edu.cn/info/1012/181245.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "九三学社上海大学委员会举行第二次全委（扩大）会议",
-      "url": "https://news.shu.edu.cn/info/1012/181255.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "大连交通大学经济管理学院一行赴上海大学经济学院调研“习近平经济思想概论”课程建设",
-      "url": "https://news.shu.edu.cn/info/1012/181265.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
       "title": "面向人工智能时代的教育教学督导——上海高校质量保障联盟2026年年会召开",
       "url": "https://news.shu.edu.cn/info/1012/181305.htm",
       "source": "上大官网",
@@ -53,6 +25,34 @@ window.SHU_DATA = {
     {
       "title": "“触摸产业前沿 探索AI未来”高中生科创体验营在上海大学开营",
       "url": "https://news.shu.edu.cn/info/1012/181315.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学理学院党委“全国党建工作标杆院系”复查通过公示",
+      "url": "https://news.shu.edu.cn/info/1012/181325.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "“金专计划”第四期结业仪式暨知识产权实务人才培养分享交流活动顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/181335.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "图博档党委与法学院党委开展联组学习暨业务交流会",
+      "url": "https://news.shu.edu.cn/info/1012/181465.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "马克思主义学院青年教师在2026年全国青年理论宣讲大赛中荣获三等奖",
+      "url": "https://news.shu.edu.cn/info/1012/181515.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
