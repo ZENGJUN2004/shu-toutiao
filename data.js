@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-16 18:12",
+  "update_time": "2026-07-16 20:22",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -79,10 +79,38 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "新华时政_新华网",
-      "url": "http://www.xinhuanet.com/politics/ggyslt/zbsl.htm",
+      "title": "第五届企业创新发展大会暨宏观经济杂志社理事会年会在东莞举行",
+      "url": "http://www.xinhuanet.com/sci-tech/20260203/8c32ace77f714baf8d74adcab1c16935/c.html",
       "source": "新华网",
-      "time": "",
+      "time": "2月3日",
+      "tag": "media"
+    },
+    {
+      "title": "从赛场到市场,上海大学生创新创业大赛成果转化基地启动建设",
+      "url": "https://sh.people.com.cn/n2/2026/0430/c134768-41568208.html",
+      "source": "人民网",
+      "time": "4月30日",
+      "tag": "media"
+    },
+    {
+      "title": "面向人人的科学教育——2026年\"全国科技活动周\"虹口区系列活动...",
+      "url": "https://caijing.chinadaily.com.cn/a/202606/01/WS6a1d2e45a310942cc49af519.html",
+      "source": "中国日报网",
+      "time": "6月1日",
+      "tag": "media"
+    },
+    {
+      "title": "实战锤炼英才:上海大学悉尼工商学院在全国高校商业精英挑战赛国际...",
+      "url": "https://cn.chinadaily.com.cn/a/202606/03/WS6a1ff73ba310942cc49afe66.html",
+      "source": "中国日报网",
+      "time": "6月3日",
+      "tag": "media"
+    },
+    {
+      "title": "【我与光明日报】钱伟长:忠于人民的根本利益",
+      "url": "https://news.gmw.cn/2026-06/16/content_38830060.htm",
+      "source": "光明网新闻中心",
+      "time": "6月16日",
       "tag": "media"
     }
   ]
