@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-17 03:17",
+  "update_time": "2026-07-17 05:04",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -56,6 +56,20 @@ window.SHU_DATA = {
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
+    },
+    {
+      "title": "上海艺指委2025年度工作会议在上海大学举行—新闻—科学网",
+      "url": "https://news.sciencenet.cn/htmlnews/2026/1/558564.shtm",
+      "source": "科学网",
+      "time": "1月12日",
+      "tag": "media"
+    },
+    {
+      "title": "首届重庆市人工智能赋能科学研究大会举行",
+      "url": "https://www.stdaily.com/web/gdxw/2026-01/17/content_463054.html",
+      "source": "中国科技网",
+      "time": "1月17日",
+      "tag": "media"
     },
     {
       "title": "探索“科学家群体办刊”新模式 首批高质量学术期刊在沪创刊",
@@ -142,31 +156,10 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "第五届企业创新发展大会暨宏观经济杂志社理事会年会在东莞举行",
-      "url": "http://www.xinhuanet.com/sci-tech/20260203/8c32ace77f714baf8d74adcab1c16935/c.html",
-      "source": "新华网",
-      "time": "2月3日",
-      "tag": "media"
-    },
-    {
-      "title": "第三届博物馆传播学术工作坊征稿启动",
-      "url": "http://www.xinhuanet.com/ci/20260328/9cc88c9a327e4a2fbbdc693dc35e30a1/c.html",
-      "source": "新华网",
-      "time": "3月28日",
-      "tag": "media"
-    },
-    {
-      "title": "从赛场到市场,上海大学生创新创业大赛成果转化基地启动建设",
-      "url": "https://sh.people.com.cn/n2/2026/0430/c134768-41568208.html",
-      "source": "人民网",
-      "time": "4月30日",
-      "tag": "media"
-    },
-    {
-      "title": "人民日报:“桥梁”需要坚实的“桥基”",
-      "url": "https://www.zgjssw.gov.cn/dangjianxinlun/202605/t20260516_8573421.shtml",
-      "source": "中共江苏省委新闻网",
-      "time": "5月16日",
+      "title": "浙江嘉善创新“六方联动”机制,打造教科人一体化发展县域样板",
+      "url": "https://zj.chinadaily.com.cn/a/202606/01/WS6a1d183ba310942cc49af456.html",
+      "source": "中国日报网",
+      "time": "6月1日",
       "tag": "media"
     },
     {
@@ -177,23 +170,16 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "实战锤炼英才:上海大学悉尼工商学院在全国高校商业精英挑战赛国际...",
-      "url": "https://cn.chinadaily.com.cn/a/202606/03/WS6a1ff73ba310942cc49afe66.html",
+      "title": "联合国青年办公室青年心理健康与幸福感计划启动在沪举行",
+      "url": "https://cn.chinadaily.com.cn/a/202606/15/WS6a2f9c0da310d709c2fb80f7.html",
       "source": "中国日报网",
-      "time": "6月3日",
+      "time": "6月15日",
       "tag": "media"
     },
     {
-      "title": "上海大学科研团队钠离子电池高电压稳定性研究获突破",
-      "url": "https://cn.chinadaily.com.cn/a/202606/10/WS6a28d143a310942cc49b0ee1.html",
-      "source": "中国日报网",
-      "time": "6月10日",
-      "tag": "media"
-    },
-    {
-      "title": "77年前,创刊第3天,光明日报上就出现了钱伟长的名字",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33388381",
-      "source": "澎湃新闻",
+      "title": "【我与光明日报】钱伟长:忠于人民的根本利益",
+      "url": "https://news.gmw.cn/2026-06/16/content_38830060.htm",
+      "source": "光明网新闻中心",
       "time": "6月16日",
       "tag": "media"
     }
