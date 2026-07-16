@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-17 01:21",
+  "update_time": "2026-07-17 03:17",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -149,10 +149,24 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
+      "title": "第三届博物馆传播学术工作坊征稿启动",
+      "url": "http://www.xinhuanet.com/ci/20260328/9cc88c9a327e4a2fbbdc693dc35e30a1/c.html",
+      "source": "新华网",
+      "time": "3月28日",
+      "tag": "media"
+    },
+    {
       "title": "从赛场到市场,上海大学生创新创业大赛成果转化基地启动建设",
       "url": "https://sh.people.com.cn/n2/2026/0430/c134768-41568208.html",
       "source": "人民网",
       "time": "4月30日",
+      "tag": "media"
+    },
+    {
+      "title": "人民日报:“桥梁”需要坚实的“桥基”",
+      "url": "https://www.zgjssw.gov.cn/dangjianxinlun/202605/t20260516_8573421.shtml",
+      "source": "中共江苏省委新闻网",
+      "time": "5月16日",
       "tag": "media"
     },
     {
@@ -170,9 +184,16 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "【我与光明日报】钱伟长:忠于人民的根本利益",
-      "url": "https://news.gmw.cn/2026-06/16/content_38830060.htm",
-      "source": "光明网新闻中心",
+      "title": "上海大学科研团队钠离子电池高电压稳定性研究获突破",
+      "url": "https://cn.chinadaily.com.cn/a/202606/10/WS6a28d143a310942cc49b0ee1.html",
+      "source": "中国日报网",
+      "time": "6月10日",
+      "tag": "media"
+    },
+    {
+      "title": "77年前,创刊第3天,光明日报上就出现了钱伟长的名字",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33388381",
+      "source": "澎湃新闻",
       "time": "6月16日",
       "tag": "media"
     }
