@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-16 20:22",
+  "update_time": "2026-07-16 23:05",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -76,6 +76,69 @@ window.SHU_DATA = {
       "url": "https://www.thepaper.cn/newsDetail_forward_33187578",
       "source": "澎湃新闻",
       "time": "5月15日",
+      "tag": "media"
+    },
+    {
+      "title": "上海文艺的高光与深流|舞台剧的在地性与国际化",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32412234",
+      "source": "澎湃新闻",
+      "time": "1月27日",
+      "tag": "media"
+    },
+    {
+      "title": "档案为桥,感知上海:上海大学留学生在档案馆里读懂城市发展",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32562310",
+      "source": "澎湃新闻",
+      "time": "2月12日",
+      "tag": "media"
+    },
+    {
+      "title": "历史上的今天|1922年3月18日,上海大学成立",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32773330",
+      "source": "澎湃新闻",
+      "time": "3月18日",
+      "tag": "media"
+    },
+    {
+      "title": "上海大学国家大学科技园与永兴汇园区共筑静安科创“生态圈”",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32806785",
+      "source": "澎湃新闻",
+      "time": "3月21日",
+      "tag": "media"
+    },
+    {
+      "title": "以青春之名,赴樱花之约!上海大学志愿者为2026上海樱花节注入温暖...",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32814875",
+      "source": "澎湃新闻",
+      "time": "3月23日",
+      "tag": "media"
+    },
+    {
+      "title": "2026金鸡艺术电影展在上海举行",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33026584",
+      "source": "澎湃新闻",
+      "time": "4月21日",
+      "tag": "media"
+    },
+    {
+      "title": "上海大学国际文化节燃动五洲风情,60年3万留学生见证文化交融",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33193042",
+      "source": "澎湃新闻",
+      "time": "5月17日",
+      "tag": "media"
+    },
+    {
+      "title": "从AI实验室、VR摄影棚到电影工坊,上海大学科创+文创七大空间向...",
+      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1118643&sid=11",
+      "source": "上观",
+      "time": "5月27日",
+      "tag": "media"
+    },
+    {
+      "title": "上海构筑全域浸润的红色文化育人生态,激活培根铸魂“强磁场”",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33394245",
+      "source": "澎湃新闻",
+      "time": "6月17日",
       "tag": "media"
     },
     {
