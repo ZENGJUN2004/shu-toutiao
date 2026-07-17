@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-17 08:08",
+  "update_time": "2026-07-17 12:10",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "面向人工智能时代的教育教学督导——上海高校质量保障联盟2026年年会召开",
-      "url": "https://news.shu.edu.cn/info/1012/181305.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "“触摸产业前沿 探索AI未来”高中生科创体验营在上海大学开营",
-      "url": "https://news.shu.edu.cn/info/1012/181315.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海大学理学院党委“全国党建工作标杆院系”复查通过公示",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "马克思主义学院青年教师在2026年全国青年理论宣讲大赛中荣获三等奖",
       "url": "https://news.shu.edu.cn/info/1012/181515.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学召开自主增设“城市基层党建”二级学科专家论证会",
+      "url": "https://news.shu.edu.cn/info/1012/181525.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "党建联学促发展 产教融合育英才——宝山区商务委员会与悉尼工商学院开展党建联组学习",
+      "url": "https://news.shu.edu.cn/info/1012/181535.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
@@ -90,6 +90,13 @@ window.SHU_DATA = {
       "url": "https://www.thepaper.cn/newsDetail_forward_33187578",
       "source": "澎湃新闻",
       "time": "5月15日",
+      "tag": "media"
+    },
+    {
+      "title": "上大,太有实力了!_澎湃号·湃客_澎湃新闻-The Paper",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32410517",
+      "source": "澎湃新闻",
+      "time": "1月20日",
       "tag": "media"
     },
     {
@@ -146,13 +153,6 @@ window.SHU_DATA = {
       "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1118643&sid=11",
       "source": "上观",
       "time": "5月27日",
-      "tag": "media"
-    },
-    {
-      "title": "上海构筑全域浸润的红色文化育人生态,激活培根铸魂“强磁场”",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33394245",
-      "source": "澎湃新闻",
-      "time": "6月17日",
       "tag": "media"
     },
     {
