@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-17 15:19",
+  "update_time": "2026-07-17 18:01",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -90,6 +90,13 @@ window.SHU_DATA = {
       "url": "https://www.thepaper.cn/newsDetail_forward_33187578",
       "source": "澎湃新闻",
       "time": "5月15日",
+      "tag": "media"
+    },
+    {
+      "title": "吴明红_澎湃新闻-The Paper",
+      "url": "https://www.thepaper.cn/tag/5900796",
+      "source": "澎湃新闻",
+      "time": "",
       "tag": "media"
     },
     {
