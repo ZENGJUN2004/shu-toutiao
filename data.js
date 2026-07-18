@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-19 04:54",
+  "update_time": "2026-07-19 05:54",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -170,9 +170,9 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "面向人人的科学教育——2026年\"全国科技活动周\"虹口区系列活动...",
-      "url": "https://caijing.chinadaily.com.cn/a/202606/01/WS6a1d2e45a310942cc49af519.html",
-      "source": "中国日报网",
+      "title": "浙江嘉善创新探索“六方联动”机制 推动产学研用深度融合",
+      "url": "http://csj.xinhuanet.com/20260601/406ed987aebd477785b827fae47b03dc/c.html",
+      "source": "新华网",
       "time": "6月1日",
       "tag": "media"
     },
