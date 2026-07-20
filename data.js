@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-20 08:05",
+  "update_time": "2026-07-20 12:37",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,34 +16,6 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "上海大学理学院党委“全国党建工作标杆院系”复查通过公示",
-      "url": "https://news.shu.edu.cn/info/1012/181325.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "“金专计划”第四期结业仪式暨知识产权实务人才培养分享交流活动顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/181335.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "图博档党委与法学院党委开展联组学习暨业务交流会",
-      "url": "https://news.shu.edu.cn/info/1012/181465.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "马克思主义学院青年教师在2026年全国青年理论宣讲大赛中荣获三等奖",
-      "url": "https://news.shu.edu.cn/info/1012/181515.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
       "title": "上海大学召开自主增设“城市基层党建”二级学科专家论证会",
       "url": "https://news.shu.edu.cn/info/1012/181525.htm",
       "source": "上大官网",
@@ -53,6 +25,34 @@ window.SHU_DATA = {
     {
       "title": "党建联学促发展 产教融合育英才——宝山区商务委员会与悉尼工商学院开展党建联组学习",
       "url": "https://news.shu.edu.cn/info/1012/181535.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学北京招宣组顺利开展2026年高考招生咨询工作",
+      "url": "https://news.shu.edu.cn/info/1012/181555.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "“FUN·开·造” & “FUN·开·AI”——第25届上海国际大学生广告节暨中国（浦东）青年AI创享节盛大启幕",
+      "url": "https://news.shu.edu.cn/info/1012/181565.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "民进上海大学委员会召开全委（扩大）会议",
+      "url": "https://news.shu.edu.cn/info/1012/181575.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "2024年度教育部哲学社会科学重大委托项目专题研讨会顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/181595.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
