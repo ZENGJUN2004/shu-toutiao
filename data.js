@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-21 14:32",
+  "update_time": "2026-07-21 17:29",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,27 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "“FUN·开·造” & “FUN·开·AI”——第25届上海国际大学生广告节暨中国（浦东）青年AI创享节盛大启幕",
-      "url": "https://news.shu.edu.cn/info/1012/181565.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "民进上海大学委员会召开全委（扩大）会议",
-      "url": "https://news.shu.edu.cn/info/1012/181575.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "2024年度教育部哲学社会科学重大委托项目专题研讨会顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/181595.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "“烁灵杯”第二十届上海大学生化学实验竞赛暨实验创新设计竞赛在上海大学举行",
@@ -53,6 +32,27 @@ window.SHU_DATA = {
     {
       "title": "2026年上海大学数学科学实践工作站夏令营活动顺利举行",
       "url": "https://news.shu.edu.cn/info/1012/181635.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "百年文脉贯中西，文明互鉴谱新篇——百年上海中外文明交流互鉴研究2026年度专家论坛顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/181675.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "第一届“社会学自主知识体系创新与人才培养”院友研讨会成功举行",
+      "url": "https://news.shu.edu.cn/info/1012/181685.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学召开期刊工作领导小组会议",
+      "url": "https://news.shu.edu.cn/info/1012/181695.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
