@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-22 07:57",
+  "update_time": "2026-07-22 11:32",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "“烁灵杯”第二十届上海大学生化学实验竞赛暨实验创新设计竞赛在上海大学举行",
-      "url": "https://news.shu.edu.cn/info/1012/181605.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "钱伟长学院召开2026年专业调整及拔尖人才培养改革研讨会",
-      "url": "https://news.shu.edu.cn/info/1012/181625.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "2026年上海大学数学科学实践工作站夏令营活动顺利举行",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "上海大学召开期刊工作领导小组会议",
       "url": "https://news.shu.edu.cn/info/1012/181695.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学第六届侨联委员会工作会议顺利召开",
+      "url": "https://news.shu.edu.cn/info/1012/181705.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上大温影承办“看中国·上海行”获东方卫视《下一站》专题播出：以跨国镜头定格鲜活上海",
+      "url": "https://news.shu.edu.cn/info/1012/181715.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
