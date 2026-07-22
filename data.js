@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-23 04:12",
+  "update_time": "2026-07-23 06:06",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -83,6 +83,13 @@ window.SHU_DATA = {
       "url": "https://news.ustc.edu.cn/info/1056/74957.htm",
       "source": "中国科学技术大学中国科大新闻网",
       "time": "",
+      "tag": "media"
+    },
+    {
+      "title": "赋能青少年科创成长上海首个AI科创学习中心正式落成",
+      "url": "http://www.chinahightech.com/chuangye/2026-05/05/content_511827.html",
+      "source": "中国高新网",
+      "time": "5月5日",
       "tag": "media"
     },
     {
