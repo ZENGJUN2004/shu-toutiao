@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-23 23:11",
+  "update_time": "2026-07-24 01:26",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -195,6 +195,13 @@ window.SHU_DATA = {
       "url": "https://news.gmw.cn/2026-06/16/content_38830060.htm",
       "source": "光明网新闻中心",
       "time": "6月16日",
+      "tag": "media"
+    },
+    {
+      "title": "镜头定格临海新韵上海大学智能视听系千年府城采风",
+      "url": "https://sh.people.com.cn/n2/2026/0713/c134768-41637565.html",
+      "source": "人民网",
+      "time": "7月13日",
       "tag": "media"
     }
   ]
