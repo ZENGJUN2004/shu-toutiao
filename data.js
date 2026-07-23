@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-23 08:02",
+  "update_time": "2026-07-23 12:17",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "百年文脉贯中西，文明互鉴谱新篇——百年上海中外文明交流互鉴研究2026年度专家论坛顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/181675.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "第一届“社会学自主知识体系创新与人才培养”院友研讨会成功举行",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "无人艇下水，机器狗竞速——2026年上海市科创教育研究院高中生科创体验营在上海大学顺利收官",
       "url": "https://news.shu.edu.cn/info/1012/181725.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "树牢正确政绩观，从严正风促发展——科产系统召开全面从严治党专题警示教育会",
+      "url": "https://news.shu.edu.cn/info/1012/181755.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
