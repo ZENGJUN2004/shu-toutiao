@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-24 08:06",
+  "update_time": "2026-07-24 12:18",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "第一届“社会学自主知识体系创新与人才培养”院友研讨会成功举行",
-      "url": "https://news.shu.edu.cn/info/1012/181685.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海大学召开期刊工作领导小组会议",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "树牢正确政绩观，从严正风促发展——科产系统召开全面从严治党专题警示教育会",
       "url": "https://news.shu.edu.cn/info/1012/181755.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "国家社科基金文化遗产保护传承研究重大专项《中国非物质文化遗产语料库构建研究》课题研讨会在上海大学顺利召开",
+      "url": "https://news.shu.edu.cn/info/1012/181735.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
@@ -195,20 +195,6 @@ window.SHU_DATA = {
       "url": "https://news.gmw.cn/2026-06/16/content_38830060.htm",
       "source": "光明网新闻中心",
       "time": "6月16日",
-      "tag": "media"
-    },
-    {
-      "title": "镜头定格临海新韵上海大学智能视听系千年府城采风",
-      "url": "https://sh.people.com.cn/n2/2026/0713/c134768-41637565.html",
-      "source": "人民网",
-      "time": "7月13日",
-      "tag": "media"
-    },
-    {
-      "title": "行走长三角上海大学新闻传播学院学子以新闻采风实践磨砺“四力...",
-      "url": "https://sh.people.com.cn/n2/2026/0713/c134768-41637574.html",
-      "source": "人民网",
-      "time": "7月13日",
       "tag": "media"
     }
   ]
