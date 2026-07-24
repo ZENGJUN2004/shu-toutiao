@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-25 04:22",
+  "update_time": "2026-07-25 06:08",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -177,13 +177,6 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "浙江嘉善创新探索“六方联动”机制 推动产学研用深度融合",
-      "url": "http://csj.xinhuanet.com/20260601/406ed987aebd477785b827fae47b03dc/c.html",
-      "source": "新华网",
-      "time": "6月1日",
-      "tag": "media"
-    },
-    {
       "title": "联合国青年办公室青年心理健康与幸福感计划启动在沪举行",
       "url": "https://cn.chinadaily.com.cn/a/202606/15/WS6a2f9c0da310d709c2fb80f7.html",
       "source": "中国日报网",
@@ -191,9 +184,9 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "【我与光明日报】钱伟长:忠于人民的根本利益",
-      "url": "https://news.gmw.cn/2026-06/16/content_38830060.htm",
-      "source": "光明网新闻中心",
+      "title": "「我与光明日报」钱伟长:忠于人民的根本利益",
+      "url": "https://baijiahao.baidu.com/s?id=1868092540337102712&wfr=spider&for=pc",
+      "source": "光明网",
       "time": "6月16日",
       "tag": "media"
     }
