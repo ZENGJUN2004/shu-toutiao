@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-25 19:13",
+  "update_time": "2026-07-25 21:43",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -111,13 +111,6 @@ window.SHU_DATA = {
       "url": "https://www.thepaper.cn/newsDetail_forward_32410517",
       "source": "澎湃新闻",
       "time": "1月20日",
-      "tag": "media"
-    },
-    {
-      "title": "上海文艺的高光与深流|舞台剧的在地性与国际化",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32412234",
-      "source": "澎湃新闻",
-      "time": "1月27日",
       "tag": "media"
     },
     {
