@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-26 08:02",
+  "update_time": "2026-07-26 12:28",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -181,6 +181,13 @@ window.SHU_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1868092540337102712&wfr=spider&for=pc",
       "source": "光明网",
       "time": "6月16日",
+      "tag": "media"
+    },
+    {
+      "title": "【沪企行】2026年上海市中小企业服务能力提升培训班举办",
+      "url": "https://sh.people.com.cn/n2/2026/0724/c134768-41649146.html",
+      "source": "人民网",
+      "time": "前天15:13",
       "tag": "media"
     }
   ]
