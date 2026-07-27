@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-27 06:01",
+  "update_time": "2026-07-27 08:02",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -166,6 +166,13 @@ window.SHU_DATA = {
       "title": "浙江嘉善创新“六方联动”机制,打造教科人一体化发展县域样板",
       "url": "https://zj.chinadaily.com.cn/a/202606/01/WS6a1d183ba310942cc49af456.html",
       "source": "中国日报网",
+      "time": "6月1日",
+      "tag": "media"
+    },
+    {
+      "title": "浙江嘉善创新探索“六方联动”机制 推动产学研用深度融合",
+      "url": "http://csj.xinhuanet.com/20260601/406ed987aebd477785b827fae47b03dc/c.html",
+      "source": "新华网",
       "time": "6月1日",
       "tag": "media"
     },
