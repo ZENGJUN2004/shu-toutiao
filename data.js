@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-27 20:27",
+  "update_time": "2026-07-27 23:44",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -100,17 +100,17 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "吴明红_澎湃新闻-The Paper",
-      "url": "https://www.thepaper.cn/tag/5900796",
-      "source": "澎湃新闻",
-      "time": "",
-      "tag": "media"
-    },
-    {
       "title": "上大,太有实力了!_澎湃号·湃客_澎湃新闻-The Paper",
       "url": "https://www.thepaper.cn/newsDetail_forward_32410517",
       "source": "澎湃新闻",
       "time": "1月20日",
+      "tag": "media"
+    },
+    {
+      "title": "上海文艺的高光与深流|舞台剧的在地性与国际化",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32412234",
+      "source": "澎湃新闻",
+      "time": "1月27日",
       "tag": "media"
     },
     {
@@ -139,6 +139,13 @@ window.SHU_DATA = {
       "url": "https://www.thepaper.cn/newsDetail_forward_32814875",
       "source": "澎湃新闻",
       "time": "3月23日",
+      "tag": "media"
+    },
+    {
+      "title": "文商旅体展农怎么“融”?这场专场活动在奉贤庄行给出新答案",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32844987",
+      "source": "澎湃新闻",
+      "time": "3月27日",
       "tag": "media"
     },
     {
