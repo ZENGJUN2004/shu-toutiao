@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-27 12:39",
+  "update_time": "2026-07-27 16:33",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,27 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "上海大学召开期刊工作领导小组会议",
-      "url": "https://news.shu.edu.cn/info/1012/181695.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海大学第六届侨联委员会工作会议顺利召开",
-      "url": "https://news.shu.edu.cn/info/1012/181705.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上大温影承办“看中国·上海行”获东方卫视《下一站》专题播出：以跨国镜头定格鲜活上海",
-      "url": "https://news.shu.edu.cn/info/1012/181715.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "无人艇下水，机器狗竞速——2026年上海市科创教育研究院高中生科创体验营在上海大学顺利收官",
@@ -53,6 +32,27 @@ window.SHU_DATA = {
     {
       "title": "国家社科基金文化遗产保护传承研究重大专项《中国非物质文化遗产语料库构建研究》课题研讨会在上海大学顺利召开",
       "url": "https://news.shu.edu.cn/info/1012/181735.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "材料学院党委组织开展“重走一大路 传承红船魂”主题活动",
+      "url": "https://news.shu.edu.cn/info/1012/181785.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学档案馆与哈尔滨市档案馆开展线上馆际业务交流",
+      "url": "https://news.shu.edu.cn/info/1012/181795.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "2026世界机器人大赛——BCI脑控机器人大赛，上海大学再创佳绩",
+      "url": "https://news.shu.edu.cn/info/1012/181805.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
