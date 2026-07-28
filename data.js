@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-28 07:06",
+  "update_time": "2026-07-28 10:48",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "无人艇下水，机器狗竞速——2026年上海市科创教育研究院高中生科创体验营在上海大学顺利收官",
-      "url": "https://news.shu.edu.cn/info/1012/181725.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "树牢正确政绩观，从严正风促发展——科产系统召开全面从严治党专题警示教育会",
-      "url": "https://news.shu.edu.cn/info/1012/181755.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "国家社科基金文化遗产保护传承研究重大专项《中国非物质文化遗产语料库构建研究》课题研讨会在上海大学顺利召开",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "2026世界机器人大赛——BCI脑控机器人大赛，上海大学再创佳绩",
       "url": "https://news.shu.edu.cn/info/1012/181805.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学党委理论学习中心组举行树立和践行正确政绩观专题学习研讨会",
+      "url": "https://news.shu.edu.cn/info/1012/181825.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海市科技企业家创新领导力培训项目走进嘉定科技园和校友企业",
+      "url": "https://news.shu.edu.cn/info/1012/181835.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
