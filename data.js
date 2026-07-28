@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-28 13:50",
+  "update_time": "2026-07-28 16:40",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,27 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "国家社科基金文化遗产保护传承研究重大专项《中国非物质文化遗产语料库构建研究》课题研讨会在上海大学顺利召开",
-      "url": "https://news.shu.edu.cn/info/1012/181735.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "材料学院党委组织开展“重走一大路 传承红船魂”主题活动",
-      "url": "https://news.shu.edu.cn/info/1012/181785.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海大学档案馆与哈尔滨市档案馆开展线上馆际业务交流",
-      "url": "https://news.shu.edu.cn/info/1012/181795.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "2026世界机器人大赛——BCI脑控机器人大赛，上海大学再创佳绩",
@@ -53,6 +32,27 @@ window.SHU_DATA = {
     {
       "title": "上海市科技企业家创新领导力培训项目走进嘉定科技园和校友企业",
       "url": "https://news.shu.edu.cn/info/1012/181835.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "2026年上海市青少年科学研究院、青少年工程院联合开学典礼在上海大学举行",
+      "url": "https://news.shu.edu.cn/info/1012/181875.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学马克思主义学院与上海电机学院马克思主义学院开展理论学习中心组联组学习",
+      "url": "https://news.shu.edu.cn/info/1012/181895.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "第三届爱尔兰文学研讨会在沪举行 中爱学者共话鲁迅与萧伯纳“半席之约”",
+      "url": "https://news.shu.edu.cn/info/1012/181905.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
