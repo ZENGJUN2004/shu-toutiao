@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-29 14:34",
+  "update_time": "2026-07-29 17:40",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "上海大学党委理论学习中心组举行树立和践行正确政绩观专题学习研讨会",
-      "url": "https://news.shu.edu.cn/info/1012/181825.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海市科技企业家创新领导力培训项目走进嘉定科技园和校友企业",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "校企协同育匠心 产教融合促发展——环化学院携手上海环境危废事业部深化产学研协同创新合作",
       "url": "https://news.shu.edu.cn/info/1012/181945.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "环化学院与闵行区生态环境局开展树立和践行正确政绩观党建联学活动",
+      "url": "https://news.shu.edu.cn/info/1012/181955.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
