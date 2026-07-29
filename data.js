@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-29 08:00",
+  "update_time": "2026-07-29 11:30",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "2026世界机器人大赛——BCI脑控机器人大赛，上海大学再创佳绩",
-      "url": "https://news.shu.edu.cn/info/1012/181805.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海大学党委理论学习中心组举行树立和践行正确政绩观专题学习研讨会",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "第三届爱尔兰文学研讨会在沪举行 中爱学者共话鲁迅与萧伯纳“半席之约”",
       "url": "https://news.shu.edu.cn/info/1012/181905.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "校企协同育匠心 产教融合促发展——环化学院携手上海环境危废事业部深化产学研协同创新合作",
+      "url": "https://news.shu.edu.cn/info/1012/181945.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
@@ -173,13 +173,6 @@ window.SHU_DATA = {
       "title": "浙江嘉善创新“六方联动”机制,打造教科人一体化发展县域样板",
       "url": "https://zj.chinadaily.com.cn/a/202606/01/WS6a1d183ba310942cc49af456.html",
       "source": "中国日报网",
-      "time": "6月1日",
-      "tag": "media"
-    },
-    {
-      "title": "浙江嘉善创新探索“六方联动”机制 推动产学研用深度融合",
-      "url": "http://csj.xinhuanet.com/20260601/406ed987aebd477785b827fae47b03dc/c.html",
-      "source": "新华网",
       "time": "6月1日",
       "tag": "media"
     },
