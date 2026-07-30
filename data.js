@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-30 12:08",
+  "update_time": "2026-07-30 15:36",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "上海市科技企业家创新领导力培训项目走进嘉定科技园和校友企业",
-      "url": "https://news.shu.edu.cn/info/1012/181835.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "2026年上海市青少年科学研究院、青少年工程院联合开学典礼在上海大学举行",
-      "url": "https://news.shu.edu.cn/info/1012/181875.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海大学马克思主义学院与上海电机学院马克思主义学院开展理论学习中心组联组学习",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "环化学院与闵行区生态环境局开展树立和践行正确政绩观党建联学活动",
       "url": "https://news.shu.edu.cn/info/1012/181955.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "马克思主义学院党委与计算机工程与科学学院党委开展党委理论学习中心组联组学习",
+      "url": "https://news.shu.edu.cn/info/1012/182025.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学“1+3+N”集成电路协同育人联盟联组学习习近平党建思想暨2026年第二次党建联席会议顺利召开",
+      "url": "https://news.shu.edu.cn/info/1012/182035.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
