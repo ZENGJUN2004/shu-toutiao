@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-31 07:11",
+  "update_time": "2026-07-31 11:22",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,27 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "上海大学马克思主义学院与上海电机学院马克思主义学院开展理论学习中心组联组学习",
-      "url": "https://news.shu.edu.cn/info/1012/181895.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "第三届爱尔兰文学研讨会在沪举行 中爱学者共话鲁迅与萧伯纳“半席之约”",
-      "url": "https://news.shu.edu.cn/info/1012/181905.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "校企协同育匠心 产教融合促发展——环化学院携手上海环境危废事业部深化产学研协同创新合作",
-      "url": "https://news.shu.edu.cn/info/1012/181945.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "环化学院与闵行区生态环境局开展树立和践行正确政绩观党建联学活动",
@@ -53,6 +32,27 @@ window.SHU_DATA = {
     {
       "title": "上海大学“1+3+N”集成电路协同育人联盟联组学习习近平党建思想暨2026年第二次党建联席会议顺利召开",
       "url": "https://news.shu.edu.cn/info/1012/182035.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "党建引领促合作 产教融合谋发展——生命学院赴临港奉贤平台开展调研签约活动",
+      "url": "https://news.shu.edu.cn/info/1012/182045.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学×鹊秘堂“品牌创意传播实训项目”顺利收官",
+      "url": "https://news.shu.edu.cn/info/1012/182055.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "马克思主义学院“青马之声”宣讲团赴疆 开展“沪喀同心·青春理享会”系列活动",
+      "url": "https://news.shu.edu.cn/info/1012/182065.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
