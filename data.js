@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-07-31 11:22",
+  "update_time": "2026-07-31 14:47",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "环化学院与闵行区生态环境局开展树立和践行正确政绩观党建联学活动",
-      "url": "https://news.shu.edu.cn/info/1012/181955.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "马克思主义学院党委与计算机工程与科学学院党委开展党委理论学习中心组联组学习",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "马克思主义学院“青马之声”宣讲团赴疆 开展“沪喀同心·青春理享会”系列活动",
       "url": "https://news.shu.edu.cn/info/1012/182065.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "排查隐患守底线 平安护航度暑期——学校开展2026年暑假前安全检查",
+      "url": "https://news.shu.edu.cn/info/1012/182075.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
