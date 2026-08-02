@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-03 01:03",
+  "update_time": "2026-08-03 03:15",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -100,13 +100,6 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "上大,太有实力了!_澎湃号·湃客_澎湃新闻-The Paper",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32410517",
-      "source": "澎湃新闻",
-      "time": "1月20日",
-      "tag": "media"
-    },
-    {
       "title": "上海文艺的高光与深流|舞台剧的在地性与国际化",
       "url": "https://www.thepaper.cn/newsDetail_forward_32412234",
       "source": "澎湃新闻",
@@ -167,6 +160,13 @@ window.SHU_DATA = {
       "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1118643&sid=11",
       "source": "上观",
       "time": "5月27日",
+      "tag": "media"
+    },
+    {
+      "title": "上海大学",
+      "url": "https://www.thepaper.cn/tag/8688",
+      "source": "澎湃新闻",
+      "time": "",
       "tag": "media"
     },
     {
