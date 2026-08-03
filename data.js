@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-03 23:45",
+  "update_time": "2026-08-04 01:54",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -163,6 +163,13 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
+      "title": "上海大学钱文亮教授61岁突发疾病去世,兼任北大、上海师大研究员",
+      "url": "https://www.jfdaily.com/news/detail?id=1154227",
+      "source": "上观",
+      "time": "前天17:19",
+      "tag": "media"
+    },
+    {
       "title": "浙江嘉善创新“六方联动”机制,打造教科人一体化发展县域样板",
       "url": "https://zj.chinadaily.com.cn/a/202606/01/WS6a1d183ba310942cc49af456.html",
       "source": "中国日报网",
@@ -181,13 +188,6 @@ window.SHU_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1868092540337102712&wfr=spider&for=pc",
       "source": "光明网",
       "time": "6月16日",
-      "tag": "media"
-    },
-    {
-      "title": "上海大学钱文亮教授61岁突发疾病去世,兼任北大、上海师大研究员",
-      "url": "https://www.jfdaily.com/news/detail?id=1154227",
-      "source": "上观",
-      "time": "昨天17:19",
       "tag": "media"
     }
   ]
