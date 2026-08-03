@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-03 08:01",
+  "update_time": "2026-08-03 12:32",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -100,13 +100,6 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "上海文艺的高光与深流|舞台剧的在地性与国际化",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32412234",
-      "source": "澎湃新闻",
-      "time": "1月27日",
-      "tag": "media"
-    },
-    {
       "title": "档案为桥,感知上海:上海大学留学生在档案馆里读懂城市发展",
       "url": "https://www.thepaper.cn/newsDetail_forward_32562310",
       "source": "澎湃新闻",
@@ -188,6 +181,13 @@ window.SHU_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1868092540337102712&wfr=spider&for=pc",
       "source": "光明网",
       "time": "6月16日",
+      "tag": "media"
+    },
+    {
+      "title": "上海大学钱文亮教授61岁突发疾病去世,兼任北大、上海师大研究员",
+      "url": "https://www.jfdaily.com/news/detail?id=1154227",
+      "source": "上观",
+      "time": "昨天17:19",
       "tag": "media"
     }
   ]
