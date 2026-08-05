@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-05 20:56",
+  "update_time": "2026-08-05 23:18",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "马克思主义学院党委与计算机工程与科学学院党委开展党委理论学习中心组联组学习",
-      "url": "https://news.shu.edu.cn/info/1012/182025.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海大学“1+3+N”集成电路协同育人联盟联组学习习近平党建思想暨2026年第二次党建联席会议顺利召开",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "排查隐患守底线 平安护航度暑期——学校开展2026年暑假前安全检查",
       "url": "https://news.shu.edu.cn/info/1012/182075.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "从文字指令到影像表达：这些上海大学文学院师生在温影“拍”AI短片！奔赴创意新开场",
+      "url": "https://news.shu.edu.cn/info/1012/182125.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
