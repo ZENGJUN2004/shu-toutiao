@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-06 16:42",
+  "update_time": "2026-08-06 19:25",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -97,13 +97,6 @@ window.SHU_DATA = {
       "url": "https://www.thepaper.cn/newsDetail_forward_33187578",
       "source": "澎湃新闻",
       "time": "5月15日",
-      "tag": "media"
-    },
-    {
-      "title": "档案为桥,感知上海:上海大学留学生在档案馆里读懂城市发展",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32562310",
-      "source": "澎湃新闻",
-      "time": "2月12日",
       "tag": "media"
     },
     {
