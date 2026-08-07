@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-07 19:49",
+  "update_time": "2026-08-07 21:11",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -100,6 +100,13 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
+      "title": "历史上的今天|1922年3月18日,上海大学成立",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32773330",
+      "source": "澎湃新闻",
+      "time": "3月18日",
+      "tag": "media"
+    },
+    {
       "title": "上海大学国家大学科技园与永兴汇园区共筑静安科创“生态圈”",
       "url": "https://www.thepaper.cn/newsDetail_forward_32806785",
       "source": "澎湃新闻",
@@ -146,13 +153,6 @@ window.SHU_DATA = {
       "url": "https://www.thepaper.cn/tag/8688",
       "source": "澎湃新闻",
       "time": "",
-      "tag": "media"
-    },
-    {
-      "title": "上海书展开幕在即,这些新书本届书展将首发!听听沪上各家出版社...",
-      "url": "https://baijiahao.baidu.com/s?id=1871517201234581463&wfr=spider&for=pc",
-      "source": "新闻晨报",
-      "time": "7月23日",
       "tag": "media"
     },
     {
