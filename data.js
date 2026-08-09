@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-09 20:57",
+  "update_time": "2026-08-09 21:53",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -121,6 +121,13 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
+      "title": "李思远|致力于刑事诉讼前沿问题研究",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33108132",
+      "source": "澎湃新闻",
+      "time": "5月7日",
+      "tag": "media"
+    },
+    {
       "title": "上海大学通报:第一时间成立调查组,启动调查程序",
       "url": "https://baijiahao.baidu.com/s?id=1864988780176613675&wfr=spider&for=pc",
       "source": "新浪财经",
@@ -146,13 +153,6 @@ window.SHU_DATA = {
       "url": "https://www.thepaper.cn/tag/8688",
       "source": "澎湃新闻",
       "time": "",
-      "tag": "media"
-    },
-    {
-      "title": "2026年上海市全民数字素养与技能提升月展示交流活动举行",
-      "url": "https://baijiahao.baidu.com/s?id=1871326915488201492&wfr=spider&for=pc",
-      "source": "澎湃新闻",
-      "time": "7月21日",
       "tag": "media"
     },
     {
