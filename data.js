@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-09 07:32",
+  "update_time": "2026-08-09 10:00",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -100,20 +100,6 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "历史上的今天|1922年3月18日,上海大学成立",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32773330",
-      "source": "澎湃新闻",
-      "time": "3月18日",
-      "tag": "media"
-    },
-    {
-      "title": "上海大学国家大学科技园与永兴汇园区共筑静安科创“生态圈”",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32806785",
-      "source": "澎湃新闻",
-      "time": "3月21日",
-      "tag": "media"
-    },
-    {
       "title": "以青春之名,赴樱花之约!上海大学志愿者为2026上海樱花节注入温暖...",
       "url": "https://www.thepaper.cn/newsDetail_forward_32814875",
       "source": "澎湃新闻",
@@ -135,6 +121,13 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
+      "title": "上海大学通报:第一时间成立调查组,启动调查程序",
+      "url": "https://baijiahao.baidu.com/s?id=1864988780176613675&wfr=spider&for=pc",
+      "source": "新浪财经",
+      "time": "5月12日",
+      "tag": "media"
+    },
+    {
       "title": "上海大学国际文化节燃动五洲风情,60年3万留学生见证文化交融",
       "url": "https://www.thepaper.cn/newsDetail_forward_33193042",
       "source": "澎湃新闻",
@@ -153,6 +146,13 @@ window.SHU_DATA = {
       "url": "https://www.thepaper.cn/tag/8688",
       "source": "澎湃新闻",
       "time": "",
+      "tag": "media"
+    },
+    {
+      "title": "2026年上海市全民数字素养与技能提升月展示交流活动举行",
+      "url": "https://baijiahao.baidu.com/s?id=1871326915488201492&wfr=spider&for=pc",
+      "source": "澎湃新闻",
+      "time": "7月21日",
       "tag": "media"
     },
     {
