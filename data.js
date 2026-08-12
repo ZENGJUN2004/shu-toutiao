@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-12 23:00",
+  "update_time": "2026-08-13 00:59",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -160,6 +160,20 @@ window.SHU_DATA = {
       "url": "https://www.thepaper.cn/tag/8688",
       "source": "澎湃新闻",
       "time": "",
+      "tag": "media"
+    },
+    {
+      "title": "上海大学钱文亮教授61岁突发疾病去世,兼任北大、上海师大研究员",
+      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1154227",
+      "source": "上观",
+      "time": "8月2日",
+      "tag": "media"
+    },
+    {
+      "title": "面向人人的科学教育——2026年\"全国科技活动周\"虹口区系列活动...",
+      "url": "https://caijing.chinadaily.com.cn/a/202606/01/WS6a1d2e45a310942cc49af519.html",
+      "source": "中国日报网",
+      "time": "6月1日",
       "tag": "media"
     },
     {
