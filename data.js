@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-13 18:10",
+  "update_time": "2026-08-13 19:50",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -188,6 +188,13 @@ window.SHU_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1868092540337102712&wfr=spider&for=pc",
       "source": "光明网",
       "time": "6月16日",
+      "tag": "media"
+    },
+    {
+      "title": "...第十五届环球自然日全国总决选宜昌、上海双线启幕,圆满收官",
+      "url": "https://cn.chinadaily.com.cn/a/202608/11/WS6a7ae25da310d709c2fc2b0e.html",
+      "source": "中国日报网",
+      "time": "前天16:26",
       "tag": "media"
     }
   ]
