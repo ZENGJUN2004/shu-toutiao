@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-14 12:50",
+  "update_time": "2026-08-14 14:16",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,27 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "上海大学“1+3+N”集成电路协同育人联盟联组学习习近平党建思想暨2026年第二次党建联席会议顺利召开",
-      "url": "https://news.shu.edu.cn/info/1012/182035.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "党建引领促合作 产教融合谋发展——生命学院赴临港奉贤平台开展调研签约活动",
-      "url": "https://news.shu.edu.cn/info/1012/182045.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海大学×鹊秘堂“品牌创意传播实训项目”顺利收官",
-      "url": "https://news.shu.edu.cn/info/1012/182055.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "马克思主义学院“青马之声”宣讲团赴疆 开展“沪喀同心·青春理享会”系列活动",
@@ -53,6 +32,27 @@ window.SHU_DATA = {
     {
       "title": "从文字指令到影像表达：这些上海大学文学院师生在温影“拍”AI短片！奔赴创意新开场",
       "url": "https://news.shu.edu.cn/info/1012/182125.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "三十余国青年镜绘青浦，光影赋能文化出海！上大温影主办国际采风系列活动圆满收官",
+      "url": "https://news.shu.edu.cn/info/1012/182285.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学在第十三届全国高校物理实验教学研讨会自制仪器评比中斩获佳绩",
+      "url": "https://news.shu.edu.cn/info/1012/182295.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "课赛融合强赋能 聚力备赛育英才 ——环化学院召开本科生学科竞赛暨中国国际大学生创新大赛指导工作动员会",
+      "url": "https://news.shu.edu.cn/info/1012/182305.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
