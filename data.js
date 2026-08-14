@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-14 23:55",
+  "update_time": "2026-08-15 00:57",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -156,6 +156,13 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
+      "title": "环球自然日2026年度全国总决选在上海大学落幕",
+      "url": "https://baijiahao.baidu.com/s?id=1873393956732764754&wfr=spider&for=pc",
+      "source": "新浪财经",
+      "time": "前天15:55",
+      "tag": "media"
+    },
+    {
       "title": "面向人人的科学教育——2026年\"全国科技活动周\"虹口区系列活动...",
       "url": "https://caijing.chinadaily.com.cn/a/202606/01/WS6a1d2e45a310942cc49af519.html",
       "source": "中国日报网",
@@ -167,13 +174,6 @@ window.SHU_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1868092540337102712&wfr=spider&for=pc",
       "source": "光明网",
       "time": "6月16日",
-      "tag": "media"
-    },
-    {
-      "title": "环球自然日2026年度全国总决选在上海大学落幕",
-      "url": "https://baijiahao.baidu.com/s?id=1873393956732764754&wfr=spider&for=pc",
-      "source": "新浪财经",
-      "time": "昨天15:55",
       "tag": "media"
     }
   ]
