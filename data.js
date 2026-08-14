@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-14 18:06",
+  "update_time": "2026-08-14 19:46",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -100,20 +100,6 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "上海大学国家大学科技园与永兴汇园区共筑静安科创“生态圈”",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32806785",
-      "source": "澎湃新闻",
-      "time": "3月21日",
-      "tag": "media"
-    },
-    {
-      "title": "以青春之名,赴樱花之约!上海大学志愿者为2026上海樱花节注入温暖...",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32814875",
-      "source": "澎湃新闻",
-      "time": "3月23日",
-      "tag": "media"
-    },
-    {
       "title": "文商旅体展农怎么“融”?这场专场活动在奉贤庄行给出新答案",
       "url": "https://www.thepaper.cn/newsDetail_forward_32844987",
       "source": "澎湃新闻",
@@ -177,17 +163,17 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "联合国青年办公室青年心理健康与幸福感计划启动在沪举行",
-      "url": "https://cn.chinadaily.com.cn/a/202606/15/WS6a2f9c0da310d709c2fb80f7.html",
-      "source": "中国日报网",
-      "time": "6月15日",
-      "tag": "media"
-    },
-    {
       "title": "「我与光明日报」钱伟长:忠于人民的根本利益",
       "url": "https://baijiahao.baidu.com/s?id=1868092540337102712&wfr=spider&for=pc",
       "source": "光明网",
       "time": "6月16日",
+      "tag": "media"
+    },
+    {
+      "title": "环球自然日2026年度全国总决选在上海大学落幕",
+      "url": "https://baijiahao.baidu.com/s?id=1873393956732764754&wfr=spider&for=pc",
+      "source": "新浪财经",
+      "time": "昨天15:55",
       "tag": "media"
     }
   ]
