@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-16 03:23",
+  "update_time": "2026-08-16 04:26",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -100,6 +100,13 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
+      "title": "上海大学国家大学科技园与永兴汇园区共筑静安科创“生态圈”",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32806785",
+      "source": "澎湃新闻",
+      "time": "3月21日",
+      "tag": "media"
+    },
+    {
       "title": "以青春之名,赴樱花之约!上海大学志愿者为2026上海樱花节注入温暖...",
       "url": "https://www.thepaper.cn/newsDetail_forward_32814875",
       "source": "澎湃新闻",
@@ -139,13 +146,6 @@ window.SHU_DATA = {
       "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1118643",
       "source": "上观",
       "time": "5月27日",
-      "tag": "media"
-    },
-    {
-      "title": "上海大学钱文亮教授61岁突发疾病去世,兼任北大、上海师大研究员",
-      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1154227",
-      "source": "上观",
-      "time": "8月2日",
       "tag": "media"
     },
     {
