@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-15 15:33",
+  "update_time": "2026-08-15 16:32",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -202,6 +202,13 @@ window.SHU_DATA = {
       "url": "https://sh.people.com.cn/n2/2026/0713/c134768-41637565.html",
       "source": "人民网",
       "time": "7月13日",
+      "tag": "media"
+    },
+    {
+      "title": "环球自然日2026年度全国总决选(上海)在上海大学落幕",
+      "url": "https://difang.gmw.cn/sh/2026-08/14/content_38944851.htm",
+      "source": "光明网",
+      "time": "昨天18:35",
       "tag": "media"
     }
   ]
