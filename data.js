@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-16 13:31",
+  "update_time": "2026-08-16 14:44",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -100,13 +100,6 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "以青春之名,赴樱花之约!上海大学志愿者为2026上海樱花节注入温暖...",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32814875",
-      "source": "澎湃新闻",
-      "time": "3月23日",
-      "tag": "media"
-    },
-    {
       "title": "文商旅体展农怎么“融”?这场专场活动在奉贤庄行给出新答案",
       "url": "https://www.thepaper.cn/newsDetail_forward_32844987",
       "source": "澎湃新闻",
@@ -156,6 +149,13 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
+      "title": "双向赋能、共谱新篇!宝山区与上海大学深化战略合作交流会举行",
+      "url": "https://m.thepaper.cn/newsDetail_forward_33787249",
+      "source": "澎湃新闻",
+      "time": "前天23:20",
+      "tag": "media"
+    },
+    {
       "title": "“数智时代的新闻传播”学术研讨会在成都锦城学院召开",
       "url": "https://cnews.chinadaily.com.cn/a/202604/29/WS69f1b87aa310942cc49aa21d.html",
       "source": "中国日报网",
@@ -167,13 +167,6 @@ window.SHU_DATA = {
       "url": "https://cn.chinadaily.com.cn/a/202605/26/WS6a155959a310942cc49ae644.html",
       "source": "中国日报网",
       "time": "5月26日",
-      "tag": "media"
-    },
-    {
-      "title": "浙江嘉善创新“六方联动”机制,打造教科人一体化发展县域样板",
-      "url": "https://zj.chinadaily.com.cn/a/202606/01/WS6a1d183ba310942cc49af456.html",
-      "source": "中国日报网",
-      "time": "6月1日",
       "tag": "media"
     },
     {
