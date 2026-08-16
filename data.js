@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-16 23:24",
+  "update_time": "2026-08-17 00:29",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -149,13 +149,6 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "双向赋能、共谱新篇!宝山区与上海大学深化战略合作交流会举行",
-      "url": "https://m.thepaper.cn/newsDetail_forward_33787249",
-      "source": "澎湃新闻",
-      "time": "前天23:20",
-      "tag": "media"
-    },
-    {
       "title": "“数智时代的新闻传播”学术研讨会在成都锦城学院召开",
       "url": "https://cnews.chinadaily.com.cn/a/202604/29/WS69f1b87aa310942cc49aa21d.html",
       "source": "中国日报网",
@@ -191,10 +184,10 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "环球自然日2026年度全国总决选(上海)在上海大学落幕",
-      "url": "https://difang.gmw.cn/sh/2026-08/14/content_38944851.htm",
-      "source": "光明网",
-      "time": "前天18:35",
+      "title": "学习身边榜样!这些上大集体荣获市级“两优一先”表彰!",
+      "url": "https://www.jfdaily.com/sgh/detail?id=4033580",
+      "source": "上观",
+      "time": "8月6日",
       "tag": "media"
     }
   ]
