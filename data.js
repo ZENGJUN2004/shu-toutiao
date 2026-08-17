@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-18 00:30",
+  "update_time": "2026-08-18 01:28",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -107,17 +107,17 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "文商旅体展农怎么“融”?这场专场活动在奉贤庄行给出新答案",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32844987",
-      "source": "澎湃新闻",
-      "time": "3月27日",
-      "tag": "media"
-    },
-    {
       "title": "2026金鸡艺术电影展在上海举行",
       "url": "https://www.thepaper.cn/newsDetail_forward_33026584",
       "source": "澎湃新闻",
       "time": "4月21日",
+      "tag": "media"
+    },
+    {
+      "title": "李思远|致力于刑事诉讼前沿问题研究",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33108132",
+      "source": "澎湃新闻",
+      "time": "5月7日",
       "tag": "media"
     },
     {
@@ -136,7 +136,7 @@ window.SHU_DATA = {
     },
     {
       "title": "从AI实验室、VR摄影棚到电影工坊,上海大学科创+文创七大空间向...",
-      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1118643",
+      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1118643&sid=11",
       "source": "上观",
       "time": "5月27日",
       "tag": "media"
