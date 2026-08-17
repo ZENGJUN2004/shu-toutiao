@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-17 15:02",
+  "update_time": "2026-08-17 16:47",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -181,13 +181,6 @@ window.SHU_DATA = {
       "url": "https://caijing.chinadaily.com.cn/a/202606/25/WS6a3cdf71a310d709c2fba1b8.html",
       "source": "中国日报网",
       "time": "6月25日",
-      "tag": "media"
-    },
-    {
-      "title": "学习身边榜样!这些上大集体荣获市级“两优一先”表彰!",
-      "url": "https://www.jfdaily.com/sgh/detail?id=4033580",
-      "source": "上观",
-      "time": "8月6日",
       "tag": "media"
     }
   ]
