@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-19 01:30",
+  "update_time": "2026-08-19 02:41",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -156,16 +156,23 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "“数智时代的新闻传播”学术研讨会在成都锦城学院召开",
-      "url": "https://cnews.chinadaily.com.cn/a/202604/29/WS69f1b87aa310942cc49aa21d.html",
+      "title": "上海大学悉尼工商学院SHU-UTS硕士项目举办国际创新大赛参赛项目...",
+      "url": "https://cn.chinadaily.com.cn/a/202605/26/WS6a155959a310942cc49ae644.html",
       "source": "中国日报网",
-      "time": "4月29日",
+      "time": "5月26日",
       "tag": "media"
     },
     {
       "title": "面向人人的科学教育——2026年\"全国科技活动周\"虹口区系列活动...",
       "url": "https://caijing.chinadaily.com.cn/a/202606/01/WS6a1d2e45a310942cc49af519.html",
       "source": "中国日报网",
+      "time": "6月1日",
+      "tag": "media"
+    },
+    {
+      "title": "浙江嘉善创新探索“六方联动”机制 推动产学研用深度融合",
+      "url": "http://csj.xinhuanet.com/20260601/406ed987aebd477785b827fae47b03dc/c.html",
+      "source": "新华网",
       "time": "6月1日",
       "tag": "media"
     },
@@ -181,6 +188,13 @@ window.SHU_DATA = {
       "url": "https://caijing.chinadaily.com.cn/a/202606/25/WS6a3cdf71a310d709c2fba1b8.html",
       "source": "中国日报网",
       "time": "6月25日",
+      "tag": "media"
+    },
+    {
+      "title": "镜头定格临海新韵上海大学智能视听系千年府城采风",
+      "url": "https://sh.people.com.cn/n2/2026/0713/c134768-41637565.html",
+      "source": "人民网",
+      "time": "7月13日",
       "tag": "media"
     }
   ]
