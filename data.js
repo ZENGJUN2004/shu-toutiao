@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-19 17:37",
+  "update_time": "2026-08-19 18:32",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -199,8 +199,8 @@ window.SHU_DATA = {
     },
     {
       "title": "人民日报| 金江波 :现代插画的海上创生",
-      "url": "http://baijiahao.baidu.com/s?id=1873822737145059984&wfr=spider&for=pc",
-      "source": "上观新闻",
+      "url": "https://www.jfdaily.com/sgh/detail?id=4040397",
+      "source": "上观",
       "time": "昨天09:17",
       "tag": "media"
     }
