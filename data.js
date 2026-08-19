@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-19 12:40",
+  "update_time": "2026-08-19 13:33",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -107,6 +107,13 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
+      "title": "新翼说|【宝山监狱×上海大学文学院】大墙里的“疗愈读写课”,为...",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32957137",
+      "source": "澎湃新闻",
+      "time": "4月12日",
+      "tag": "media"
+    },
+    {
       "title": "2026金鸡艺术电影展在上海举行",
       "url": "https://www.thepaper.cn/newsDetail_forward_33026584",
       "source": "澎湃新闻",
@@ -139,13 +146,6 @@ window.SHU_DATA = {
       "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1118643&sid=11",
       "source": "上观",
       "time": "5月27日",
-      "tag": "media"
-    },
-    {
-      "title": "上海大学钱文亮教授61岁突发疾病去世,兼任北大、上海师大研究员",
-      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1154227",
-      "source": "上观",
-      "time": "8月2日",
       "tag": "media"
     },
     {
