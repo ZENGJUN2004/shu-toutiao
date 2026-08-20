@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-21 03:34",
+  "update_time": "2026-08-21 04:32",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -58,10 +58,24 @@ window.SHU_DATA = {
       "tag": "official"
     },
     {
+      "title": "上海艺指委2025年度工作会议在上海大学举行—新闻—科学网",
+      "url": "https://news.sciencenet.cn/htmlnews/2026/1/558564.shtm",
+      "source": "科学网",
+      "time": "1月12日",
+      "tag": "media"
+    },
+    {
       "title": "首届重庆市人工智能赋能科学研究大会举行",
       "url": "https://www.stdaily.com/web/gdxw/2026-01/17/content_463054.html",
       "source": "中国科技网",
       "time": "1月17日",
+      "tag": "media"
+    },
+    {
+      "title": "【科技日报】第二届智能科学家生态联盟大会在中国科学技术大学举办",
+      "url": "https://news.ustc.edu.cn/info/1056/89534.htm",
+      "source": "中国科学技术大学中国科大新闻网",
+      "time": "",
       "tag": "media"
     },
     {
@@ -90,13 +104,6 @@ window.SHU_DATA = {
       "url": "https://www.thepaper.cn/newsDetail_forward_33187578",
       "source": "澎湃新闻",
       "time": "5月15日",
-      "tag": "media"
-    },
-    {
-      "title": "直面真实研发难题 第三届上海国际计算生物学创新大赛在浦东启动",
-      "url": "https://www.stdaily.com/web/gdxw/2026-06/26/content_538265.html",
-      "source": "中国科技网",
-      "time": "6月26日",
       "tag": "media"
     },
     {
@@ -188,13 +195,6 @@ window.SHU_DATA = {
       "url": "https://sh.people.com.cn/n2/2026/0713/c134768-41637565.html",
       "source": "人民网",
       "time": "7月13日",
-      "tag": "media"
-    },
-    {
-      "title": "王兴兴",
-      "url": "http://www.thepaper.cn/newsDetail_forward_33809827",
-      "source": "澎湃新闻",
-      "time": "昨天17:00",
       "tag": "media"
     }
   ]
