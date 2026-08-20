@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-20 17:38",
+  "update_time": "2026-08-20 18:34",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -188,6 +188,13 @@ window.SHU_DATA = {
       "url": "https://caijing.chinadaily.com.cn/a/202606/25/WS6a3cdf71a310d709c2fba1b8.html",
       "source": "中国日报网",
       "time": "6月25日",
+      "tag": "media"
+    },
+    {
+      "title": "名校同款,海尔清凉护航开学|海尔商用空调护航教育行业智慧迎新",
+      "url": "https://caijing.chinadaily.com.cn/a/202607/17/WS6a59f2fca310d709c2fbe2cd.html",
+      "source": "中国日报网",
+      "time": "7月17日",
       "tag": "media"
     },
     {
