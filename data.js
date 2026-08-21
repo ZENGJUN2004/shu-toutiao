@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-21 16:44",
+  "update_time": "2026-08-21 17:40",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,48 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "三十余国青年镜绘青浦，光影赋能文化出海！上大温影主办国际采风系列活动圆满收官",
-      "url": "https://news.shu.edu.cn/info/1012/182285.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海大学在第十三届全国高校物理实验教学研讨会自制仪器评比中斩获佳绩",
-      "url": "https://news.shu.edu.cn/info/1012/182295.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "课赛融合强赋能 聚力备赛育英才 ——环化学院召开本科生学科竞赛暨中国国际大学生创新大赛指导工作动员会",
-      "url": "https://news.shu.edu.cn/info/1012/182305.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "2026年TI杯上海市大学生电子设计竞赛测评在上海大学顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/182315.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "“2026运动防治慢性病国际会议”在上海成功召开",
-      "url": "https://news.shu.edu.cn/info/1012/182325.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海大学法学院联合国家知识产权局审协天津中心举办“科研创新・专利实战营”",
-      "url": "https://news.shu.edu.cn/info/1012/182335.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海艺指委2025年度工作会议在上海大学举行—新闻—科学网",
