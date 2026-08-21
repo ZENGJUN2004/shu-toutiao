@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-21 14:53",
+  "update_time": "2026-08-21 15:46",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -94,7 +94,7 @@ window.SHU_DATA = {
     },
     {
       "title": "赋能青少年科创成长上海首个AI科创学习中心正式落成",
-      "url": "http://www.chinahightech.com/chuangye/2026-05/05/content_511827.html",
+      "url": "https://www.chinahightech.com/chuangye/2026-05/05/content_511827.html",
       "source": "中国高新网",
       "time": "5月5日",
       "tag": "media"
