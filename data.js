@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-21 11:06",
+  "update_time": "2026-08-21 12:41",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -156,13 +156,6 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "上海大学悉尼工商学院SHU-UTS硕士项目举办国际创新大赛参赛项目...",
-      "url": "https://cn.chinadaily.com.cn/a/202605/26/WS6a155959a310942cc49ae644.html",
-      "source": "中国日报网",
-      "time": "5月26日",
-      "tag": "media"
-    },
-    {
       "title": "面向人人的科学教育——2026年\"全国科技活动周\"虹口区系列活动...",
       "url": "https://caijing.chinadaily.com.cn/a/202606/01/WS6a1d2e45a310942cc49af519.html",
       "source": "中国日报网",
@@ -177,6 +170,13 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
+      "title": "联合国青年办公室青年心理健康与幸福感计划启动在沪举行",
+      "url": "https://cn.chinadaily.com.cn/a/202606/15/WS6a2f9c0da310d709c2fb80f7.html",
+      "source": "中国日报网",
+      "time": "6月15日",
+      "tag": "media"
+    },
+    {
       "title": "「我与光明日报」钱伟长:忠于人民的根本利益",
       "url": "https://baijiahao.baidu.com/s?id=1868092540337102712&wfr=spider&for=pc",
       "source": "光明网",
@@ -188,6 +188,13 @@ window.SHU_DATA = {
       "url": "https://caijing.chinadaily.com.cn/a/202606/25/WS6a3cdf71a310d709c2fba1b8.html",
       "source": "中国日报网",
       "time": "6月25日",
+      "tag": "media"
+    },
+    {
+      "title": "名校同款,海尔清凉护航开学|海尔商用空调护航教育行业智慧迎新",
+      "url": "https://caijing.chinadaily.com.cn/a/202607/17/WS6a59f2fca310d709c2fbe2cd.html",
+      "source": "中国日报网",
+      "time": "7月17日",
       "tag": "media"
     },
     {
