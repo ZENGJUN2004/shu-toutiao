@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-22 11:48",
+  "update_time": "2026-08-22 12:36",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -111,6 +111,13 @@ window.SHU_DATA = {
       "url": "https://www.thepaper.cn/tag/8688",
       "source": "澎湃新闻",
       "time": "",
+      "tag": "media"
+    },
+    {
+      "title": "上海大学悉尼工商学院SHU-UTS硕士项目举办国际创新大赛参赛项目...",
+      "url": "https://cn.chinadaily.com.cn/a/202605/26/WS6a155959a310942cc49ae644.html",
+      "source": "中国日报网",
+      "time": "5月26日",
       "tag": "media"
     },
     {
