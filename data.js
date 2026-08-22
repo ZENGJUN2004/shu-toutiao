@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-23 02:35",
+  "update_time": "2026-08-23 03:24",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -69,13 +69,6 @@ window.SHU_DATA = {
       "url": "https://www.stdaily.com/web/gdxw/2026-01/17/content_463054.html",
       "source": "中国科技网",
       "time": "1月17日",
-      "tag": "media"
-    },
-    {
-      "title": "【科技日报】第二届智能科学家生态联盟大会在中国科学技术大学举办",
-      "url": "https://news.ustc.edu.cn/info/1056/89534.htm",
-      "source": "中国科学技术大学中国科大新闻网",
-      "time": "",
       "tag": "media"
     },
     {
@@ -156,23 +149,16 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "上海大学悉尼工商学院SHU-UTS硕士项目举办国际创新大赛参赛项目...",
-      "url": "https://cn.chinadaily.com.cn/a/202605/26/WS6a155959a310942cc49ae644.html",
+      "title": "“数智时代的新闻传播”学术研讨会在成都锦城学院召开",
+      "url": "https://cnews.chinadaily.com.cn/a/202604/29/WS69f1b87aa310942cc49aa21d.html",
       "source": "中国日报网",
-      "time": "5月26日",
+      "time": "4月29日",
       "tag": "media"
     },
     {
       "title": "面向人人的科学教育——2026年\"全国科技活动周\"虹口区系列活动...",
       "url": "https://caijing.chinadaily.com.cn/a/202606/01/WS6a1d2e45a310942cc49af519.html",
       "source": "中国日报网",
-      "time": "6月1日",
-      "tag": "media"
-    },
-    {
-      "title": "浙江嘉善创新探索“六方联动”机制 推动产学研用深度融合",
-      "url": "http://csj.xinhuanet.com/20260601/406ed987aebd477785b827fae47b03dc/c.html",
-      "source": "新华网",
       "time": "6月1日",
       "tag": "media"
     },
@@ -188,20 +174,6 @@ window.SHU_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1868092540337102712&wfr=spider&for=pc",
       "source": "光明网",
       "time": "6月16日",
-      "tag": "media"
-    },
-    {
-      "title": "沪万教育协作再升级!首个沪万同步AI科创实验室正式启用",
-      "url": "https://caijing.chinadaily.com.cn/a/202606/25/WS6a3cdf71a310d709c2fba1b8.html",
-      "source": "中国日报网",
-      "time": "6月25日",
-      "tag": "media"
-    },
-    {
-      "title": "名校同款,海尔清凉护航开学|海尔商用空调护航教育行业智慧迎新",
-      "url": "https://caijing.chinadaily.com.cn/a/202607/17/WS6a59f2fca310d709c2fbe2cd.html",
-      "source": "中国日报网",
-      "time": "7月17日",
       "tag": "media"
     },
     {
