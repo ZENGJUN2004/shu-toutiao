@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-23 07:24",
+  "update_time": "2026-08-23 09:38",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -97,6 +97,13 @@ window.SHU_DATA = {
       "url": "https://www.thepaper.cn/newsDetail_forward_33187578",
       "source": "澎湃新闻",
       "time": "5月15日",
+      "tag": "media"
+    },
+    {
+      "title": "以青春之名,赴樱花之约!上海大学志愿者为2026上海樱花节注入温暖...",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32814875",
+      "source": "澎湃新闻",
+      "time": "3月23日",
       "tag": "media"
     },
     {
