@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-25 14:53",
+  "update_time": "2026-08-25 15:47",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -87,7 +87,7 @@ window.SHU_DATA = {
     },
     {
       "title": "赋能青少年科创成长上海首个AI科创学习中心正式落成",
-      "url": "https://www.chinahightech.com/chuangye/2026-05/05/content_511827.html",
+      "url": "http://www.chinahightech.com/chuangye/2026-05/05/content_511827.html",
       "source": "中国高新网",
       "time": "5月5日",
       "tag": "media"
@@ -192,14 +192,14 @@ window.SHU_DATA = {
     },
     {
       "title": "镜头定格临海新韵上海大学智能视听系千年府城采风",
-      "url": "https://sh.people.com.cn/n2/2026/0713/c134768-41637565.html",
+      "url": "http://sh.people.com.cn/n2/2026/0713/c134768-41637565.html",
       "source": "人民网",
       "time": "7月13日",
       "tag": "media"
     },
     {
       "title": "行走长三角上海大学新闻传播学院学子以新闻采风实践磨砺“四力...",
-      "url": "https://sh.people.com.cn/n2/2026/0713/c134768-41637574.html",
+      "url": "http://sh.people.com.cn/n2/2026/0713/c134768-41637574.html",
       "source": "人民网",
       "time": "7月13日",
       "tag": "media"
