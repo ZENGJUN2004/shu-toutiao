@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-26 00:40",
+  "update_time": "2026-08-26 01:34",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -181,13 +181,6 @@ window.SHU_DATA = {
       "url": "https://caijing.chinadaily.com.cn/a/202606/01/WS6a1d2e45a310942cc49af519.html",
       "source": "中国日报网",
       "time": "6月1日",
-      "tag": "media"
-    },
-    {
-      "title": "联合国青年办公室青年心理健康与幸福感计划启动在沪举行",
-      "url": "https://cn.chinadaily.com.cn/a/202606/15/WS6a2f9c0da310d709c2fb80f7.html",
-      "source": "中国日报网",
-      "time": "6月15日",
       "tag": "media"
     },
     {
