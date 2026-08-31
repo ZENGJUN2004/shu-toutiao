@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-08-31 09:13",
+  "update_time": "2026-08-31 16:22",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,48 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "2026全国第十九届精密工程学术研讨会暨青年学者创新论坛成功举行",
-      "url": "https://news.shu.edu.cn/info/1012/182385.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "“先进制造国际学术交流研讨会：微纳制造中的力学、计算与测量”在上海大学顺利召开",
-      "url": "https://news.shu.edu.cn/info/1012/182415.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "2026 SHVFS招聘会现场直击｜AI赋能文娱新赛道，近五十家名企携百岗齐聚上大温影",
-      "url": "https://news.shu.edu.cn/info/1012/182425.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "市审计局杜娟副局长带队赴环上大科技园开展党建联建活动",
-      "url": "https://news.shu.edu.cn/info/1012/182445.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "凝心聚力 护航新程——上海大学召开 2026 年本科生迎新辅导员培训会",
-      "url": "https://news.shu.edu.cn/info/1012/182475.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "宝山区人大换届选举上海大学选区选举工作动员暨培训会举行",
-      "url": "https://news.shu.edu.cn/info/1012/182485.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海艺指委2025年度工作会议在上海大学举行—新闻—科学网",
