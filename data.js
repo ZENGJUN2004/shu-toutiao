@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-01 09:06",
+  "update_time": "2026-09-01 15:31",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -100,20 +100,6 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "历史上的今天|1922年3月18日,上海大学成立",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32773330",
-      "source": "澎湃新闻",
-      "time": "3月18日",
-      "tag": "media"
-    },
-    {
-      "title": "以青春之名,赴樱花之约!上海大学志愿者为2026上海樱花节注入温暖...",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32814875",
-      "source": "澎湃新闻",
-      "time": "3月23日",
-      "tag": "media"
-    },
-    {
       "title": "文商旅体展农怎么“融”?这场专场活动在奉贤庄行给出新答案",
       "url": "https://www.thepaper.cn/newsDetail_forward_32844987",
       "source": "澎湃新闻",
@@ -135,6 +121,13 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
+      "title": "【校园风】筑强科创底座,点亮未来之光 |上海首家“AI科创学习...",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33131028",
+      "source": "澎湃新闻",
+      "time": "5月8日",
+      "tag": "media"
+    },
+    {
       "title": "上海大学通报:第一时间成立调查组,启动调查程序",
       "url": "https://baijiahao.baidu.com/s?id=1864988780176613675&wfr=spider&for=pc",
       "source": "新浪财经",
@@ -153,6 +146,13 @@ window.SHU_DATA = {
       "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1118643&sid=11",
       "source": "上观",
       "time": "5月27日",
+      "tag": "media"
+    },
+    {
+      "title": "唐卡串联沪藏文脉,研学厚植民族情谊:日喀则唐卡传承人沪上研学绘...",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33495184",
+      "source": "澎湃新闻",
+      "time": "7月1日",
       "tag": "media"
     },
     {
