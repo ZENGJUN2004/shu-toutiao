@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-02 07:08",
+  "update_time": "2026-09-02 11:43",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -174,6 +174,13 @@ window.SHU_DATA = {
       "url": "https://cnews.chinadaily.com.cn/a/202604/29/WS69f1b87aa310942cc49aa21d.html",
       "source": "中国日报网",
       "time": "4月29日",
+      "tag": "media"
+    },
+    {
+      "title": "上海大学通报一院长数据存疑:启动调查程序",
+      "url": "http://news.hnr.cn/djn/article/1/2054182912446177282",
+      "source": "映象新闻",
+      "time": "5月12日",
       "tag": "media"
     },
     {
