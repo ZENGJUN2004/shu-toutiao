@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-03 11:42",
+  "update_time": "2026-09-03 16:44",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -100,6 +100,13 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
+      "title": "文商旅体展农怎么“融”?这场专场活动在奉贤庄行给出新答案",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32844987",
+      "source": "澎湃新闻",
+      "time": "3月27日",
+      "tag": "media"
+    },
+    {
       "title": "新翼说|【宝山监狱×上海大学文学院】大墙里的“疗愈读写课”,为...",
       "url": "https://www.thepaper.cn/newsDetail_forward_32957137",
       "source": "澎湃新闻",
@@ -114,10 +121,10 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "【校园风】筑强科创底座,点亮未来之光 |上海首家“AI科创学习...",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33131028",
+      "title": "李思远|致力于刑事诉讼前沿问题研究",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33108132",
       "source": "澎湃新闻",
-      "time": "5月8日",
+      "time": "5月7日",
       "tag": "media"
     },
     {
@@ -142,13 +149,6 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "唐卡串联沪藏文脉,研学厚植民族情谊:日喀则唐卡传承人沪上研学绘...",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33495184",
-      "source": "澎湃新闻",
-      "time": "7月1日",
-      "tag": "media"
-    },
-    {
       "title": "上海大学",
       "url": "https://www.thepaper.cn/tag/8688",
       "source": "澎湃新闻",
@@ -156,10 +156,10 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "环球自然日2026年度全国总决选在上海大学落幕",
-      "url": "https://baijiahao.baidu.com/s?id=1873393956732764754&wfr=spider&for=pc",
-      "source": "新浪财经",
-      "time": "8月13日",
+      "title": "澎湃新闻 |大学生在基层——“四力”实践活动作品选登",
+      "url": "http://www.thepaper.cn/newsDetail_forward_157244",
+      "source": "澎湃新闻",
+      "time": "",
       "tag": "media"
     },
     {
