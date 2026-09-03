@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-03 07:08",
+  "update_time": "2026-09-03 11:42",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -100,13 +100,6 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "文商旅体展农怎么“融”?这场专场活动在奉贤庄行给出新答案",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32844987",
-      "source": "澎湃新闻",
-      "time": "3月27日",
-      "tag": "media"
-    },
-    {
       "title": "新翼说|【宝山监狱×上海大学文学院】大墙里的“疗愈读写课”,为...",
       "url": "https://www.thepaper.cn/newsDetail_forward_32957137",
       "source": "澎湃新闻",
@@ -167,6 +160,13 @@ window.SHU_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1873393956732764754&wfr=spider&for=pc",
       "source": "新浪财经",
       "time": "8月13日",
+      "tag": "media"
+    },
+    {
+      "title": "开学首日区校合作再结硕果,黄浦这两所中学正式揭牌",
+      "url": "https://baijiahao.baidu.com/s?id=1875131515957088736&wfr=spider&for=pc",
+      "source": "文汇报",
+      "time": "前天20:12",
       "tag": "media"
     },
     {
