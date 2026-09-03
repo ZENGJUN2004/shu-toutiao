@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-03 21:23",
+  "update_time": "2026-09-04 01:40",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,27 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "2026全国第十九届精密工程学术研讨会暨青年学者创新论坛成功举行",
-      "url": "https://news.shu.edu.cn/info/1012/182385.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "“先进制造国际学术交流研讨会：微纳制造中的力学、计算与测量”在上海大学顺利召开",
-      "url": "https://news.shu.edu.cn/info/1012/182415.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "2026 SHVFS招聘会现场直击｜AI赋能文娱新赛道，近五十家名企携百岗齐聚上大温影",
-      "url": "https://news.shu.edu.cn/info/1012/182425.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "市审计局杜娟副局长带队赴环上大科技园开展党建联建活动",
@@ -53,6 +32,27 @@ window.SHU_DATA = {
     {
       "title": "宝山区人大换届选举上海大学选区选举工作动员暨培训会举行",
       "url": "https://news.shu.edu.cn/info/1012/182485.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "情系援疆教师 共绘兴疆新篇——副校长于雪梅看望慰问我校援疆教师",
+      "url": "https://news.shu.edu.cn/info/1012/182515.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "汇聚机自英才，奔赴科创山海——上海大学机电工程与自动化学院2026级本科生迎新顺利完成",
+      "url": "https://news.shu.edu.cn/info/1012/182525.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "于雪梅副校长赴喀什担任SMG“行走的思政课”嘉宾并开展慰问调研",
+      "url": "https://news.shu.edu.cn/info/1012/182535.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
@@ -160,13 +160,6 @@ window.SHU_DATA = {
       "url": "http://www.thepaper.cn/newsDetail_forward_157244",
       "source": "澎湃新闻",
       "time": "",
-      "tag": "media"
-    },
-    {
-      "title": "开学首日区校合作再结硕果,黄浦这两所中学正式揭牌",
-      "url": "https://baijiahao.baidu.com/s?id=1875131515957088736&wfr=spider&for=pc",
-      "source": "文汇报",
-      "time": "前天20:12",
       "tag": "media"
     },
     {
