@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-05 13:24",
+  "update_time": "2026-09-05 18:15",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -100,6 +100,13 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
+      "title": "以青春之名,赴樱花之约!上海大学志愿者为2026上海樱花节注入温暖...",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32814875",
+      "source": "澎湃新闻",
+      "time": "3月23日",
+      "tag": "media"
+    },
+    {
       "title": "文商旅体展农怎么“融”?这场专场活动在奉贤庄行给出新答案",
       "url": "https://www.thepaper.cn/newsDetail_forward_32844987",
       "source": "澎湃新闻",
@@ -118,13 +125,6 @@ window.SHU_DATA = {
       "url": "https://www.thepaper.cn/newsDetail_forward_33026584",
       "source": "澎湃新闻",
       "time": "4月21日",
-      "tag": "media"
-    },
-    {
-      "title": "李思远|致力于刑事诉讼前沿问题研究",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33108132",
-      "source": "澎湃新闻",
-      "time": "5月7日",
       "tag": "media"
     },
     {
