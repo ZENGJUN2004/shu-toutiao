@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-07 00:02",
+  "update_time": "2026-09-07 02:56",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,43 +16,43 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "市审计局杜娟副局长带队赴环上大科技园开展党建联建活动",
-      "url": "https://news.shu.edu.cn/info/1012/182445.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "凝心聚力 护航新程——上海大学召开 2026 年本科生迎新辅导员培训会",
-      "url": "https://news.shu.edu.cn/info/1012/182475.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "宝山区人大换届选举上海大学选区选举工作动员暨培训会举行",
-      "url": "https://news.shu.edu.cn/info/1012/182485.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "情系援疆教师 共绘兴疆新篇——副校长于雪梅看望慰问我校援疆教师",
-      "url": "https://news.shu.edu.cn/info/1012/182515.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "汇聚机自英才，奔赴科创山海——上海大学机电工程与自动化学院2026级本科生迎新顺利完成",
-      "url": "https://news.shu.edu.cn/info/1012/182525.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
       "title": "于雪梅副校长赴喀什担任SMG“行走的思政课”嘉宾并开展慰问调研",
       "url": "https://news.shu.edu.cn/info/1012/182535.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "校地携手  薪火接力——上海大学附属市八中学、上海大学附属市八初级中学今天正式揭牌！",
+      "url": "https://news.shu.edu.cn/info/1012/182555.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学上海温哥华电影学院AI影视制作中心正式成立",
+      "url": "https://news.shu.edu.cn/info/1012/182575.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "文化遗产与信息管理学院2026级本科迎新系列活动顺利开展",
+      "url": "https://news.shu.edu.cn/info/1012/182585.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "贾樟柯续任上海大学上海温哥华电影学院院长，十年领航再启新程",
+      "url": "https://news.shu.edu.cn/info/1012/182605.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "电力装备具身智能联合创新中心工作年会顺利召开",
+      "url": "https://news.shu.edu.cn/info/1012/182615.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
