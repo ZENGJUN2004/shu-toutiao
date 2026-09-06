@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-06 07:38",
+  "update_time": "2026-09-06 11:46",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -163,13 +163,6 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "“数智时代的新闻传播”学术研讨会在成都锦城学院召开",
-      "url": "https://cnews.chinadaily.com.cn/a/202604/29/WS69f1b87aa310942cc49aa21d.html",
-      "source": "中国日报网",
-      "time": "4月29日",
-      "tag": "media"
-    },
-    {
       "title": "上海大学通报一院长数据存疑:启动调查程序",
       "url": "http://news.hnr.cn/djn/article/1/2054182912446177282",
       "source": "映象新闻",
@@ -177,9 +170,30 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
+      "title": "上海大学悉尼工商学院SHU-UTS硕士项目举办国际创新大赛参赛项目...",
+      "url": "https://cn.chinadaily.com.cn/a/202605/26/WS6a155959a310942cc49ae644.html",
+      "source": "中国日报网",
+      "time": "5月26日",
+      "tag": "media"
+    },
+    {
+      "title": "浙江嘉善创新“六方联动”机制,打造教科人一体化发展县域样板",
+      "url": "https://zj.chinadaily.com.cn/a/202606/01/WS6a1d183ba310942cc49af456.html",
+      "source": "中国日报网",
+      "time": "6月1日",
+      "tag": "media"
+    },
+    {
       "title": "面向人人的科学教育——2026年\"全国科技活动周\"虹口区系列活动...",
       "url": "https://caijing.chinadaily.com.cn/a/202606/01/WS6a1d2e45a310942cc49af519.html",
       "source": "中国日报网",
+      "time": "6月1日",
+      "tag": "media"
+    },
+    {
+      "title": "浙江嘉善创新探索“六方联动”机制 推动产学研用深度融合",
+      "url": "http://csj.xinhuanet.com/20260601/406ed987aebd477785b827fae47b03dc/c.html",
+      "source": "新华网",
       "time": "6月1日",
       "tag": "media"
     },
@@ -195,6 +209,20 @@ window.SHU_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1868092540337102712&wfr=spider&for=pc",
       "source": "光明网",
       "time": "6月16日",
+      "tag": "media"
+    },
+    {
+      "title": "沪万教育协作再升级!首个沪万同步AI科创实验室正式启用",
+      "url": "https://caijing.chinadaily.com.cn/a/202606/25/WS6a3cdf71a310d709c2fba1b8.html",
+      "source": "中国日报网",
+      "time": "6月25日",
+      "tag": "media"
+    },
+    {
+      "title": "镜头定格临海新韵上海大学智能视听系千年府城采风",
+      "url": "http://sh.people.com.cn/n2/2026/0713/c134768-41637565.html",
+      "source": "人民网",
+      "time": "7月13日",
       "tag": "media"
     }
   ]
