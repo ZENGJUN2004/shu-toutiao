@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-09 16:50",
+  "update_time": "2026-09-09 21:34",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -100,6 +100,13 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
+      "title": "以青春之名,赴樱花之约!上海大学志愿者为2026上海樱花节注入温暖...",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32814875",
+      "source": "澎湃新闻",
+      "time": "3月23日",
+      "tag": "media"
+    },
+    {
       "title": "文商旅体展农怎么“融”?这场专场活动在奉贤庄行给出新答案",
       "url": "https://www.thepaper.cn/newsDetail_forward_32844987",
       "source": "澎湃新闻",
@@ -139,13 +146,6 @@ window.SHU_DATA = {
       "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1118643&sid=11",
       "source": "上观",
       "time": "5月27日",
-      "tag": "media"
-    },
-    {
-      "title": "上海书展开幕在即,这些新书本届书展将首发!听听沪上各家出版社...",
-      "url": "https://baijiahao.baidu.com/s?id=1871517201234581463&wfr=spider&for=pc",
-      "source": "新闻晨报",
-      "time": "7月23日",
       "tag": "media"
     },
     {
