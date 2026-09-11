@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-11 08:58",
+  "update_time": "2026-09-11 13:49",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "于雪梅副校长赴喀什担任SMG“行走的思政课”嘉宾并开展慰问调研",
-      "url": "https://news.shu.edu.cn/info/1012/182535.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "校地携手  薪火接力——上海大学附属市八中学、上海大学附属市八初级中学今天正式揭牌！",
-      "url": "https://news.shu.edu.cn/info/1012/182555.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海大学上海温哥华电影学院AI影视制作中心正式成立",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "电力装备具身智能联合创新中心工作年会顺利召开",
       "url": "https://news.shu.edu.cn/info/1012/182615.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "深化校地协同，赋能“北转型” | 上海大学管理学院与宝山区市场监管局续签战略合作协议，共启2026年“质量月...",
+      "url": "https://news.shu.edu.cn/info/1012/182675.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "爱尔兰高级官员代表团访问上海大学",
+      "url": "https://news.shu.edu.cn/info/1012/182685.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
