@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-11 22:55",
+  "update_time": "2026-09-12 02:17",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -100,13 +100,6 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "以青春之名,赴樱花之约!上海大学志愿者为2026上海樱花节注入温暖...",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32814875",
-      "source": "澎湃新闻",
-      "time": "3月23日",
-      "tag": "media"
-    },
-    {
       "title": "文商旅体展农怎么“融”?这场专场活动在奉贤庄行给出新答案",
       "url": "https://www.thepaper.cn/newsDetail_forward_32844987",
       "source": "澎湃新闻",
@@ -125,6 +118,13 @@ window.SHU_DATA = {
       "url": "https://www.thepaper.cn/newsDetail_forward_33026584",
       "source": "澎湃新闻",
       "time": "4月21日",
+      "tag": "media"
+    },
+    {
+      "title": "【校园风】筑强科创底座,点亮未来之光 |上海首家“AI科创学习...",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33131028",
+      "source": "澎湃新闻",
+      "time": "5月8日",
       "tag": "media"
     },
     {
@@ -160,6 +160,13 @@ window.SHU_DATA = {
       "url": "http://www.thepaper.cn/newsDetail_forward_157244",
       "source": "澎湃新闻",
       "time": "",
+      "tag": "media"
+    },
+    {
+      "title": "开学首日区校合作再结硕果,黄浦这两所中学正式揭牌",
+      "url": "https://baijiahao.baidu.com/s?id=1875131515957088736&wfr=spider&for=pc",
+      "source": "文汇报",
+      "time": "9月1日",
       "tag": "media"
     },
     {
