@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-13 23:53",
+  "update_time": "2026-09-14 02:38",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -100,6 +100,13 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
+      "title": "以青春之名,赴樱花之约!上海大学志愿者为2026上海樱花节注入温暖...",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32814875",
+      "source": "澎湃新闻",
+      "time": "3月23日",
+      "tag": "media"
+    },
+    {
       "title": "文商旅体展农怎么“融”?这场专场活动在奉贤庄行给出新答案",
       "url": "https://www.thepaper.cn/newsDetail_forward_32844987",
       "source": "澎湃新闻",
@@ -118,13 +125,6 @@ window.SHU_DATA = {
       "url": "https://www.thepaper.cn/newsDetail_forward_33026584",
       "source": "澎湃新闻",
       "time": "4月21日",
-      "tag": "media"
-    },
-    {
-      "title": "【校园风】筑强科创底座,点亮未来之光 |上海首家“AI科创学习...",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33131028",
-      "source": "澎湃新闻",
-      "time": "5月8日",
       "tag": "media"
     },
     {
@@ -156,7 +156,7 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "澎湃新闻 | 大学生在基层——“四力”实践活动作品选登",
+      "title": "澎湃新闻 |大学生在基层——“四力”实践活动作品选登",
       "url": "http://www.thepaper.cn/newsDetail_forward_157244",
       "source": "澎湃新闻",
       "time": "",
