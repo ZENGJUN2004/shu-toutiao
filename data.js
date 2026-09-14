@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-15 04:48",
+  "update_time": "2026-09-15 07:44",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -195,6 +195,13 @@ window.SHU_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1868092540337102712&wfr=spider&for=pc",
       "source": "光明网",
       "time": "6月16日",
+      "tag": "media"
+    },
+    {
+      "title": "上海大学党委书记吴坚勇寄语新生:锚定时代坐标 启航创新研途...",
+      "url": "https://news.sciencenet.cn/htmlnews/2026/9/571404.shtm",
+      "source": "科学网",
+      "time": "昨天09:30",
       "tag": "media"
     }
   ]
