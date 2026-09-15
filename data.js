@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-15 22:43",
+  "update_time": "2026-09-16 02:47",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -93,10 +93,10 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "以青春之名,赴樱花之约!上海大学志愿者为2026上海樱花节注入温暖...",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32814875",
-      "source": "澎湃新闻",
-      "time": "3月23日",
+      "title": "上海大学党委书记吴坚勇寄语新生:锚定时代坐标 启航创新研途...",
+      "url": "https://news.sciencenet.cn/htmlnews/2026/9/571404.shtm",
+      "source": "科学网",
+      "time": "前天09:30",
       "tag": "media"
     },
     {
@@ -139,6 +139,13 @@ window.SHU_DATA = {
       "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1118643&sid=11",
       "source": "上观",
       "time": "5月27日",
+      "tag": "media"
+    },
+    {
+      "title": "上海书展开幕在即,这些新书本届书展将首发!听听沪上各家出版社...",
+      "url": "https://baijiahao.baidu.com/s?id=1871517201234581463&wfr=spider&for=pc",
+      "source": "新闻晨报",
+      "time": "7月23日",
       "tag": "media"
     },
     {
@@ -195,13 +202,6 @@ window.SHU_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1868092540337102712&wfr=spider&for=pc",
       "source": "光明网",
       "time": "6月16日",
-      "tag": "media"
-    },
-    {
-      "title": "上海大学党委书记吴坚勇寄语新生:锚定时代坐标 启航创新研途...",
-      "url": "https://news.sciencenet.cn/htmlnews/2026/9/571404.shtm",
-      "source": "科学网",
-      "time": "昨天09:30",
       "tag": "media"
     }
   ]
