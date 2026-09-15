@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-15 07:44",
+  "update_time": "2026-09-15 12:08",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,43 +16,43 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "上海大学上海温哥华电影学院AI影视制作中心正式成立",
-      "url": "https://news.shu.edu.cn/info/1012/182575.htm",
+      "title": "三明学院赴上海大学交流学生见面会顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/182825.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "文化遗产与信息管理学院2026级本科迎新系列活动顺利开展",
-      "url": "https://news.shu.edu.cn/info/1012/182585.htm",
+      "title": "上海电影学院召开中层干部培训会",
+      "url": "https://news.shu.edu.cn/info/1012/182835.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "贾樟柯续任上海大学上海温哥华电影学院院长，十年领航再启新程",
-      "url": "https://news.shu.edu.cn/info/1012/182605.htm",
+      "title": "上海大学上海电影学院召开秋季学期全院教职工大会",
+      "url": "https://news.shu.edu.cn/info/1012/182845.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "电力装备具身智能联合创新中心工作年会顺利召开",
-      "url": "https://news.shu.edu.cn/info/1012/182615.htm",
+      "title": "智联海天科创铸防：上海大学亮相第二届全国青少年智能无人系统应用大赛",
+      "url": "https://news.shu.edu.cn/info/1012/182855.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "深化校地协同，赋能“北转型” | 上海大学管理学院与宝山区市场监管局续签战略合作协议，共启2026年“质量月...",
-      "url": "https://news.shu.edu.cn/info/1012/182675.htm",
+      "title": "机自学院召开2026-2027学年秋季学期教职工首日工作会议",
+      "url": "https://news.shu.edu.cn/info/1012/182865.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "爱尔兰高级官员代表团访问上海大学",
-      "url": "https://news.shu.edu.cn/info/1012/182685.htm",
+      "title": "钱伟长学院举行2026-2027学年秋季学期首日教育暨2026级新生开学典礼",
+      "url": "https://news.shu.edu.cn/info/1012/182875.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
