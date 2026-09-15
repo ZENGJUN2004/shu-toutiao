@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-15 12:08",
+  "update_time": "2026-09-15 17:51",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "三明学院赴上海大学交流学生见面会顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/182825.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海电影学院召开中层干部培训会",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "钱伟长学院举行2026-2027学年秋季学期首日教育暨2026级新生开学典礼",
       "url": "https://news.shu.edu.cn/info/1012/182875.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学三刊入选“世界一流科技期刊目录”",
+      "url": "https://news.shu.edu.cn/info/1012/182885.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
