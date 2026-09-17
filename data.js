@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-17 09:11",
+  "update_time": "2026-09-17 15:23",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,43 +16,43 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "上海电影学院召开中层干部培训会",
-      "url": "https://news.shu.edu.cn/info/1012/182835.htm",
+      "title": "凝心聚力开新局，实干笃行谱新篇——外国语学院召开2026年秋季学期教职工大会",
+      "url": "https://news.shu.edu.cn/info/1012/182905.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "上海大学上海电影学院召开秋季学期全院教职工大会",
-      "url": "https://news.shu.edu.cn/info/1012/182845.htm",
+      "title": "上海美术学院潘耀昌、章德明两位教授主编教材荣获第二届全国教材建设奖两项",
+      "url": "https://news.shu.edu.cn/info/1012/182915.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "智联海天科创铸防：上海大学亮相第二届全国青少年智能无人系统应用大赛",
-      "url": "https://news.shu.edu.cn/info/1012/182855.htm",
+      "title": "“习近平党建思想与思政课建设内涵式发展”理论研讨会顺利举办",
+      "url": "https://news.shu.edu.cn/info/1012/182925.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "机自学院召开2026-2027学年秋季学期教职工首日工作会议",
-      "url": "https://news.shu.edu.cn/info/1012/182865.htm",
+      "title": "马克思主义学院2026级新生开学典礼暨首日教育顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/182935.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "钱伟长学院举行2026-2027学年秋季学期首日教育暨2026级新生开学典礼",
-      "url": "https://news.shu.edu.cn/info/1012/182875.htm",
+      "title": "文化遗产与信息管理学院2026年秋季学期首次全体教职工大会顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/182945.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
     },
     {
-      "title": "上海大学三刊入选“世界一流科技期刊目录”",
-      "url": "https://news.shu.edu.cn/info/1012/182885.htm",
+      "title": "法学院召开2026-2027新学年教工大会部署安全和发展工作",
+      "url": "https://news.shu.edu.cn/info/1012/182955.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
