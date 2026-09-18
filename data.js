@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-18 08:05",
+  "update_time": "2026-09-18 13:39",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "马克思主义学院2026级新生开学典礼暨首日教育顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/182935.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "文化遗产与信息管理学院2026年秋季学期首次全体教职工大会顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/182945.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "法学院召开2026-2027新学年教工大会部署安全和发展工作",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "“智启星火·科创逐梦” 2026青少年高校科学营上海大学星火馆常态营顺利开营",
       "url": "https://news.shu.edu.cn/info/1012/183075.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "理学院2025级本科分流新生见面会顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/183095.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "国际教育学院召开2026-2027学年秋季学期全院教职工大会",
+      "url": "https://news.shu.edu.cn/info/1012/183105.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
