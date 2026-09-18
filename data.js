@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-18 18:51",
+  "update_time": "2026-09-18 22:50",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -93,13 +93,6 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "...协同治理破解转化难题,加快人工智能药物设计丨媒体聚焦-科技日报",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33187578",
-      "source": "澎湃新闻",
-      "time": "5月15日",
-      "tag": "media"
-    },
-    {
       "title": "以青春之名,赴樱花之约!上海大学志愿者为2026上海樱花节注入温暖...",
       "url": "https://www.thepaper.cn/newsDetail_forward_32814875",
       "source": "澎湃新闻",
@@ -170,10 +163,10 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "上海大学悉尼工商学院SHU-UTS硕士项目举办国际创新大赛参赛项目...",
-      "url": "https://cn.chinadaily.com.cn/a/202605/26/WS6a155959a310942cc49ae644.html",
+      "title": "“数智时代的新闻传播”学术研讨会在成都锦城学院召开",
+      "url": "https://cnews.chinadaily.com.cn/a/202604/29/WS69f1b87aa310942cc49aa21d.html",
       "source": "中国日报网",
-      "time": "5月26日",
+      "time": "4月29日",
       "tag": "media"
     },
     {
@@ -191,13 +184,6 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "浙江嘉善创新探索“六方联动”机制 推动产学研用深度融合",
-      "url": "http://csj.xinhuanet.com/20260601/406ed987aebd477785b827fae47b03dc/c.html",
-      "source": "新华网",
-      "time": "6月1日",
-      "tag": "media"
-    },
-    {
       "title": "联合国青年办公室青年心理健康与幸福感计划启动在沪举行",
       "url": "https://cn.chinadaily.com.cn/a/202606/15/WS6a2f9c0da310d709c2fb80f7.html",
       "source": "中国日报网",
@@ -209,13 +195,6 @@ window.SHU_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1868092540337102712&wfr=spider&for=pc",
       "source": "光明网",
       "time": "6月16日",
-      "tag": "media"
-    },
-    {
-      "title": "沪万教育协作再升级!首个沪万同步AI科创实验室正式启用",
-      "url": "https://caijing.chinadaily.com.cn/a/202606/25/WS6a3cdf71a310d709c2fba1b8.html",
-      "source": "中国日报网",
-      "time": "6月25日",
       "tag": "media"
     },
     {
