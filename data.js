@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-20 22:39",
+  "update_time": "2026-09-21 02:07",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -90,6 +90,13 @@ window.SHU_DATA = {
       "url": "http://www.chinahightech.com/chuangye/2026-05/05/content_511827.html",
       "source": "中国高新网",
       "time": "5月5日",
+      "tag": "media"
+    },
+    {
+      "title": "...协同治理破解转化难题,加快人工智能药物设计丨媒体聚焦-科技日报",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33187578",
+      "source": "澎湃新闻",
+      "time": "5月15日",
       "tag": "media"
     },
     {
@@ -195,13 +202,6 @@ window.SHU_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1868092540337102712&wfr=spider&for=pc",
       "source": "光明网",
       "time": "6月16日",
-      "tag": "media"
-    },
-    {
-      "title": "镜头定格临海新韵上海大学智能视听系千年府城采风",
-      "url": "http://sh.people.com.cn/n2/2026/0713/c134768-41637565.html",
-      "source": "人民网",
-      "time": "7月13日",
       "tag": "media"
     }
   ]
