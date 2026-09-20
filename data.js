@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-20 08:49",
+  "update_time": "2026-09-20 13:53",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -156,7 +156,7 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "澎湃新闻 |大学生在基层——“四力”实践活动作品选登",
+      "title": "澎湃新闻 | 大学生在基层——“四力”实践活动作品选登",
       "url": "http://www.thepaper.cn/newsDetail_forward_157244",
       "source": "澎湃新闻",
       "time": "",
