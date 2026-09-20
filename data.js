@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-20 13:53",
+  "update_time": "2026-09-20 18:57",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,27 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "法学院召开2026-2027新学年教工大会部署安全和发展工作",
-      "url": "https://news.shu.edu.cn/info/1012/182955.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "为芯而来，如约而至！微电子学院2026级新生开学第一课顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/183055.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "拥抱AI时代，启航卓越征程——上海大学2026级新生“院士第一课”顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/183065.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "“智启星火·科创逐梦” 2026青少年高校科学营上海大学星火馆常态营顺利开营",
@@ -53,6 +32,27 @@ window.SHU_DATA = {
     {
       "title": "国际教育学院召开2026-2027学年秋季学期全院教职工大会",
       "url": "https://news.shu.edu.cn/info/1012/183105.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "我校举办智能制造协同创新与数智升维高级研修班",
+      "url": "https://news.shu.edu.cn/info/1012/183155.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "绷紧安全弦 筑牢防护网——上海大学召开2026年秋季安全工作会议",
+      "url": "https://news.shu.edu.cn/info/1012/183165.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "逐光启序，智赴新程——上海大学计算机工程与科学学院2026级新生开学典礼暨院长第一课顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/183175.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
@@ -156,7 +156,7 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "澎湃新闻 | 大学生在基层——“四力”实践活动作品选登",
+      "title": "澎湃新闻 |大学生在基层——“四力”实践活动作品选登",
       "url": "http://www.thepaper.cn/newsDetail_forward_157244",
       "source": "澎湃新闻",
       "time": "",
