@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-21 12:43",
+  "update_time": "2026-09-21 18:30",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,27 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "“智启星火·科创逐梦” 2026青少年高校科学营上海大学星火馆常态营顺利开营",
-      "url": "https://news.shu.edu.cn/info/1012/183075.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "理学院2025级本科分流新生见面会顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/183095.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "国际教育学院召开2026-2027学年秋季学期全院教职工大会",
-      "url": "https://news.shu.edu.cn/info/1012/183105.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "我校举办智能制造协同创新与数智升维高级研修班",
@@ -53,6 +32,27 @@ window.SHU_DATA = {
     {
       "title": "逐光启序，智赴新程——上海大学计算机工程与科学学院2026级新生开学典礼暨院长第一课顺利举行",
       "url": "https://news.shu.edu.cn/info/1012/183175.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "奖助励学启新程 校企协同育英才——理学院数学系举行2026年阳阳教育基金颁奖典礼暨新致班开班仪式",
+      "url": "https://news.shu.edu.cn/info/1012/183225.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "青春奋进正当时 尚法明理启新程——上海大学法学院2026级新生开学典礼暨导师见面会顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/183245.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上大温影主办！上海青浦国际青年影像季颁奖礼暨展映活动顺利举行，五部“青”味拉满的短片首映",
+      "url": "https://news.shu.edu.cn/info/1012/183255.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
@@ -100,13 +100,6 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "以青春之名,赴樱花之约!上海大学志愿者为2026上海樱花节注入温暖...",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32814875",
-      "source": "澎湃新闻",
-      "time": "3月23日",
-      "tag": "media"
-    },
-    {
       "title": "文商旅体展农怎么“融”?这场专场活动在奉贤庄行给出新答案",
       "url": "https://www.thepaper.cn/newsDetail_forward_32844987",
       "source": "澎湃新闻",
@@ -132,6 +125,13 @@ window.SHU_DATA = {
       "url": "https://www.thepaper.cn/newsDetail_forward_33108132",
       "source": "澎湃新闻",
       "time": "5月7日",
+      "tag": "media"
+    },
+    {
+      "title": "【校园风】筑强科创底座,点亮未来之光 |上海首家“AI科创学习...",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33131028",
+      "source": "澎湃新闻",
+      "time": "5月8日",
       "tag": "media"
     },
     {
