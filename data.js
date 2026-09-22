@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-22 07:56",
+  "update_time": "2026-09-22 12:18",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,48 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "我校举办智能制造协同创新与数智升维高级研修班",
-      "url": "https://news.shu.edu.cn/info/1012/183155.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "绷紧安全弦 筑牢防护网——上海大学召开2026年秋季安全工作会议",
-      "url": "https://news.shu.edu.cn/info/1012/183165.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "逐光启序，智赴新程——上海大学计算机工程与科学学院2026级新生开学典礼暨院长第一课顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/183175.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "奖助励学启新程 校企协同育英才——理学院数学系举行2026年阳阳教育基金颁奖典礼暨新致班开班仪式",
-      "url": "https://news.shu.edu.cn/info/1012/183225.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "青春奋进正当时 尚法明理启新程——上海大学法学院2026级新生开学典礼暨导师见面会顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/183245.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上大温影主办！上海青浦国际青年影像季颁奖礼暨展映活动顺利举行，五部“青”味拉满的短片首映",
-      "url": "https://news.shu.edu.cn/info/1012/183255.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "上海艺指委2025年度工作会议在上海大学举行—新闻—科学网",
