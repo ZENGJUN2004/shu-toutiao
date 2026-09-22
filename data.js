@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-22 12:18",
+  "update_time": "2026-09-22 17:42",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,6 +14,48 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
+    },
+    {
+      "title": "青春奋进正当时 尚法明理启新程——上海大学法学院2026级新生开学典礼暨导师见面会顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/183245.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上大温影主办！上海青浦国际青年影像季颁奖礼暨展映活动顺利举行，五部“青”味拉满的短片首映",
+      "url": "https://news.shu.edu.cn/info/1012/183255.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "深化政校企对接  共促科创人才培养——通信与信息工程学院赴宝山区政协开展政校企交流座谈",
+      "url": "https://news.shu.edu.cn/info/1012/183265.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "相聚新起点，共筑青春梦——理学院2026级本科新生见面会顺利举行",
+      "url": "https://news.shu.edu.cn/info/1012/183275.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "在党的诞生地触摸初心，“初心印迹”沉浸式教学走进中共一大纪念馆",
+      "url": "https://news.shu.edu.cn/info/1012/183295.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "法学院“数智知识产权发展基金”捐赠仪式举行",
+      "url": "https://news.shu.edu.cn/info/1012/183305.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
     },
     {
       "title": "上海艺指委2025年度工作会议在上海大学举行—新闻—科学网",
