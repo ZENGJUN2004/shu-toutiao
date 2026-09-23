@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-23 08:09",
+  "update_time": "2026-09-23 13:39",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,43 +16,43 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "青春奋进正当时 尚法明理启新程——上海大学法学院2026级新生开学典礼暨导师见面会顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/183245.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上大温影主办！上海青浦国际青年影像季颁奖礼暨展映活动顺利举行，五部“青”味拉满的短片首映",
-      "url": "https://news.shu.edu.cn/info/1012/183255.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "深化政校企对接  共促科创人才培养——通信与信息工程学院赴宝山区政协开展政校企交流座谈",
-      "url": "https://news.shu.edu.cn/info/1012/183265.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "相聚新起点，共筑青春梦——理学院2026级本科新生见面会顺利举行",
-      "url": "https://news.shu.edu.cn/info/1012/183275.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "在党的诞生地触摸初心，“初心印迹”沉浸式教学走进中共一大纪念馆",
-      "url": "https://news.shu.edu.cn/info/1012/183295.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
       "title": "法学院“数智知识产权发展基金”捐赠仪式举行",
       "url": "https://news.shu.edu.cn/info/1012/183305.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "“聚焦重点专栏建设·构建中国自主知识体系：学术期刊高质量发展研讨会”在上海大学举行",
+      "url": "https://news.shu.edu.cn/info/1012/183325.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海美术学院召开2026年秋季中层干部工作会议",
+      "url": "https://news.shu.edu.cn/info/1012/183335.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "“法护科创·知识产权巡回审判进校园暨以案释法活动”在上海大学法学院举行",
+      "url": "https://news.shu.edu.cn/info/1012/183345.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "第八期临港新片区干部专业化能力提升培训顺利启动",
+      "url": "https://news.shu.edu.cn/info/1012/183355.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "新闻传播学院召开树立和践行正确政绩观学习教育总结会",
+      "url": "https://news.shu.edu.cn/info/1012/183365.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
@@ -90,13 +90,6 @@ window.SHU_DATA = {
       "url": "http://www.chinahightech.com/chuangye/2026-05/05/content_511827.html",
       "source": "中国高新网",
       "time": "5月5日",
-      "tag": "media"
-    },
-    {
-      "title": "上海大学国家大学科技园与永兴汇园区共筑静安科创“生态圈”",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32806785",
-      "source": "澎湃新闻",
-      "time": "3月21日",
       "tag": "media"
     },
     {
@@ -160,6 +153,13 @@ window.SHU_DATA = {
       "url": "http://www.thepaper.cn/newsDetail_forward_157244",
       "source": "澎湃新闻",
       "time": "",
+      "tag": "media"
+    },
+    {
+      "title": "“‘朝花’七十周年文学周”精彩继续,三场秋夜讲座,三位大咖到场",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34114894",
+      "source": "澎湃新闻",
+      "time": "前天12:43",
       "tag": "media"
     },
     {
