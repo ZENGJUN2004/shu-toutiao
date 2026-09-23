@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-23 13:39",
+  "update_time": "2026-09-23 19:06",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,27 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "法学院“数智知识产权发展基金”捐赠仪式举行",
-      "url": "https://news.shu.edu.cn/info/1012/183305.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "“聚焦重点专栏建设·构建中国自主知识体系：学术期刊高质量发展研讨会”在上海大学举行",
-      "url": "https://news.shu.edu.cn/info/1012/183325.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海美术学院召开2026年秋季中层干部工作会议",
-      "url": "https://news.shu.edu.cn/info/1012/183335.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "“法护科创·知识产权巡回审判进校园暨以案释法活动”在上海大学法学院举行",
@@ -53,6 +32,27 @@ window.SHU_DATA = {
     {
       "title": "新闻传播学院召开树立和践行正确政绩观学习教育总结会",
       "url": "https://news.shu.edu.cn/info/1012/183365.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "党委巡察工作领导小组召开2026年第3次会议",
+      "url": "https://news.shu.edu.cn/info/1012/183375.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "文化遗产与信息管理学院召开树立和践行正确政绩观学习教育总结会",
+      "url": "https://news.shu.edu.cn/info/1012/183385.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "筑梦蓝天 使命必达——继续教育学院举办\"业界导师引领工程\"之\"劳模工匠课堂\"暨2026-2027学年秋季学期首日教...",
+      "url": "https://news.shu.edu.cn/info/1012/183395.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
@@ -90,6 +90,13 @@ window.SHU_DATA = {
       "url": "http://www.chinahightech.com/chuangye/2026-05/05/content_511827.html",
       "source": "中国高新网",
       "time": "5月5日",
+      "tag": "media"
+    },
+    {
+      "title": "上海大学国家大学科技园与永兴汇园区共筑静安科创“生态圈”",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32806785",
+      "source": "澎湃新闻",
+      "time": "3月21日",
       "tag": "media"
     },
     {
@@ -153,13 +160,6 @@ window.SHU_DATA = {
       "url": "http://www.thepaper.cn/newsDetail_forward_157244",
       "source": "澎湃新闻",
       "time": "",
-      "tag": "media"
-    },
-    {
-      "title": "“‘朝花’七十周年文学周”精彩继续,三场秋夜讲座,三位大咖到场",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34114894",
-      "source": "澎湃新闻",
-      "time": "前天12:43",
       "tag": "media"
     },
     {
