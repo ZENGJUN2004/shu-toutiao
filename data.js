@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-24 11:57",
+  "update_time": "2026-09-24 17:12",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "“法护科创·知识产权巡回审判进校园暨以案释法活动”在上海大学法学院举行",
-      "url": "https://news.shu.edu.cn/info/1012/183345.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "第八期临港新片区干部专业化能力提升培训顺利启动",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "筑梦蓝天 使命必达——继续教育学院举办\"业界导师引领工程\"之\"劳模工匠课堂\"暨2026-2027学年秋季学期首日教...",
       "url": "https://news.shu.edu.cn/info/1012/183395.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "法学院党委召开树立和践行正确政绩观学习教育总结会暨师生党支部书记工作例会",
+      "url": "https://news.shu.edu.cn/info/1012/183415.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
