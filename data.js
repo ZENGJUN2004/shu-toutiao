@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-24 17:12",
+  "update_time": "2026-09-24 22:44",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -90,13 +90,6 @@ window.SHU_DATA = {
       "url": "http://www.chinahightech.com/chuangye/2026-05/05/content_511827.html",
       "source": "中国高新网",
       "time": "5月5日",
-      "tag": "media"
-    },
-    {
-      "title": "上海大学国家大学科技园与永兴汇园区共筑静安科创“生态圈”",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32806785",
-      "source": "澎湃新闻",
-      "time": "3月21日",
       "tag": "media"
     },
     {
@@ -202,6 +195,13 @@ window.SHU_DATA = {
       "url": "https://caijing.chinadaily.com.cn/a/202607/17/WS6a59f2fca310d709c2fbe2cd.html",
       "source": "中国日报网",
       "time": "7月17日",
+      "tag": "media"
+    },
+    {
+      "title": "木刻讲习会旧址上新展了!_澎湃号·政务_澎湃新闻-The Paper",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34131715",
+      "source": "澎湃新闻",
+      "time": "昨天12:30",
       "tag": "media"
     }
   ]
