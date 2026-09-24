@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-24 22:44",
+  "update_time": "2026-09-25 02:53",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -86,10 +86,10 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "赋能青少年科创成长上海首个AI科创学习中心正式落成",
-      "url": "http://www.chinahightech.com/chuangye/2026-05/05/content_511827.html",
-      "source": "中国高新网",
-      "time": "5月5日",
+      "title": "...协同治理破解转化难题,加快人工智能药物设计丨媒体聚焦-科技日报",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33187578",
+      "source": "澎湃新闻",
+      "time": "5月15日",
       "tag": "media"
     },
     {
@@ -149,6 +149,13 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
+      "title": "木刻讲习会旧址上新展了!_澎湃号·政务_澎湃新闻-The Paper",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34131715",
+      "source": "澎湃新闻",
+      "time": "前天12:30",
+      "tag": "media"
+    },
+    {
       "title": "“数智时代的新闻传播”学术研讨会在成都锦城学院召开",
       "url": "https://cnews.chinadaily.com.cn/a/202604/29/WS69f1b87aa310942cc49aa21d.html",
       "source": "中国日报网",
@@ -156,10 +163,10 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "浙江嘉善创新“六方联动”机制,打造教科人一体化发展县域样板",
-      "url": "https://zj.chinadaily.com.cn/a/202606/01/WS6a1d183ba310942cc49af456.html",
+      "title": "上海大学悉尼工商学院SHU-UTS硕士项目举办国际创新大赛参赛项目...",
+      "url": "https://cn.chinadaily.com.cn/a/202605/26/WS6a155959a310942cc49ae644.html",
       "source": "中国日报网",
-      "time": "6月1日",
+      "time": "5月26日",
       "tag": "media"
     },
     {
@@ -167,6 +174,20 @@ window.SHU_DATA = {
       "url": "https://caijing.chinadaily.com.cn/a/202606/01/WS6a1d2e45a310942cc49af519.html",
       "source": "中国日报网",
       "time": "6月1日",
+      "tag": "media"
+    },
+    {
+      "title": "浙江嘉善创新探索“六方联动”机制 推动产学研用深度融合",
+      "url": "http://csj.xinhuanet.com/20260601/406ed987aebd477785b827fae47b03dc/c.html",
+      "source": "新华网",
+      "time": "6月1日",
+      "tag": "media"
+    },
+    {
+      "title": "第六届“闽乐芳华杯”民族器乐大赛颁奖音乐会在厦门落幕",
+      "url": "https://cnews.chinadaily.com.cn/a/202606/10/WS6a290bfca310942cc49b1025.html",
+      "source": "中国日报网",
+      "time": "6月10日",
       "tag": "media"
     },
     {
@@ -191,17 +212,17 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
+      "title": "“第三届博物馆传播学术工作坊”在中国传媒大学举办",
+      "url": "http://www.xinhuanet.com/ci/20260712/f691c814e76c4f6ea820fd84fc271fb4/c.html",
+      "source": "新华网",
+      "time": "7月12日",
+      "tag": "media"
+    },
+    {
       "title": "名校同款,海尔清凉护航开学|海尔商用空调护航教育行业智慧迎新",
       "url": "https://caijing.chinadaily.com.cn/a/202607/17/WS6a59f2fca310d709c2fbe2cd.html",
       "source": "中国日报网",
       "time": "7月17日",
-      "tag": "media"
-    },
-    {
-      "title": "木刻讲习会旧址上新展了!_澎湃号·政务_澎湃新闻-The Paper",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34131715",
-      "source": "澎湃新闻",
-      "time": "昨天12:30",
       "tag": "media"
     }
   ]
