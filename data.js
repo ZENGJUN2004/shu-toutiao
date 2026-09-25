@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-25 21:25",
+  "update_time": "2026-09-26 02:20",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -146,13 +146,6 @@ window.SHU_DATA = {
       "url": "http://www.thepaper.cn/newsDetail_forward_157244",
       "source": "澎湃新闻",
       "time": "",
-      "tag": "media"
-    },
-    {
-      "title": "木刻讲习会旧址上新展了!_澎湃号·政务_澎湃新闻-The Paper",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34131715",
-      "source": "澎湃新闻",
-      "time": "前天12:30",
       "tag": "media"
     },
     {
