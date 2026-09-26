@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-27 00:57",
+  "update_time": "2026-09-27 03:40",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -156,17 +156,17 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "“数智时代的新闻传播”学术研讨会在成都锦城学院召开",
-      "url": "https://cnews.chinadaily.com.cn/a/202604/29/WS69f1b87aa310942cc49aa21d.html",
-      "source": "中国日报网",
-      "time": "4月29日",
-      "tag": "media"
-    },
-    {
       "title": "上海大学悉尼工商学院SHU-UTS硕士项目举办国际创新大赛参赛项目...",
       "url": "https://cn.chinadaily.com.cn/a/202605/26/WS6a155959a310942cc49ae644.html",
       "source": "中国日报网",
       "time": "5月26日",
+      "tag": "media"
+    },
+    {
+      "title": "浙江嘉善创新“六方联动”机制,打造教科人一体化发展县域样板",
+      "url": "https://zj.chinadaily.com.cn/a/202606/01/WS6a1d183ba310942cc49af456.html",
+      "source": "中国日报网",
+      "time": "6月1日",
       "tag": "media"
     },
     {
