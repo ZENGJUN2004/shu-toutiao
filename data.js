@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-28 08:25",
+  "update_time": "2026-09-28 14:29",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "第八期临港新片区干部专业化能力提升培训顺利启动",
-      "url": "https://news.shu.edu.cn/info/1012/183355.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "新闻传播学院召开树立和践行正确政绩观学习教育总结会",
-      "url": "https://news.shu.edu.cn/info/1012/183365.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "党委巡察工作领导小组召开2026年第3次会议",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "法学院党委召开树立和践行正确政绩观学习教育总结会暨师生党支部书记工作例会",
       "url": "https://news.shu.edu.cn/info/1012/183415.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "中欧工程技术学院召开树立和践行正确政绩观学习教育总结会",
+      "url": "https://news.shu.edu.cn/info/1012/183445.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "于雪梅副校长应邀出席2026亚洲大学数字化大会并作交流发言",
+      "url": "https://news.shu.edu.cn/info/1012/183455.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
@@ -90,13 +90,6 @@ window.SHU_DATA = {
       "url": "https://www.thepaper.cn/newsDetail_forward_33187578",
       "source": "澎湃新闻",
       "time": "5月15日",
-      "tag": "media"
-    },
-    {
-      "title": "历史上的今天|1922年3月18日,上海大学成立",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32773330",
-      "source": "澎湃新闻",
-      "time": "3月18日",
       "tag": "media"
     },
     {
