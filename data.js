@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-28 23:07",
+  "update_time": "2026-09-29 05:41",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -156,13 +156,6 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "上海大学悉尼工商学院SHU-UTS硕士项目举办国际创新大赛参赛项目...",
-      "url": "https://cn.chinadaily.com.cn/a/202605/26/WS6a155959a310942cc49ae644.html",
-      "source": "中国日报网",
-      "time": "5月26日",
-      "tag": "media"
-    },
-    {
       "title": "浙江嘉善创新“六方联动”机制,打造教科人一体化发展县域样板",
       "url": "https://zj.chinadaily.com.cn/a/202606/01/WS6a1d183ba310942cc49af456.html",
       "source": "中国日报网",
@@ -223,6 +216,13 @@ window.SHU_DATA = {
       "url": "https://caijing.chinadaily.com.cn/a/202607/17/WS6a59f2fca310d709c2fbe2cd.html",
       "source": "中国日报网",
       "time": "7月17日",
+      "tag": "media"
+    },
+    {
+      "title": "潮涌祥符终入海,科创筑梦正当时 ——浙江财经大学法学院赴嘉善...",
+      "url": "https://cn.chinadaily.com.cn/a/202607/20/WS6a5dcae6a310d709c2fbe7b9.html",
+      "source": "中国日报网",
+      "time": "7月20日",
       "tag": "media"
     }
   ]
