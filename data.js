@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-28 14:29",
+  "update_time": "2026-09-28 23:07",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -93,13 +93,6 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "上海大学国家大学科技园与永兴汇园区共筑静安科创“生态圈”",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32806785",
-      "source": "澎湃新闻",
-      "time": "3月21日",
-      "tag": "media"
-    },
-    {
       "title": "以青春之名,赴樱花之约!上海大学志愿者为2026上海樱花节注入温暖...",
       "url": "https://www.thepaper.cn/newsDetail_forward_32814875",
       "source": "澎湃新闻",
@@ -152,6 +145,13 @@ window.SHU_DATA = {
       "title": "澎湃新闻 |大学生在基层——“四力”实践活动作品选登",
       "url": "http://www.thepaper.cn/newsDetail_forward_157244",
       "source": "澎湃新闻",
+      "time": "",
+      "tag": "media"
+    },
+    {
+      "title": "上观新闻-站上海,观天下",
+      "url": "https://www.jfdaily.com/staticsg/home",
+      "source": "上观",
       "time": "",
       "tag": "media"
     },
