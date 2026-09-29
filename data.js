@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-29 16:06",
+  "update_time": "2026-09-29 23:32",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -90,6 +90,13 @@ window.SHU_DATA = {
       "url": "https://www.thepaper.cn/newsDetail_forward_33187578",
       "source": "澎湃新闻",
       "time": "5月15日",
+      "tag": "media"
+    },
+    {
+      "title": "新翼说|【宝山监狱×上海大学文学院】大墙里的“疗愈读写课”,为...",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32957137",
+      "source": "澎湃新闻",
+      "time": "4月12日",
       "tag": "media"
     },
     {
