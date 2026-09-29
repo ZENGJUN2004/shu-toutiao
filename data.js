@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-29 23:32",
+  "update_time": "2026-09-30 04:33",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -93,13 +93,6 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "新翼说|【宝山监狱×上海大学文学院】大墙里的“疗愈读写课”,为...",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32957137",
-      "source": "澎湃新闻",
-      "time": "4月12日",
-      "tag": "media"
-    },
-    {
       "title": "2026金鸡艺术电影展在上海举行",
       "url": "https://www.thepaper.cn/newsDetail_forward_33026584",
       "source": "澎湃新闻",
@@ -135,17 +128,17 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "青春焕彩,花YOUNG出发!28项重磅活动拉开杨浦金秋文旅大幕",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34161899",
-      "source": "澎湃新闻",
-      "time": "前天21:54",
-      "tag": "media"
-    },
-    {
       "title": "上观新闻-站上海,观天下",
       "url": "https://www.jfdaily.com/staticsg/home",
       "source": "上观",
       "time": "",
+      "tag": "media"
+    },
+    {
+      "title": "探索未来人才培养新路径,上海大学科学与艺术实训中心投入使用",
+      "url": "https://baijiahao.baidu.com/s?id=1877510220203563770&wfr=spider&for=pc",
+      "source": "文汇报",
+      "time": "前天02:21",
       "tag": "media"
     },
     {
@@ -216,13 +209,6 @@ window.SHU_DATA = {
       "url": "https://cn.chinadaily.com.cn/a/202607/20/WS6a5dcae6a310d709c2fbe7b9.html",
       "source": "中国日报网",
       "time": "7月20日",
-      "tag": "media"
-    },
-    {
-      "title": "探索未来人才培养新路径,上海大学科学与艺术实训中心投入使用",
-      "url": "https://baijiahao.baidu.com/s?id=1877510220203563770&wfr=spider&for=pc",
-      "source": "文汇报",
-      "time": "昨天02:21",
       "tag": "media"
     }
   ]
