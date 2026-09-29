@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-29 09:36",
+  "update_time": "2026-09-29 16:06",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,27 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "党委巡察工作领导小组召开2026年第3次会议",
-      "url": "https://news.shu.edu.cn/info/1012/183375.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "文化遗产与信息管理学院召开树立和践行正确政绩观学习教育总结会",
-      "url": "https://news.shu.edu.cn/info/1012/183385.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "筑梦蓝天 使命必达——继续教育学院举办\"业界导师引领工程\"之\"劳模工匠课堂\"暨2026-2027学年秋季学期首日教...",
-      "url": "https://news.shu.edu.cn/info/1012/183395.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "法学院党委召开树立和践行正确政绩观学习教育总结会暨师生党支部书记工作例会",
@@ -53,6 +32,27 @@ window.SHU_DATA = {
     {
       "title": "于雪梅副校长应邀出席2026亚洲大学数字化大会并作交流发言",
       "url": "https://news.shu.edu.cn/info/1012/183455.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "中国民主同盟上海大学第八次代表大会召开",
+      "url": "https://news.shu.edu.cn/info/1012/183515.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海温哥华电影学院教学案例入选联合国教科文组织",
+      "url": "https://news.shu.edu.cn/info/1012/183545.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学召开2026年“敬老月”活动协调会",
+      "url": "https://news.shu.edu.cn/info/1012/183505.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
