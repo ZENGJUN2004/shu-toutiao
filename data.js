@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-30 21:27",
+  "update_time": "2026-10-01 02:56",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -128,24 +128,17 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
+      "title": "唐卡串联沪藏文脉,研学厚植民族情谊:日喀则唐卡传承人沪上研学绘...",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33495184",
+      "source": "澎湃新闻",
+      "time": "7月1日",
+      "tag": "media"
+    },
+    {
       "title": "澎湃新闻 |大学生在基层——“四力”实践活动作品选登",
       "url": "http://www.thepaper.cn/newsDetail_forward_157244",
       "source": "澎湃新闻",
       "time": "",
-      "tag": "media"
-    },
-    {
-      "title": "上观新闻-站上海,观天下",
-      "url": "https://www.jfdaily.com/staticsg/home",
-      "source": "上观",
-      "time": "",
-      "tag": "media"
-    },
-    {
-      "title": "探索未来人才培养新路径,上海大学科学与艺术实训中心投入使用",
-      "url": "https://baijiahao.baidu.com/s?id=1877510220203563770&wfr=spider&for=pc",
-      "source": "文汇报",
-      "time": "前天02:21",
       "tag": "media"
     },
     {
