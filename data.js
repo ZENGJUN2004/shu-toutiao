@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-09-30 14:26",
+  "update_time": "2026-09-30 21:27",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,20 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "法学院党委召开树立和践行正确政绩观学习教育总结会暨师生党支部书记工作例会",
-      "url": "https://news.shu.edu.cn/info/1012/183415.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "中欧工程技术学院召开树立和践行正确政绩观学习教育总结会",
-      "url": "https://news.shu.edu.cn/info/1012/183445.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "于雪梅副校长应邀出席2026亚洲大学数字化大会并作交流发言",
@@ -53,6 +39,20 @@ window.SHU_DATA = {
     {
       "title": "上海大学召开2026年“敬老月”活动协调会",
       "url": "https://news.shu.edu.cn/info/1012/183505.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "富春江畔学界业界共聚  研学旅游探索高质量发展新程",
+      "url": "https://news.shu.edu.cn/info/1012/183605.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "于雪梅副校长一行赴中微公司调研交流",
+      "url": "https://news.shu.edu.cn/info/1012/183585.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
