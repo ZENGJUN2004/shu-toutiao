@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-10-01 02:56",
+  "update_time": "2026-10-01 06:53",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -86,10 +86,10 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "...协同治理破解转化难题,加快人工智能药物设计丨媒体聚焦-科技日报",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33187578",
+      "title": "文商旅体展农怎么“融”?这场专场活动在奉贤庄行给出新答案",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32844987",
       "source": "澎湃新闻",
-      "time": "5月15日",
+      "time": "3月27日",
       "tag": "media"
     },
     {
@@ -125,13 +125,6 @@ window.SHU_DATA = {
       "url": "https://www.thepaper.cn/newsDetail_forward_33193042",
       "source": "澎湃新闻",
       "time": "5月17日",
-      "tag": "media"
-    },
-    {
-      "title": "唐卡串联沪藏文脉,研学厚植民族情谊:日喀则唐卡传承人沪上研学绘...",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33495184",
-      "source": "澎湃新闻",
-      "time": "7月1日",
       "tag": "media"
     },
     {
@@ -205,10 +198,10 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "潮涌祥符终入海,科创筑梦正当时 ——浙江财经大学法学院赴嘉善...",
-      "url": "https://cn.chinadaily.com.cn/a/202607/20/WS6a5dcae6a310d709c2fbe7b9.html",
+      "title": "...第十五届环球自然日全国总决选宜昌、上海双线启幕,圆满收官",
+      "url": "https://cn.chinadaily.com.cn/a/202608/11/WS6a7ae25da310d709c2fc2b0e.html",
       "source": "中国日报网",
-      "time": "7月20日",
+      "time": "8月11日",
       "tag": "media"
     }
   ]
