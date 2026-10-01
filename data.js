@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-10-01 06:53",
+  "update_time": "2026-10-01 09:54",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -86,13 +86,6 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "文商旅体展农怎么“融”?这场专场活动在奉贤庄行给出新答案",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32844987",
-      "source": "澎湃新闻",
-      "time": "3月27日",
-      "tag": "media"
-    },
-    {
       "title": "新翼说|【宝山监狱×上海大学文学院】大墙里的“疗愈读写课”,为...",
       "url": "https://www.thepaper.cn/newsDetail_forward_32957137",
       "source": "澎湃新闻",
@@ -132,6 +125,13 @@ window.SHU_DATA = {
       "url": "http://www.thepaper.cn/newsDetail_forward_157244",
       "source": "澎湃新闻",
       "time": "",
+      "tag": "media"
+    },
+    {
+      "title": "上海大学再次亮相世界设计之都大会",
+      "url": "https://baijiahao.baidu.com/s?id=1877666613335881497&wfr=spider&for=pc",
+      "source": "新浪财经",
+      "time": "前天19:47",
       "tag": "media"
     },
     {
@@ -188,13 +188,6 @@ window.SHU_DATA = {
       "url": "http://www.xinhuanet.com/ci/20260712/f691c814e76c4f6ea820fd84fc271fb4/c.html",
       "source": "新华网",
       "time": "7月12日",
-      "tag": "media"
-    },
-    {
-      "title": "名校同款,海尔清凉护航开学|海尔商用空调护航教育行业智慧迎新",
-      "url": "https://caijing.chinadaily.com.cn/a/202607/17/WS6a59f2fca310d709c2fbe2cd.html",
-      "source": "中国日报网",
-      "time": "7月17日",
       "tag": "media"
     },
     {
