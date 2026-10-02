@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-10-02 23:33",
+  "update_time": "2026-10-03 04:30",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -125,13 +125,6 @@ window.SHU_DATA = {
       "url": "http://www.thepaper.cn/newsDetail_forward_157244",
       "source": "澎湃新闻",
       "time": "",
-      "tag": "media"
-    },
-    {
-      "title": "朝花七十周年文学周:国庆两场文史讲座,静候赴约",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34180716",
-      "source": "澎湃新闻",
-      "time": "前天18:46",
       "tag": "media"
     },
     {
