@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-10-05 01:21",
+  "update_time": "2026-10-05 05:03",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -90,13 +90,6 @@ window.SHU_DATA = {
       "url": "https://www.thepaper.cn/newsDetail_forward_33187578",
       "source": "澎湃新闻",
       "time": "5月15日",
-      "tag": "media"
-    },
-    {
-      "title": "智绘静安,高清未来!上海大学AI短剧创作大赛启动,“AI高清视界”产...",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32857365",
-      "source": "澎湃新闻",
-      "time": "3月28日",
       "tag": "media"
     },
     {
