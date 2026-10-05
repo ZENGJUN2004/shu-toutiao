@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-10-05 05:03",
+  "update_time": "2026-10-05 08:34",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -93,6 +93,13 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
+      "title": "智绘静安,高清未来!上海大学AI短剧创作大赛启动,“AI高清视界”产...",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32857365",
+      "source": "澎湃新闻",
+      "time": "3月28日",
+      "tag": "media"
+    },
+    {
       "title": "新翼说|【宝山监狱×上海大学文学院】大墙里的“疗愈读写课”,为...",
       "url": "https://www.thepaper.cn/newsDetail_forward_32957137",
       "source": "澎湃新闻",
@@ -132,13 +139,6 @@ window.SHU_DATA = {
       "url": "http://www.thepaper.cn/newsDetail_forward_157244",
       "source": "澎湃新闻",
       "time": "",
-      "tag": "media"
-    },
-    {
-      "title": "浙江嘉善创新“六方联动”机制,打造教科人一体化发展县域样板",
-      "url": "https://zj.chinadaily.com.cn/a/202606/01/WS6a1d183ba310942cc49af456.html",
-      "source": "中国日报网",
-      "time": "6月1日",
       "tag": "media"
     },
     {
@@ -188,6 +188,13 @@ window.SHU_DATA = {
       "url": "http://www.xinhuanet.com/ci/20260712/f691c814e76c4f6ea820fd84fc271fb4/c.html",
       "source": "新华网",
       "time": "7月12日",
+      "tag": "media"
+    },
+    {
+      "title": "潮涌祥符终入海,科创筑梦正当时 ——浙江财经大学法学院赴嘉善...",
+      "url": "https://cn.chinadaily.com.cn/a/202607/20/WS6a5dcae6a310d709c2fbe7b9.html",
+      "source": "中国日报网",
+      "time": "7月20日",
       "tag": "media"
     },
     {
