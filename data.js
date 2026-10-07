@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-10-07 16:20",
+  "update_time": "2026-10-08 00:11",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -123,7 +123,7 @@ window.SHU_DATA = {
     {
       "title": "上海大学通报:第一时间成立调查组,启动调查程序",
       "url": "https://baijiahao.baidu.com/s?id=1864988780176613675&wfr=spider&for=pc",
-      "source": "新浪财经",
+      "source": "百家号",
       "time": "5月12日",
       "tag": "media"
     },
@@ -172,7 +172,7 @@ window.SHU_DATA = {
     {
       "title": "「我与光明日报」钱伟长:忠于人民的根本利益",
       "url": "https://baijiahao.baidu.com/s?id=1868092540337102712&wfr=spider&for=pc",
-      "source": "光明网",
+      "source": "百家号",
       "time": "6月16日",
       "tag": "media"
     },
