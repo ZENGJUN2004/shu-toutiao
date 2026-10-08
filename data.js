@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-10-08 09:37",
+  "update_time": "2026-10-08 16:36",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "于雪梅副校长应邀出席2026亚洲大学数字化大会并作交流发言",
-      "url": "https://news.shu.edu.cn/info/1012/183455.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "中国民主同盟上海大学第八次代表大会召开",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "于雪梅副校长一行赴中微公司调研交流",
       "url": "https://news.shu.edu.cn/info/1012/183585.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "深化校企战略协同 赋能核能科技自立自强——上海大学与国家电投集团开展合作交流座谈",
+      "url": "https://news.shu.edu.cn/info/1012/183615.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
@@ -142,13 +142,6 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "浙江嘉善创新“六方联动”机制,打造教科人一体化发展县域样板",
-      "url": "https://zj.chinadaily.com.cn/a/202606/01/WS6a1d183ba310942cc49af456.html",
-      "source": "中国日报网",
-      "time": "6月1日",
-      "tag": "media"
-    },
-    {
       "title": "面向人人的科学教育——2026年\"全国科技活动周\"虹口区系列活动...",
       "url": "https://caijing.chinadaily.com.cn/a/202606/01/WS6a1d2e45a310942cc49af519.html",
       "source": "中国日报网",
@@ -202,6 +195,13 @@ window.SHU_DATA = {
       "url": "https://caijing.chinadaily.com.cn/a/202607/17/WS6a59f2fca310d709c2fbe2cd.html",
       "source": "中国日报网",
       "time": "7月17日",
+      "tag": "media"
+    },
+    {
+      "title": "潮涌祥符终入海,科创筑梦正当时 ——浙江财经大学法学院赴嘉善...",
+      "url": "https://cn.chinadaily.com.cn/a/202607/20/WS6a5dcae6a310d709c2fbe7b9.html",
+      "source": "中国日报网",
+      "time": "7月20日",
       "tag": "media"
     },
     {
