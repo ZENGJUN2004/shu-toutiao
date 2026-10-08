@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-10-08 16:36",
+  "update_time": "2026-10-09 00:12",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -142,6 +142,20 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
+      "title": "探索未来人才培养新路径,上海大学科学与艺术实训中心投入使用",
+      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1185162",
+      "source": "上观",
+      "time": "9月28日",
+      "tag": "media"
+    },
+    {
+      "title": "浙江嘉善创新“六方联动”机制,打造教科人一体化发展县域样板",
+      "url": "https://zj.chinadaily.com.cn/a/202606/01/WS6a1d183ba310942cc49af456.html",
+      "source": "中国日报网",
+      "time": "6月1日",
+      "tag": "media"
+    },
+    {
       "title": "面向人人的科学教育——2026年\"全国科技活动周\"虹口区系列活动...",
       "url": "https://caijing.chinadaily.com.cn/a/202606/01/WS6a1d2e45a310942cc49af519.html",
       "source": "中国日报网",
@@ -195,13 +209,6 @@ window.SHU_DATA = {
       "url": "https://caijing.chinadaily.com.cn/a/202607/17/WS6a59f2fca310d709c2fbe2cd.html",
       "source": "中国日报网",
       "time": "7月17日",
-      "tag": "media"
-    },
-    {
-      "title": "潮涌祥符终入海,科创筑梦正当时 ——浙江财经大学法学院赴嘉善...",
-      "url": "https://cn.chinadaily.com.cn/a/202607/20/WS6a5dcae6a310d709c2fbe7b9.html",
-      "source": "中国日报网",
-      "time": "7月20日",
       "tag": "media"
     },
     {
