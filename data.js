@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-10-09 23:57",
+  "update_time": "2026-10-10 04:45",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -153,6 +153,13 @@ window.SHU_DATA = {
       "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1185162",
       "source": "上观",
       "time": "9月28日",
+      "tag": "media"
+    },
+    {
+      "title": "上海大学再次亮相世界设计之都大会",
+      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1186546",
+      "source": "上观",
+      "time": "9月29日",
       "tag": "media"
     },
     {
