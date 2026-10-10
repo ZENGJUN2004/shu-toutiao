@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-10-10 14:49",
+  "update_time": "2026-10-10 21:25",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -16,43 +16,43 @@ window.SHU_DATA = {
       "tag": "forum"
     },
     {
-      "title": "中国民主同盟上海大学第八次代表大会召开",
-      "url": "https://news.shu.edu.cn/info/1012/183515.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海温哥华电影学院教学案例入选联合国教科文组织",
-      "url": "https://news.shu.edu.cn/info/1012/183545.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海大学召开2026年“敬老月”活动协调会",
-      "url": "https://news.shu.edu.cn/info/1012/183505.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "富春江畔学界业界共聚  研学旅游探索高质量发展新程",
-      "url": "https://news.shu.edu.cn/info/1012/183605.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "于雪梅副校长一行赴中微公司调研交流",
-      "url": "https://news.shu.edu.cn/info/1012/183585.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
       "title": "深化校企战略协同 赋能核能科技自立自强——上海大学与国家电投集团开展合作交流座谈",
       "url": "https://news.shu.edu.cn/info/1012/183615.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "月满华诞聚侨心 薪火相传话新程——上海大学侨联2026年中秋国庆座谈会侧记",
+      "url": "https://news.shu.edu.cn/info/1012/183715.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "筑牢节前安全防线 守护平安祥和校园——我校开展校园安全专项检查",
+      "url": "https://news.shu.edu.cn/info/1012/183725.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学-法国让穆兰里昂第三大学社会学专业硕士项目第九期毕业典礼在法国里昂举行",
+      "url": "https://news.shu.edu.cn/info/1012/183745.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "清华大学仲伟民教授做客期刊社“奋楫论坛”",
+      "url": "https://news.shu.edu.cn/info/1012/183755.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "“初心印迹”第四课回望五卅风云，赓续红色基因",
+      "url": "https://news.shu.edu.cn/info/1012/183765.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
