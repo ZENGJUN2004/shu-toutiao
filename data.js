@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-10-11 09:40",
+  "update_time": "2026-10-11 16:30",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -163,6 +163,13 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
+      "title": "浙江嘉善创新“六方联动”机制,打造教科人一体化发展县域样板",
+      "url": "https://zj.chinadaily.com.cn/a/202606/01/WS6a1d183ba310942cc49af456.html",
+      "source": "中国日报网",
+      "time": "6月1日",
+      "tag": "media"
+    },
+    {
       "title": "面向人人的科学教育——2026年\"全国科技活动周\"虹口区系列活动...",
       "url": "https://caijing.chinadaily.com.cn/a/202606/01/WS6a1d2e45a310942cc49af519.html",
       "source": "中国日报网",
@@ -174,13 +181,6 @@ window.SHU_DATA = {
       "url": "http://csj.xinhuanet.com/20260601/406ed987aebd477785b827fae47b03dc/c.html",
       "source": "新华网",
       "time": "6月1日",
-      "tag": "media"
-    },
-    {
-      "title": "第六届“闽乐芳华杯”民族器乐大赛颁奖音乐会在厦门落幕",
-      "url": "https://cnews.chinadaily.com.cn/a/202606/10/WS6a290bfca310942cc49b1025.html",
-      "source": "中国日报网",
-      "time": "6月10日",
       "tag": "media"
     },
     {
@@ -212,17 +212,17 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
+      "title": "镜头定格临海新韵上海大学智能视听系千年府城采风",
+      "url": "http://sh.people.com.cn/n2/2026/0713/c134768-41637565.html",
+      "source": "人民网",
+      "time": "7月13日",
+      "tag": "media"
+    },
+    {
       "title": "名校同款,海尔清凉护航开学|海尔商用空调护航教育行业智慧迎新",
       "url": "https://caijing.chinadaily.com.cn/a/202607/17/WS6a59f2fca310d709c2fbe2cd.html",
       "source": "中国日报网",
       "time": "7月17日",
-      "tag": "media"
-    },
-    {
-      "title": "潮涌祥符终入海,科创筑梦正当时 ——浙江财经大学法学院赴嘉善...",
-      "url": "https://cn.chinadaily.com.cn/a/202607/20/WS6a5dcae6a310d709c2fbe7b9.html",
-      "source": "中国日报网",
-      "time": "7月20日",
       "tag": "media"
     },
     {
