@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-10-11 06:19",
+  "update_time": "2026-10-11 09:40",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -93,6 +93,13 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
+      "title": "历史上的今天|1922年3月18日,上海大学成立",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32773330",
+      "source": "澎湃新闻",
+      "time": "3月18日",
+      "tag": "media"
+    },
+    {
       "title": "上海大学国家大学科技园与永兴汇园区共筑静安科创“生态圈”",
       "url": "https://www.thepaper.cn/newsDetail_forward_32806785",
       "source": "澎湃新闻",
@@ -146,13 +153,6 @@ window.SHU_DATA = {
       "url": "http://www.thepaper.cn/newsDetail_forward_157244",
       "source": "澎湃新闻",
       "time": "",
-      "tag": "media"
-    },
-    {
-      "title": "探索未来人才培养新路径,上海大学科学与艺术实训中心投入使用",
-      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1185162",
-      "source": "上观",
-      "time": "9月28日",
       "tag": "media"
     },
     {
