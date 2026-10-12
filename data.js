@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-10-12 15:05",
+  "update_time": "2026-10-13 01:34",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "月满华诞聚侨心 薪火相传话新程——上海大学侨联2026年中秋国庆座谈会侧记",
-      "url": "https://news.shu.edu.cn/info/1012/183715.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "筑牢节前安全防线 守护平安祥和校园——我校开展校园安全专项检查",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "弘扬教育家精神 立德树人铸师魂——环化学院开展2027年师德师风月系列活动",
       "url": "https://news.shu.edu.cn/info/1012/183805.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "上海大学水下考古团队应邀赴希腊开展水下考古调研与合作交流",
+      "url": "https://news.shu.edu.cn/info/1012/183825.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
