@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-10-12 08:19",
+  "update_time": "2026-10-12 15:05",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "深化校企战略协同 赋能核能科技自立自强——上海大学与国家电投集团开展合作交流座谈",
-      "url": "https://news.shu.edu.cn/info/1012/183615.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "月满华诞聚侨心 薪火相传话新程——上海大学侨联2026年中秋国庆座谈会侧记",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "“初心印迹”第四课回望五卅风云，赓续红色基因",
       "url": "https://news.shu.edu.cn/info/1012/183765.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "弘扬教育家精神 立德树人铸师魂——环化学院开展2027年师德师风月系列活动",
+      "url": "https://news.shu.edu.cn/info/1012/183805.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
