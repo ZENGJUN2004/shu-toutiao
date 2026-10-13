@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-10-13 15:30",
+  "update_time": "2026-10-13 23:43",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -212,17 +212,17 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "镜头定格临海新韵上海大学智能视听系千年府城采风",
-      "url": "http://sh.people.com.cn/n2/2026/0713/c134768-41637565.html",
+      "title": "行走长三角上海大学新闻传播学院学子以新闻采风实践磨砺“四力...",
+      "url": "http://sh.people.com.cn/n2/2026/0713/c134768-41637574.html",
       "source": "人民网",
       "time": "7月13日",
       "tag": "media"
     },
     {
-      "title": "名校同款,海尔清凉护航开学|海尔商用空调护航教育行业智慧迎新",
-      "url": "https://caijing.chinadaily.com.cn/a/202607/17/WS6a59f2fca310d709c2fbe2cd.html",
+      "title": "潮涌祥符终入海,科创筑梦正当时 ——浙江财经大学法学院赴嘉善...",
+      "url": "https://cn.chinadaily.com.cn/a/202607/20/WS6a5dcae6a310d709c2fbe7b9.html",
       "source": "中国日报网",
-      "time": "7月17日",
+      "time": "7月20日",
       "tag": "media"
     },
     {
