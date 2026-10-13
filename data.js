@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-10-13 01:34",
+  "update_time": "2026-10-13 08:21",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -93,6 +93,13 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
+      "title": "档案为桥,感知上海:上海大学留学生在档案馆里读懂城市发展",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32562310",
+      "source": "澎湃新闻",
+      "time": "2月12日",
+      "tag": "media"
+    },
+    {
       "title": "历史上的今天|1922年3月18日,上海大学成立",
       "url": "https://www.thepaper.cn/newsDetail_forward_32773330",
       "source": "澎湃新闻",
@@ -125,13 +132,6 @@ window.SHU_DATA = {
       "url": "https://www.thepaper.cn/newsDetail_forward_33026584",
       "source": "澎湃新闻",
       "time": "4月21日",
-      "tag": "media"
-    },
-    {
-      "title": "李思远|致力于刑事诉讼前沿问题研究",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33108132",
-      "source": "澎湃新闻",
-      "time": "5月7日",
       "tag": "media"
     },
     {
