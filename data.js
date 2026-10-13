@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-10-13 08:21",
+  "update_time": "2026-10-13 15:30",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,27 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "筑牢节前安全防线 守护平安祥和校园——我校开展校园安全专项检查",
-      "url": "https://news.shu.edu.cn/info/1012/183725.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "上海大学-法国让穆兰里昂第三大学社会学专业硕士项目第九期毕业典礼在法国里昂举行",
-      "url": "https://news.shu.edu.cn/info/1012/183745.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
-    },
-    {
-      "title": "清华大学仲伟民教授做客期刊社“奋楫论坛”",
-      "url": "https://news.shu.edu.cn/info/1012/183755.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "“初心印迹”第四课回望五卅风云，赓续红色基因",
@@ -53,6 +32,27 @@ window.SHU_DATA = {
     {
       "title": "上海大学水下考古团队应邀赴希腊开展水下考古调研与合作交流",
       "url": "https://news.shu.edu.cn/info/1012/183825.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "钱伟长讲坛第103讲《汽车芯片自主可控之路》顺利开讲",
+      "url": "https://news.shu.edu.cn/info/1012/183845.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "立德树人守初心 师德师风铸师魂——新闻传播学院举办师德师风建设专题宣讲会",
+      "url": "https://news.shu.edu.cn/info/1012/183855.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "新闻传播学院召开2026年第三次全体教师大会",
+      "url": "https://news.shu.edu.cn/info/1012/183865.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
