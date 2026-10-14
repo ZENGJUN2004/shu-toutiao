@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-10-14 14:01",
+  "update_time": "2026-10-14 20:43",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -14,13 +14,6 @@ window.SHU_DATA = {
       "url": "https://s.weibo.com/weibo?q=上海大学&xsort=hot",
       "time": "实时",
       "tag": "forum"
-    },
-    {
-      "title": "“初心印迹”第四课回望五卅风云，赓续红色基因",
-      "url": "https://news.shu.edu.cn/info/1012/183765.htm",
-      "source": "上大官网",
-      "time": "校内",
-      "tag": "official"
     },
     {
       "title": "弘扬教育家精神 立德树人铸师魂——环化学院开展2027年师德师风月系列活动",
@@ -53,6 +46,13 @@ window.SHU_DATA = {
     {
       "title": "新闻传播学院召开2026年第三次全体教师大会",
       "url": "https://news.shu.edu.cn/info/1012/183865.htm",
+      "source": "上大官网",
+      "time": "校内",
+      "tag": "official"
+    },
+    {
+      "title": "民进上海大学委员会参观“水墨的力量”美术作品展",
+      "url": "https://news.shu.edu.cn/info/1012/183875.htm",
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
