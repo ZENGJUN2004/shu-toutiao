@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-10-15 19:05",
+  "update_time": "2026-10-16 00:36",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -58,38 +58,10 @@ window.SHU_DATA = {
       "tag": "official"
     },
     {
-      "title": "上海艺指委2025年度工作会议在上海大学举行—新闻—科学网",
-      "url": "https://news.sciencenet.cn/htmlnews/2026/1/558564.shtm",
-      "source": "科学网",
-      "time": "1月12日",
-      "tag": "media"
-    },
-    {
-      "title": "首届重庆市人工智能赋能科学研究大会举行",
-      "url": "https://www.stdaily.com/web/gdxw/2026-01/17/content_463054.html",
-      "source": "中国科技网",
-      "time": "1月17日",
-      "tag": "media"
-    },
-    {
-      "title": "探索“科学家群体办刊”新模式 首批高质量学术期刊在沪创刊",
-      "url": "https://www.stdaily.com/web/gdxw/2026-04/04/content_497889.html",
-      "source": "中国科技网",
-      "time": "4月4日",
-      "tag": "media"
-    },
-    {
-      "title": "【中国科学报】永怀爱国之心 ——纪念“两弹一星”元勋郭永怀",
-      "url": "https://news.ustc.edu.cn/info/1056/74957.htm",
-      "source": "中国科学技术大学中国科大新闻网",
-      "time": "",
-      "tag": "media"
-    },
-    {
-      "title": "...协同治理破解转化难题,加快人工智能药物设计丨媒体聚焦-科技日报",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33187578",
-      "source": "澎湃新闻",
-      "time": "5月15日",
+      "title": "上海大学悉尼工商学院SHU-UTS硕士项目举办国际创新大赛参赛项目...",
+      "url": "https://cn.chinadaily.com.cn/a/202605/26/WS6a155959a310942cc49ae644.html",
+      "source": "中国日报网",
+      "time": "5月26日",
       "tag": "media"
     },
     {
@@ -139,13 +111,6 @@ window.SHU_DATA = {
       "url": "http://www.xinhuanet.com/ci/20260712/f691c814e76c4f6ea820fd84fc271fb4/c.html",
       "source": "新华网",
       "time": "7月12日",
-      "tag": "media"
-    },
-    {
-      "title": "行走长三角上海大学新闻传播学院学子以新闻采风实践磨砺“四力...",
-      "url": "http://sh.people.com.cn/n2/2026/0713/c134768-41637574.html",
-      "source": "人民网",
-      "time": "7月13日",
       "tag": "media"
     },
     {
