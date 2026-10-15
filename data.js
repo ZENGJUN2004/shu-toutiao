@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-10-16 04:12",
+  "update_time": "2026-10-16 07:35",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -93,6 +93,13 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
+      "title": "上大,太有实力了!_澎湃号·湃客_澎湃新闻-The Paper",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32410517",
+      "source": "澎湃新闻",
+      "time": "1月20日",
+      "tag": "media"
+    },
+    {
       "title": "档案为桥,感知上海:上海大学留学生在档案馆里读懂城市发展",
       "url": "https://www.thepaper.cn/newsDetail_forward_32562310",
       "source": "澎湃新闻",
@@ -121,10 +128,10 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "【校园风】筑强科创底座,点亮未来之光 |上海首家“AI科创学习...",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33131028",
+      "title": "李思远|致力于刑事诉讼前沿问题研究",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33108132",
       "source": "澎湃新闻",
-      "time": "5月8日",
+      "time": "5月7日",
       "tag": "media"
     },
     {
@@ -142,14 +149,7 @@ window.SHU_DATA = {
       "tag": "media"
     },
     {
-      "title": "唐卡串联沪藏文脉,研学厚植民族情谊:日喀则唐卡传承人沪上研学绘...",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33495184",
-      "source": "澎湃新闻",
-      "time": "7月1日",
-      "tag": "media"
-    },
-    {
-      "title": "澎湃新闻 |大学生在基层——“四力”实践活动作品选登",
+      "title": "澎湃新闻 | 大学生在基层——“四力”实践活动作品选登",
       "url": "http://www.thepaper.cn/newsDetail_forward_157244",
       "source": "澎湃新闻",
       "time": "",
@@ -160,6 +160,76 @@ window.SHU_DATA = {
       "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1186546&sid=67",
       "source": "上观",
       "time": "9月29日",
+      "tag": "media"
+    },
+    {
+      "title": "上海大学悉尼工商学院SHU-UTS硕士项目举办国际创新大赛参赛项目...",
+      "url": "https://cn.chinadaily.com.cn/a/202605/26/WS6a155959a310942cc49ae644.html",
+      "source": "中国日报网",
+      "time": "5月26日",
+      "tag": "media"
+    },
+    {
+      "title": "浙江嘉善创新“六方联动”机制,打造教科人一体化发展县域样板",
+      "url": "https://zj.chinadaily.com.cn/a/202606/01/WS6a1d183ba310942cc49af456.html",
+      "source": "中国日报网",
+      "time": "6月1日",
+      "tag": "media"
+    },
+    {
+      "title": "面向人人的科学教育——2026年\"全国科技活动周\"虹口区系列活动...",
+      "url": "https://caijing.chinadaily.com.cn/a/202606/01/WS6a1d2e45a310942cc49af519.html",
+      "source": "中国日报网",
+      "time": "6月1日",
+      "tag": "media"
+    },
+    {
+      "title": "浙江嘉善创新探索“六方联动”机制 推动产学研用深度融合",
+      "url": "http://csj.xinhuanet.com/20260601/406ed987aebd477785b827fae47b03dc/c.html",
+      "source": "新华网",
+      "time": "6月1日",
+      "tag": "media"
+    },
+    {
+      "title": "联合国青年办公室青年心理健康与幸福感计划启动在沪举行",
+      "url": "https://cn.chinadaily.com.cn/a/202606/15/WS6a2f9c0da310d709c2fb80f7.html",
+      "source": "中国日报网",
+      "time": "6月15日",
+      "tag": "media"
+    },
+    {
+      "title": "「我与光明日报」钱伟长:忠于人民的根本利益",
+      "url": "https://baijiahao.baidu.com/s?id=1868092540337102712&wfr=spider&for=pc",
+      "source": "光明网",
+      "time": "6月16日",
+      "tag": "media"
+    },
+    {
+      "title": "沪万教育协作再升级!首个沪万同步AI科创实验室正式启用",
+      "url": "https://caijing.chinadaily.com.cn/a/202606/25/WS6a3cdf71a310d709c2fba1b8.html",
+      "source": "中国日报网",
+      "time": "6月25日",
+      "tag": "media"
+    },
+    {
+      "title": "“第三届博物馆传播学术工作坊”在中国传媒大学举办",
+      "url": "http://www.xinhuanet.com/ci/20260712/f691c814e76c4f6ea820fd84fc271fb4/c.html",
+      "source": "新华网",
+      "time": "7月12日",
+      "tag": "media"
+    },
+    {
+      "title": "潮涌祥符终入海,科创筑梦正当时 ——浙江财经大学法学院赴嘉善...",
+      "url": "https://cn.chinadaily.com.cn/a/202607/20/WS6a5dcae6a310d709c2fbe7b9.html",
+      "source": "中国日报网",
+      "time": "7月20日",
+      "tag": "media"
+    },
+    {
+      "title": "...第十五届环球自然日全国总决选宜昌、上海双线启幕,圆满收官",
+      "url": "https://cn.chinadaily.com.cn/a/202608/11/WS6a7ae25da310d709c2fc2b0e.html",
+      "source": "中国日报网",
+      "time": "8月11日",
       "tag": "media"
     }
   ]
