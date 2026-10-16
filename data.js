@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-10-17 04:43",
+  "update_time": "2026-10-17 07:20",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -56,41 +56,6 @@ window.SHU_DATA = {
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
-    },
-    {
-      "title": "上海艺指委2025年度工作会议在上海大学举行—新闻—科学网",
-      "url": "https://news.sciencenet.cn/htmlnews/2026/1/558564.shtm",
-      "source": "科学网",
-      "time": "1月12日",
-      "tag": "media"
-    },
-    {
-      "title": "首届重庆市人工智能赋能科学研究大会举行",
-      "url": "https://www.stdaily.com/web/gdxw/2026-01/17/content_463054.html",
-      "source": "中国科技网",
-      "time": "1月17日",
-      "tag": "media"
-    },
-    {
-      "title": "探索“科学家群体办刊”新模式 首批高质量学术期刊在沪创刊",
-      "url": "https://www.stdaily.com/web/gdxw/2026-04/04/content_497889.html",
-      "source": "中国科技网",
-      "time": "4月4日",
-      "tag": "media"
-    },
-    {
-      "title": "【中国科学报】永怀爱国之心 ——纪念“两弹一星”元勋郭永怀",
-      "url": "https://news.ustc.edu.cn/info/1056/74957.htm",
-      "source": "中国科学技术大学中国科大新闻网",
-      "time": "",
-      "tag": "media"
-    },
-    {
-      "title": "...协同治理破解转化难题,加快人工智能药物设计丨媒体聚焦-科技日报",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33187578",
-      "source": "澎湃新闻",
-      "time": "5月15日",
-      "tag": "media"
     }
   ]
 };
