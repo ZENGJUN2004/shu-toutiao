@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-10-16 11:51",
+  "update_time": "2026-10-16 16:52",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -56,6 +56,13 @@ window.SHU_DATA = {
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
+    },
+    {
+      "title": "吴明红_澎湃新闻-The Paper",
+      "url": "https://www.thepaper.cn/tag/5900796",
+      "source": "澎湃新闻",
+      "time": "",
+      "tag": "media"
     },
     {
       "title": "上大,太有实力了!_澎湃号·湃客_澎湃新闻-The Paper",
@@ -118,13 +125,6 @@ window.SHU_DATA = {
       "url": "http://www.thepaper.cn/newsDetail_forward_157244",
       "source": "澎湃新闻",
       "time": "",
-      "tag": "media"
-    },
-    {
-      "title": "上海大学再次亮相世界设计之都大会",
-      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1186546&sid=67",
-      "source": "上观",
-      "time": "9月29日",
       "tag": "media"
     }
   ]
