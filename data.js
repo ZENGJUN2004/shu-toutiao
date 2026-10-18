@@ -1,5 +1,5 @@
 window.SHU_DATA = {
-  "update_time": "2026-10-18 08:43",
+  "update_time": "2026-10-18 13:33",
   "news": [
     {
       "title": "👉【B站】上海大学官方视频动态 (按发布排序)",
@@ -56,6 +56,76 @@ window.SHU_DATA = {
       "source": "上大官网",
       "time": "校内",
       "tag": "official"
+    },
+    {
+      "title": "档案为桥,感知上海:上海大学留学生在档案馆里读懂城市发展",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32562310",
+      "source": "澎湃新闻",
+      "time": "2月12日",
+      "tag": "media"
+    },
+    {
+      "title": "历史上的今天|1922年3月18日,上海大学成立",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32773330",
+      "source": "澎湃新闻",
+      "time": "3月18日",
+      "tag": "media"
+    },
+    {
+      "title": "上海大学国家大学科技园与永兴汇园区共筑静安科创“生态圈”",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32806785",
+      "source": "澎湃新闻",
+      "time": "3月21日",
+      "tag": "media"
+    },
+    {
+      "title": "以青春之名,赴樱花之约!上海大学志愿者为2026上海樱花节注入温暖...",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32814875",
+      "source": "澎湃新闻",
+      "time": "3月23日",
+      "tag": "media"
+    },
+    {
+      "title": "新翼说|【宝山监狱×上海大学文学院】大墙里的“疗愈读写课”,为...",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32957137",
+      "source": "澎湃新闻",
+      "time": "4月12日",
+      "tag": "media"
+    },
+    {
+      "title": "2026金鸡艺术电影展在上海举行",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33026584",
+      "source": "澎湃新闻",
+      "time": "4月21日",
+      "tag": "media"
+    },
+    {
+      "title": "李思远|致力于刑事诉讼前沿问题研究",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33108132",
+      "source": "澎湃新闻",
+      "time": "5月7日",
+      "tag": "media"
+    },
+    {
+      "title": "上海大学通报:第一时间成立调查组,启动调查程序",
+      "url": "https://baijiahao.baidu.com/s?id=1864988780176613675&wfr=spider&for=pc",
+      "source": "新浪财经",
+      "time": "5月12日",
+      "tag": "media"
+    },
+    {
+      "title": "上海大学国际文化节燃动五洲风情,60年3万留学生见证文化交融",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33193042",
+      "source": "澎湃新闻",
+      "time": "5月17日",
+      "tag": "media"
+    },
+    {
+      "title": "澎湃新闻 |大学生在基层——“四力”实践活动作品选登",
+      "url": "http://www.thepaper.cn/newsDetail_forward_157244",
+      "source": "澎湃新闻",
+      "time": "",
+      "tag": "media"
     },
     {
       "title": "上海大学悉尼工商学院SHU-UTS硕士项目举办国际创新大赛参赛项目...",
